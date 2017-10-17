@@ -3,7 +3,13 @@
 <div class="first_section_wrapper">
 	<div class="first_section_content content_container">
 		<div class="first_section_slogan_wrapper">
-			<img class="first_section_slogan" src="img/utp_slogan.png" alt="Mercatus - trust management of digital assets." title="">
+			<div class="first_section_title">
+				<div class="first_section_title_text" data-text='trust managment
+of digital assets'>
+					trust managment<br>of digital assets  
+				</div>										
+			</div>
+
 		</div>
 		<div class="first_section_video_btn_wrapper">
 			<div class="first_section_video_btn video_btn_js">
@@ -22,7 +28,7 @@
 			</form>
 		</div>
 		<div class="first_section_text_wrapper">
-			<div class="first_section_text">THE FIRST TRUST MANAGEMENT PLATFORM FULLY BASED ON BLOCKCHAIN TECHNOLOGY</div>	
+			<div class="first_section_text">THE FIRST TRUST MANAGEMENT PLATFORM FULLY BUILT BLOCKCHAIN TECHNOLOGY</div>	
 		</div>
 		<div class="sections_arrow_wrapper">
 			<div class="section_arrow section_arrow_point"></div>
@@ -55,16 +61,17 @@
 				<div class="second_section_tabs_items">
 					<div class="second_section_tabs_item tab1 selected clearfix">
 						<div class="second_section_tab_left_col">
-							<div class="platform_text_title">platform for investors</div>
+							<div class="platform_text_title">a platform for investors</div>
 							<a class="platform_img_a" href="/platform_components/#investors">
 								<img class="platform_img" src="img/platform_img_small1.png" alt="Mercatus platform for investors" title="">
 							</a>
-							<div class="platform_text">Investor can choose a best trader and sign a contract.</div>
+							<div class="platform_text">An investor is able to select the best trader and sign a smart-contract with him.</div>
 							<ul class="platform_ul">
 								<li class="platform_li platform_li4"><div class="platform_li_text">Add API key of any exchange</div></li>
-								<li class="platform_li platform_li5"><div class="platform_li_text">Send a request with time of freeze and allowed pairs for trading to trader </div></li>
-								<li class="platform_li platform_li6"><div class="platform_li_text">Send ETH/tokens on address of the smart contract</div></li>
-								<li class="platform_li platform_li7"><div class="platform_li_text platform_li_text_color">Get profit directly into your account of the exchange.</div></li>
+								<li class="platform_li platform_li5"><div class="platform_li_text">Send a request to the selected trader with defined settings and chosen pairs for trading</div></li>
+								<li class="platform_li platform_li6"><div class="platform_li_text">Send MCS tokens to the address of the smart contract (trader’s fee)</div></li>
+								<li class="platform_li platform_li6"><div class="platform_li_text">Sign a smart-contract to allow trader’s acess for trading</div></li>								
+								<li class="platform_li platform_li7"><div class="platform_li_text platform_li_text_color">Credit profit directly into your exchange account.</div></li>
 							</ul>
 						</div>
 						<div class="second_section_tab_right_col">
@@ -75,16 +82,18 @@
 					</div>
 					<div class="second_section_tabs_item tab2 clearfix">
 						<div class="second_section_tab_left_col">
-							<div class="platform_text_title">platform for traders</div>
+							<div class="platform_text_title">A PLATFORM FOR TRADERS</div>
 							<a class="platform_img_a" href="/platform_components/#traders">
 								<img class="platform_img" src="img/platform_img_small2.png" alt="Mercatus platform for traders" title="">
 							</a>
-							<div class="platform_text">Trader can receive money for trust management.</div>
+							<div class="platform_text">A trader is able to receive money for trust management.</div>
 							<ul class="platform_ul">
-								<li class="platform_li platform_li1"><div class="platform_li_text">Start trade on Mercatus</div></li>
-								<li class="platform_li platform_li2"><div class="platform_li_text">Achieve top place in rank</div></li>
-								<li class="platform_li platform_li3"><div class="platform_li_text">Accept a request from investor</div></li>
-								<li class="platform_li platform_li8"><div class="platform_li_text platform_li_text_color">Your profit is guaranteed by the smart contract. You will get profit directly on your ETH wallet.</div></li>
+								<li class="platform_li platform_li1"><div class="platform_li_text">Start trading through Mercatus trading platform</div></li>
+								<li class="platform_li platform_li2"><div class="platform_li_text">Set your specific setting for trust management</div></li>
+								<li class="platform_li platform_li3"><div class="platform_li_text">Achieve top spot in trader’s rating</div></li>
+								<li class="platform_li platform_li3"><div class="platform_li_text">Accept a request from an investor and sign a smart-contract with him</div></li>
+								<li class="platform_li platform_li3"><div class="platform_li_text">Receive an access for trading through API key</div></li>								
+								<li class="platform_li platform_li8"><div class="platform_li_text platform_li_text_color">Your profit is guaranteed with smart contract. You will receive profit directly in your ETH wallet.</div></li>
 							</ul>
 						</div>
 						<div class="second_section_tab_right_col">
@@ -95,14 +104,16 @@
 					</div>
 					<div class="second_section_tabs_item tab3 clearfix">
 						<div class="second_section_tab_left_col">
-							<div class="platform_text_title">platform for funds</div>
+							<div class="platform_text_title">FOR FUNDS</div>
 							<a class="platform_img_a" href="/platform_components/#funds">
 								<img class="platform_img" src="img/platform_img_small3.png" alt="Mercatus platform for funds" title="">
 							</a>
-							<div class="platform_text">Investors can join into investment funds or create it in few steps:</div>
+							<div class="platform_text">An investor or trader is able to join in and be part of a fund or create it in just few steps:</div>
 							<ul class="platform_ul">
-								<li class="platform_li platform_li9"><div class="platform_li_text">Create a fund and control it via multisig</div></li>
-								<li class="platform_li platform_li10"><div class="platform_li_text">Get your share as it recorded in smart contract of the fund</div></li>
+								<li class="platform_li platform_li9"><div class="platform_li_text">Create a trade or an investment fund and invite new members to join</div></li>
+								<li class="platform_li platform_li10"><div class="platform_li_text">Customise fund settings and user options</div></li>
+								<li class="platform_li platform_li10"><div class="platform_li_text">Perform corporate actions via multisig</div></li>
+								<li class="platform_li platform_li10"><div class="platform_li_text">Acquire your share as recorded in smart contract of the fund</div></li>
 							</ul>
 						</div>
 						<div class="second_section_tab_right_col">
@@ -154,17 +165,17 @@
 					<div class="right_animation_string right_animation_string1" data-hover="1">
 						<div class="right_animation_string_title right_animation_string_title1">API KEY of any exchange</div>
 						<div class="right_animation_string_line"></div>
-						<div class="right_animation_string_text">Any exchange with API trade support will be available for work in Mercatus</div>
+						<div class="right_animation_string_text">Any exchange with API trade support will be available for operation Mercatus platform.</div>
 					</div>
 					<div class="right_animation_string right_animation_string2" data-hover="2">
 						<div class="right_animation_string_title right_animation_string_title2">Smart oracles</div>
 						<div class="right_animation_string_line"></div>
-						<div class="right_animation_string_text">Oracles provide off-blockchain data for smart contracts. In our case all trade data go through Oracles</div>
+						<div class="right_animation_string_text">Oracles provide off-blockchain data for smart contracts. On Mercatus, all trade data go through Oracles</div>
 					</div>
 					<div class="right_animation_string right_animation_string3" data-hover="3">
 						<div class="right_animation_string_title right_animation_string_title3">Ethereum Smart Contracts</div>
 						<div class="right_animation_string_line"></div>
-						<div class="right_animation_string_text">All deals between trader and investor go via smart contracts. We never keep your money on our wallets.</div>
+						<div class="right_animation_string_text">All deals between a trader and an investor transact via smart contracts. We will never keep your money in our wallets.</div>
 					</div>
 				</div>
 			</div>
@@ -178,18 +189,19 @@
 			<h2 class="sections_title">How it works</h2>
 			<div class="sections_subtitle">
 				<div class="sections_subtitle_text">
-					Mercatus enables a straight connection between investor and traider and makes their relations profitable and secured for both sides.  It is provided by operating through smart contracts, which eliminate middlemen and counterparty risk, and makes the agreement a mandatory.
+					MERCATUS ENABLES A STRAIGHT CONNECTION BETWEEN AN INVESTOR AND A TRADER, MAKING THEIR RELATIONS PROFITABLE AND SECURED FOR BOTH SIDES. AN INVESTOR’S FUNDS NEVER LEAVE THEIR EXCHANGE WALLET, ALL TRUST MANAGEMENT IS ACCESSED AND
+					EXECUTED WITH THE PROVISION OF API KEY. EVERY RELATION GOES THROUGH SMART CONTRACTS, ELIMINATING MIDDLEMAN AND COUNTERPARTY RISKS, AND MAKING AN AGREEMENT MANDATORY. 
 				</div>		
 			</div>
 			<div class="fourth_section_text">
-				<div class="fourth_section_text_title">Inside a smart contract we record all details of a deal:</div>
+				<div class="fourth_section_text_title">INSIDE A SMART CONTRACT WE RECORD ALL DETAILS OF A DEAL:</div>
 				<ul class="fourth_section_ul">
-					<li class="fourth_section_li">1) An encrypted API key</li>
-					<li class="fourth_section_li">2) An amount of digital assets on an account of investor in the beginning (equal in BTC or USD)</li>
-					<li class="fourth_section_li">3) An amount BTC or USD (based on average profitability of trader, further on AI prediction) for finishing of the contract</li>
-					<li class="fourth_section_li">4) Time of freeze (after that contract will automatically calculate and send profit to trader)</li>
-					<li class="fourth_section_li">5) Allowed pairs for trading</li>
-					<li class="fourth_section_li">6) Fee of trader and his wallet</li>
+					<li class="fourth_section_li">1)  The initial amount of digital assets in an investor’s account (equal to BTC, ETH or USD)</li>
+					<li class="fourth_section_li">2) Target profit for completion of the contract (based on average profitability of a trader.Upon completion, the contract will automatically terminate)</li>
+					<li class="fourth_section_li">3) Duration of the contract (the contract will then automatically calculate the profit and send it to the trader)</li>
+					<li class="fourth_section_li">4) Maximum loss (If a loss reaches the maximum value, the access will automatically close. The contract will then dissolves, refunding trader’s fee to the investor)</li>
+					<li class="fourth_section_li">5) Authorized pairs for trading</li>
+					<li class="fourth_section_li">6) Trader’s fee and his wallet</li>
 				</ul>
 			</div>
 			<!-- <div class="sections_arrow_wrapper">
@@ -210,8 +222,14 @@
 				<img class="six_section_img" src="img/ethereum_logo.png" alt="" title="">
 			</div>
 			<div class="six_section_text_wrapper">
-				<div class="six_section_text">Mercatus is built on Ethereum, a next generation blockchain protocol enabling advanced smart contracts. Ethereum is censorship resistant, globally available, and provides transparent guarantees about future operations of the platform.</div>
+				<div class="six_section_text">Mercatus is built on Ethereum, a next-generation blockchain protocol that enables advanced smart contracts — agreements, that operate automatically, without the need of human control. Ethereum is decentralized and safe; it provides transparency to all operations on the platform.</div>
 			</div>
+			<div class="six_section_title">
+				<img class="six_section_img" src="img/metamask.png" alt="" title="">
+			</div>
+			<div class="six_section_text_wrapper">
+				<div class="six_section_text">To make our platform even more secured, all processes are done with MetaMask. It is a Chrome plugin which allows you to run Ethereum DApps right in your browser, without running a full Ethereum node. MetaMask includes a secure identity vault, providing a user interface to manage and sign blockchain transactions.</div>
+			</div>			
 			<div class="six_section_btn_wrapper">
 				<a class="six_section_btn" href="/whitepaper.pdf">Read more</a>
 			</div>
@@ -321,16 +339,16 @@
 							<img class="our_team_img" src="img/uploads/artyom_shtirner.jpg" alt="" title="">
 						</div>
 						<div class="our_team_position">
-							<div class="our_team_position_text">Fullstack frontend developer</div>
+							<div class="our_team_position_text">Frontend developer</div>
 						</div>
 						<div class="our_team_name">
-							<div class="our_team_name_text">Artyom Shtirner</div>
+							<div class="our_team_name_text">Artem Myznikov</div>
 						</div>
 						<div class="our_team_description">
-							<div class="our_team_description_text">Frontend, backend, web-design and ui/ux.</div>
+							<div class="our_team_description_text">Frontend, mobile developer.</div>
 						</div>
 						<div class="social_networks_wrapper">
-							<a class="social_networks_a ln" href="https://www.linkedin.com/in/shtirner666/" target="_blank"></a>
+							<a class="social_networks_a gh" href="https://github.com/amiznikov" target="_blank"></a>
 						</div>
 					</div>
 				</div>

@@ -402,6 +402,31 @@ display: inline-block;
 display: inline-block;
 max-width: 100%;
 }
+.first_section_title {
+	position: relative;
+	text-align: center;
+}
+.first_section_title_text {
+	display: inline-block;
+	max-width: 100%;	
+    text-transform: uppercase;
+    font-size: 60px;
+    letter-spacing: 4px;
+    background: linear-gradient(15deg, #00fccf 30%, #00a9f7 60%);	
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;    
+}
+.first_section_title_text:before {
+	background: none;
+    content: attr(data-text);
+    left: 50%;
+    margin-left: -314px;
+    position: absolute;
+    text-shadow: 5px 3px 5px #2c2c3c;
+    top: 0;
+    z-index: -1;
+    white-space: pre;
+}
 .first_section_video_btn_wrapper
 {
 display: inline-block;
@@ -1415,6 +1440,9 @@ position: relative;
 {
 text-align: center;	
 margin-bottom: 65px;
+}
+.six_section_title.metamask_logo {
+    margin-bottom: 0px;
 }
 .six_section_img
 {

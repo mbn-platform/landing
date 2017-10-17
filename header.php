@@ -221,20 +221,6 @@ header("Expires: " . date("r"));
 					</a>
 				</div>
 			</div>
-			<div class="header_languages_col">
-				<div class="header_languages_wrapper">
-					<div class="header_languages_dropdown">
-						<a class="header_languages_selected" href="">Eng</a>
-						<div class="header_languages_ul_wrapper">
-							<ul class="header_languages_ul">
-								<li class="header_languages_li"><a class="header_languages_a" href="/dev/">中文</a></li>
-								<li class="header_languages_li"><a class="header_languages_a" href="/dev/">Español</a></li>
-								<li class="header_languages_li"><a class="header_languages_a" href="/dev/">한국어</a></li>
-							</ul>
-						</div>	
-					</div>
-				</div>
-			</div>
 			<div class="header_menu_col">
 				<div class="header_menu_wrapper">
 					<ul class="header_menu_ul clearfix">
