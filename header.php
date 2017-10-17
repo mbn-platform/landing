@@ -183,11 +183,6 @@ header("Expires: " . date("r"));
 			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$roadmapSelected;?>" href="/roadmap/">Roadmap</a></li>
 			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$contactsSelected;?>" href="/contacts/">Contacts</a></li>
 		</ul>
-		<ul class="mobile_languages_ul">
-			<li class="mobile_languages_li"><a class="mobile_languages_a" href="#">中文</a></li>
-			<li class="mobile_languages_li"><a class="mobile_languages_a" href="#">Español</a></li>
-			<li class="mobile_languages_li"><a class="mobile_languages_a" href="#">한국어</a></li>
-		</ul>
 	</div>
 </div>
 <div style="display: none;">
