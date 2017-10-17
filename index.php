@@ -224,7 +224,7 @@ of digital assets'>
 			<div class="six_section_text_wrapper">
 				<div class="six_section_text">Mercatus is built on Ethereum, a next-generation blockchain protocol that enables advanced smart contracts — agreements, that operate automatically, without the need of human control. Ethereum is decentralized and safe; it provides transparency to all operations on the platform.</div>
 			</div>
-			<div class="six_section_title">
+			<div class="six_section_title metamask_logo">
 				<img class="six_section_img" src="img/metamask.png" alt="" title="">
 			</div>
 			<div class="six_section_text_wrapper">
