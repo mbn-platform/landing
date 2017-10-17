@@ -3292,6 +3292,12 @@ position: absolute;
 left: 0;
 z-index: 1;
 }
+.first_section_title_text  {
+    font-size: 40px;
+}
+.first_section_title_text:before  {
+    margin-left: -225px;
+}
 .second_pages_title_wrapper2 {
 height: 60px;
 line-height: 60px;
@@ -3848,6 +3854,15 @@ background-size: 1320px;
 min-height: 4280px;
 }
 }
+
+@media only screen and (max-width : 490px) {
+    .first_section_title_text  {
+        font-size: 20px;
+    }
+    .first_section_title_text:before  {
+        margin-left: -125px;
+    }
+}
 @media only screen and (max-width : 480px) {
 .ninth_section_wrapper
 {
@@ -3873,6 +3888,7 @@ height: 35px;
 line-height: 35px;
 width: 160px;
 }
+
 .join_us_a {
 width: 25px;
 height: 25px;
