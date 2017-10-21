@@ -28,7 +28,7 @@ of digital assets'>
 			</form>
 		</div>
 		<div class="first_section_text_wrapper">
-			<div class="first_section_text">THE FIRST TRUST MANAGEMENT PLATFORM FULLY BUILT BLOCKCHAIN TECHNOLOGY</div>	
+			<div class="first_section_text">THE FIRST TRUST MANAGEMENT PLATFORM FULLY BUILT ON BLOCKCHAIN TECHNOLOGY</div>	
 		</div>
 		<div class="sections_arrow_wrapper">
 			<div class="section_arrow section_arrow_point"></div>
@@ -224,14 +224,21 @@ of digital assets'>
 			<div class="six_section_text_wrapper">
 				<div class="six_section_text">Mercatus is built on Ethereum, a next-generation blockchain protocol that enables advanced smart contracts — agreements, that operate automatically, without the need of human control. Ethereum is decentralized and safe; it provides transparency to all operations on the platform.</div>
 			</div>
+			<div class="six_section_btn_wrapper ethereum">
+				<a class="six_section_btn" href="https://ethereum.org/" target="_blank">Read more</a>
+			</div>			
 			<div class="six_section_title metamask_logo">
-				<img class="six_section_img" src="img/metamask.png" alt="" title="">
+				<div class="six_section_metamask_block">
+					<img class="six_section_img" src="img/metamask.png" alt="" title="">
+					<div class="metamask-text">Metamask</div>					
+				</div>
+
 			</div>
 			<div class="six_section_text_wrapper">
 				<div class="six_section_text">To make our platform even more secured, all processes are done with MetaMask. It is a Chrome plugin which allows you to run Ethereum DApps right in your browser, without running a full Ethereum node. MetaMask includes a secure identity vault, providing a user interface to manage and sign blockchain transactions.</div>
 			</div>			
 			<div class="six_section_btn_wrapper">
-				<a class="six_section_btn" href="/whitepaper.pdf">Read more</a>
+				<a class="six_section_btn" href="https://metamask.io/" target="_blank">Read more</a>
 			</div>
 			<div class="sections_arrow_wrapper">
 				<div class="section_arrow"></div>
