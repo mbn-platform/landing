@@ -27,7 +27,7 @@
 						</div>
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">CONCEPT GENERATION</div>
-							<div class="roadmap_quarter_text first_text">Defining the idea of trust management for cryptocurrency assets.<br> 
+							<div class="roadmap_quarter_text first_text">Defining the idea of trust management for cryptocurrency assets.<br> <br>
 								Finding solutions to main problems in trust management market, such as:
 								<ul>
 									<li>losing control of investment capital</li>
@@ -49,7 +49,7 @@
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">PERFORMANCE AUDIT</div>
 							<div class="roadmap_quarter_text second_text">
-									Taking the concept to full performance audit. <br>
+									Taking the concept to full performance audit. <br><br>
 									Discovering its survivability in all kind of scenarios. Additional security audits performed to ensure the safety of investor’s capital.<br>
 									Researching and analyzing all potential risks, adjusting or changing the operational process to eliminate them.
 								</div>	
@@ -75,7 +75,7 @@
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">INTERFACE CREATION </div>
 							<div class="roadmap_quarter_text closed third_text">
-								Creating a platform architecture and shaping a fully-functional user interface.<br>
+								Creating a platform architecture and shaping a fully-functional user interface.<br><br>
 								Forming a professional full-time work team, with specialists in design, UI/UX, front/back-end, solidity language, marketing and security.<br>
 								Fabricating the current version of design.
 							</div>	
@@ -177,7 +177,7 @@
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">RELEASE OF PREDICTION AI</div>
 							<div class="roadmap_quarter_text seventh_text">
-								Running  Prediction AI to accurately predict trader’s profitability.<br>
+								Running  Prediction AI to accurately predict trader’s profitability.<br><br>
 								Working with Cindicator to create a hybrid prediction system. The system combines machine-learning AI and Cindicator’s users forecasting to predict trader’s profitability (ROI). <br>
 								The system provides users a precise instrument to choose the best trader possible, increase the accuracy of planning and investing, and thereby maximizing their profit.
 							</div>	
@@ -193,7 +193,7 @@
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">FUNDS</div>
 							<div class="roadmap_quarter_text eith_text">
-								The functions allowing traders and investors to unite in funds.<br>
+								The functions allowing traders and investors to unite in funds.<br><br>
 								Complete fund management platform which operates through smart-contracts.<br>
 								The first test of DAO voting within the created funds.<br>
 								Funds for traders and investors, where they can customize their share settings, and make corporate decisions via multi-sig. The functions will consist of investing and trading instruments.<br>
@@ -220,7 +220,7 @@
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">ICO FUNDS</div>
 							<div class="roadmap_quarter_text nineth_text">
-								A smart contract between an investor and an ICO manager is executed.<br>
+								A smart contract between an investor and an ICO manager is executed.<br><br>
 								It is the management of investor’s ETH for long-term investment in ICO.<br>
 								Pay is carried out in ICO tokens, within the described terms in a smart contract.<br>
 								The effectiveness of a manager is determined by the difference of invested ETH on the ICO day and the value of the tokens on the completion day of a contract.<br>
@@ -237,7 +237,7 @@
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">TRADE PROGRAMMING</div>
 							<div class="roadmap_quarter_text tenth_text">
-								On the Mercatus site, the index editor will be implemented.<br>
+								On the Mercatus site, the index editor will be implemented.<br><br>
 								Users can create their own trade algorithms: it is operated by comparing their custom index and content taken from online tracing systems.<br>
 								Indices will be managed by means of formulas composed of the following parameters:
 								<ul>

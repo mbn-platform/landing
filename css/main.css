@@ -2344,7 +2344,7 @@ min-height: 100%;
     /*background-image: url(../img/roadmap_bg.png); */
     background: url(../img/team_bg.jpg) no-repeat 0 -200px;
     /*background-size: 2890px;*/
-    background-size: cover;
+    /*background-size: cover;*/
     background-repeat: no-repeat;
     position: relative;
     z-index: 2;
@@ -2933,7 +2933,7 @@ line-height: 110px;
     /*background-position: right -700px;*/
     background: url(../img/team_bg.jpg) no-repeat 0 -200px;
     /*background-size: 2890px;*/
-    background-size: cover;
+    /*background-size: cover;*/
     background-repeat: no-repeat;
     position: relative;
     z-index: 2;    
