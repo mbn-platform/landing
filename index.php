@@ -70,8 +70,8 @@ of digital assets'>
 								<li class="platform_li platform_li4"><div class="platform_li_text">Add API key of any exchange</div></li>
 								<li class="platform_li platform_li5"><div class="platform_li_text">Send a request to the selected trader with defined settings and chosen pairs for trading</div></li>
 								<li class="platform_li platform_li6"><div class="platform_li_text">Send MCS tokens to the address of the smart contract (trader’s fee)</div></li>
-								<li class="platform_li platform_li6"><div class="platform_li_text">Sign a smart-contract to allow trader’s acess for trading</div></li>								
-								<li class="platform_li platform_li7"><div class="platform_li_text platform_li_text_color">Credit profit directly into your exchange account.</div></li>
+								<li class="platform_li platform_li7"><div class="platform_li_text">Sign a smart-contract to allow trader’s acess for trading</div></li>								
+								<li class="platform_li platform_li8"><div class="platform_li_text platform_li_text_color">Credit profit directly into your exchange account.</div></li>
 							</ul>
 						</div>
 						<div class="second_section_tab_right_col">
@@ -91,8 +91,8 @@ of digital assets'>
 								<li class="platform_li platform_li1"><div class="platform_li_text">Start trading through Mercatus trading platform</div></li>
 								<li class="platform_li platform_li2"><div class="platform_li_text">Set your specific setting for trust management</div></li>
 								<li class="platform_li platform_li3"><div class="platform_li_text">Achieve top spot in trader’s rating</div></li>
-								<li class="platform_li platform_li3"><div class="platform_li_text">Accept a request from an investor and sign a smart-contract with him</div></li>
-								<li class="platform_li platform_li3"><div class="platform_li_text">Receive an access for trading through API key</div></li>								
+								<li class="platform_li platform_li11"><div class="platform_li_text">Accept a request from an investor and sign a smart-contract with him</div></li>
+								<li class="platform_li platform_li7"><div class="platform_li_text">Receive an access for trading through API key</div></li>								
 								<li class="platform_li platform_li8"><div class="platform_li_text platform_li_text_color">Your profit is guaranteed with smart contract. You will receive profit directly in your ETH wallet.</div></li>
 							</ul>
 						</div>
@@ -111,9 +111,9 @@ of digital assets'>
 							<div class="platform_text">An investor or trader is able to join in and be part of a fund or create it in just few steps:</div>
 							<ul class="platform_ul">
 								<li class="platform_li platform_li9"><div class="platform_li_text">Create a trade or an investment fund and invite new members to join</div></li>
-								<li class="platform_li platform_li10"><div class="platform_li_text">Customise fund settings and user options</div></li>
-								<li class="platform_li platform_li10"><div class="platform_li_text">Perform corporate actions via multisig</div></li>
-								<li class="platform_li platform_li10"><div class="platform_li_text">Acquire your share as recorded in smart contract of the fund</div></li>
+								<li class="platform_li platform_li2"><div class="platform_li_text">Customise fund settings and user options</div></li>
+								<li class="platform_li platform_li12"><div class="platform_li_text">Perform corporate actions via multisig</div></li>
+								<li class="platform_li platform_li13"><div class="platform_li_text">Acquire your share as recorded in smart contract of the fund</div></li>
 							</ul>
 						</div>
 						<div class="second_section_tab_right_col">
@@ -286,6 +286,8 @@ of digital assets'>
 							<a class="social_networks_a gh" href="https://github.com/goupdown/dev" target="_blank"></a>
 						</div>
 					</div>
+				</div>
+				<div class="our_team_string our_team_string2">
 					<div class="our_team_item">
 						<div class="our_team_img_wrapper">
 							<img class="our_team_img" src="img/uploads/igor_knyazev.jpg" alt="" title="">
@@ -303,9 +305,7 @@ of digital assets'>
 							<a class="social_networks_a ln" href="https://www.linkedin.com/in/igor-knyazev-237914148/" target="_blank"></a>
 							<a class="social_networks_a gh" href="https://github.com/almart0o" target="_blank"></a>
 						</div>
-					</div>
-				</div>
-				<div class="our_team_string our_team_string2">
+					</div>					
 					<div class="our_team_item">
 						<div class="our_team_img_wrapper">
 							<img class="our_team_img" src="img/uploads/vyacheslav_mychkin.jpg" alt="" title="">
@@ -324,24 +324,7 @@ of digital assets'>
 							<a class="social_networks_a gh" href="https://github.com/goblinrd" target="_blank"></a>
 						</div>
 					</div>
-					<div class="our_team_item">
-						<div class="our_team_img_wrapper">
-							<img class="our_team_img" src="img/uploads/anya_besaraba.jpg" alt="" title="">
-						</div>
-						<div class="our_team_position">
-							<div class="our_team_position_text">ui/ux</div>
-						</div>
-						<div class="our_team_name">
-							<div class="our_team_name_text">Anna Besaraba</div>
-						</div>
-						<div class="our_team_description">
-							<div class="our_team_description_text">Web-design and interface creating, graphics and illustrations</div>
-						</div>
-						<div class="social_networks_wrapper">
-							<a class="social_networks_a db" href="https://dribbble.com/besaraba" target="_blank"></a>
-						</div>
-					</div>
-					<div class="our_team_item">
+					<!--<div class="our_team_item">
 						<div class="our_team_img_wrapper">
 							<img class="our_team_img" src="img/uploads/artyom_shtirner.jpg" alt="" title="">
 						</div>
@@ -357,7 +340,7 @@ of digital assets'>
 						<div class="social_networks_wrapper">
 							<a class="social_networks_a gh" href="https://github.com/amiznikov" target="_blank"></a>
 						</div>
-					</div>
+					</div>-->
 				</div>
 			</div>
 			<!-- <div class="sections_arrow_wrapper">

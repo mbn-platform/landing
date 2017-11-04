@@ -23,7 +23,7 @@
 					</div>
 					<div class="roadmap_right_col clearfix">
 						<div class="roadmap_col_img_wr">
-							<img class="roadmap_col_img" src="/img/roadmap_1.png" alt="" title="">
+							<img class="roadmap_col_img concept" src="/img/concept.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">CONCEPT GENERATION</div>
@@ -44,7 +44,7 @@
 				<div class="roadmap_item_string left_text clearfix">
 					<div class="roadmap_left_col clearfix">
 						<div class="roadmap_col_img_wr">
-							<img class="roadmap_col_img" src="/img/roadmap_1.png" alt="" title="">
+							<img class="roadmap_col_img audit" src="/img/audit.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">PERFORMANCE AUDIT</div>
@@ -70,7 +70,7 @@
 					</div>
 					<div class="roadmap_right_col clearfix">
 						<div class="roadmap_col_img_wr">
-							<img class="roadmap_col_img" src="/img/roadmap_1.png" alt="" title="">
+							<img class="roadmap_col_img interface" src="/img/interface.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">INTERFACE CREATION </div>

@@ -543,12 +543,13 @@ z-index: 1;
 }
 .pattern_dots
 {
-position: absolute;
-left: 0;
-top: -210px;
-right: 0;
-height: 4000px;
-background: url(../img/pattern_dots.png);
+    position: absolute;
+    left: 0;
+    top: -210px;
+    z-index: 2;
+    right: 0;
+    height: 3700px;
+    background: url(../img/pattern_dots.png);
 }
 .pattern_boxes1
 {
@@ -560,7 +561,7 @@ left: 0px;
 top: -270px;
 right: 0;
 background-repeat: no-repeat;
-z-index: 2;
+z-index: 3;
 width: 1920px;
 background-position: left top;
 }
@@ -660,14 +661,14 @@ cursor: pointer;
 }
 .team_bg_wrapper
 {
-background: url(../img/team_bg.jpg) no-repeat 0 100px;
-min-height: 3000px;
-width: 100%;
-position: absolute;
-top: 2820px;
-left: 0;
-z-index: 1;
-background-size: 2200px;
+    background: url(../img/star.png) no-repeat 0 0px;
+    min-height: 2803px;
+    width: 100%;
+    position: absolute;
+    top: 3320px;
+    left: 0;
+    z-index: 1;
+    background-size: cover;
 }
 .small_pattern_1
 {
@@ -888,14 +889,13 @@ background-size: 22px;
 }
 .platform_li2 .platform_li_text
 {
-background: url(../img/platform_li2.png) no-repeat left 5px;
-background: url(../img/platform_li2.svg) no-repeat left 5px;
-background-size: 22px;
+background: url(../img/shapes.svg) no-repeat left 1px;
+background-size: 26px;
 }
 .platform_li3 .platform_li_text
 {
-background: url(../img/platform_li3.png) no-repeat left 5px;
-background: url(../img/platform_li3.svg) no-repeat left 5px;
+background: url(../img/platform_li2.png) no-repeat left 5px;
+background: url(../img/platform_li2.svg) no-repeat left 5px;
 background-size: 22px;
 }
 .platform_li4 .platform_li_text
@@ -914,14 +914,12 @@ background-size: 22px;
 {
 background: url(../img/platform_li6.png) no-repeat left 5px;
 background: url(../img/platform_li6.svg) no-repeat left 5px;
-background-size: 22px;
+background-size: 24px;
 }
 .platform_li7 .platform_li_text
 {
-/*background: url(../img/platform_li7.png) no-repeat left 5px;*/
-/*background: url(../img/platform_li7.svg) no-repeat left 5px;*/
-/*background-size: 27px;*/
-padding-left: 0;
+    background: url(../img/security.svg) no-repeat left 5px;
+    background-size: 24px;    
 }
 .platform_li8 .platform_li_text
 {
@@ -932,14 +930,28 @@ padding-left: 0;
 }
 .platform_li9 .platform_li_text
 {
-background: url(../img/platform_li9.png) no-repeat left 5px;
-background: url(../img/platform_li9.svg) no-repeat left 5px;
+background: url(../img/004-piggy-bank.svg) no-repeat left 5px;
 background-size: 24px;
 }
 .platform_li10 .platform_li_text
 {
 background: url(../img/platform_li10.png) no-repeat left 5px;
 background: url(../img/platform_li10.svg) no-repeat left 5px;
+background-size: 26px;
+}
+.platform_li11 .platform_li_text
+{
+background: url(../img/certificate.svg) no-repeat left 5px;
+background-size: 26px;
+}
+.platform_li12 .platform_li_text
+{
+background: url(../img/002-signature.svg) no-repeat left 5px;
+background-size: 26px;
+}
+.platform_li13 .platform_li_text
+{
+background: url(../img/001-check.svg) no-repeat left 5px;
 background-size: 26px;
 }
 .second_section_tab_right_col
@@ -2340,20 +2352,18 @@ padding-top: 100px;
 min-height: 100%;
 }
 .roadmap_wrapper {
-    /* padding-bottom: 200px; */
-    /*background-image: url(../img/roadmap_bg.png); */
-    background: url(../img/team_bg.jpg) no-repeat 0 -200px;
-    /*background-size: 2890px;*/
-    /*background-size: cover;*/
+    padding-bottom: 200px;
+    background-image: url(../img/roadmap_bg.png);
+    background-size: 1920px;
     background-repeat: no-repeat;
     position: relative;
     z-index: 2;
-    /*background-position: right -490px;*/
+    background-position: right top;
 }
 .roadmap_wrapper .ninth_section_wrapper
 {
-margin-top: 240px;
-/*padding-bottom: 0;*/
+    margin-top: 240px;
+    padding-bottom: 0;
 }
 .second_pages_content
 {
@@ -2539,6 +2549,9 @@ display: inline-block;
 vertical-align: middle;
 max-width: 100%;
 max-height: 100%;
+}
+.roadmap_col_img.concept, .roadmap_col_img.audit, .roadmap_col_img.interface {
+    width: 52px;
 }
 .roadmap_text_wr
 {
@@ -2929,14 +2942,8 @@ line-height: 110px;
 }
 .roadmap_wrapper
 {
-    /*background-size: 3100px;*/
-    /*background-position: right -700px;*/
-    background: url(../img/team_bg.jpg) no-repeat 0 -200px;
-    /*background-size: 2890px;*/
-    /*background-size: cover;*/
-    background-repeat: no-repeat;
-    position: relative;
-    z-index: 2;    
+    background-size: 1600px;
+    background-position: right top;
 }
 .fourth_section_wrapper:before,
 .fourth_section_wrapper:after
@@ -3262,7 +3269,7 @@ font-size: 1.6em;
 }
 .roadmap_wrapper
 {
-/*background-size: 1000px;*/
+background-size: 1000px;
 }
 .header_languages_col,
 .header_menu_col
@@ -3984,8 +3991,11 @@ padding-bottom: 40px;
 }
 .roadmap_wrapper .ninth_section_wrapper
 {
-/*margin-top: 180px;*/
-background: url(../img/team_bg2.jpg) no-repeat 0 -200px;
+margin-top: 180px;
+}
+.roadmap_wrapper
+{
+background-size: 900px;
 }
 .roadmap_center_line:before,
 .roadmap_center_line:after
