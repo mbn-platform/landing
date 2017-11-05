@@ -237,7 +237,7 @@ of digital assets'>
 			<div class="six_section_text_wrapper">
 				<div class="six_section_text">To make our platform even more secured, all processes are done with MetaMask. It is a Chrome plugin which allows you to run Ethereum DApps right in your browser, without running a full Ethereum node. MetaMask includes a secure identity vault, providing a user interface to manage and sign blockchain transactions.</div>
 			</div>			
-			<div class="six_section_btn_wrapper">
+			<div class="six_section_btn_wrapper ethereum">
 				<a class="six_section_btn" href="https://metamask.io/" target="_blank">Read more</a>
 			</div>
 			<div class="sections_arrow_wrapper">

@@ -546,7 +546,7 @@ z-index: 1;
     position: absolute;
     left: 0;
     top: -210px;
-    z-index: 2;
+    z-index: 1;
     right: 0;
     height: 4500px;
     background: url(../img/pattern_dots.png);
@@ -661,14 +661,14 @@ cursor: pointer;
 }
 .team_bg_wrapper
 {
-    background: url(../img/star.png) no-repeat center;
-    min-height: 2803px;
-    width: 100%;
-    position: absolute;
-    top: 3320px;
-    left: 0;
-    z-index: 2;
-    /*background-size: cover;*/
+background: url(../img/team_bg.jpg) no-repeat 0 100px;
+min-height: 3000px;
+width: 100%;
+position: absolute;
+top: 3420px;
+left: 0;
+z-index: 1;
+background-size: 1918px;
 }
 .small_pattern_1
 {
@@ -2912,14 +2912,13 @@ min-height: 410px;
 @media only screen and (max-width : 1200px) {
 .team_bg_wrapper
 {
-/*background: url(../img/team_bg2.jpg) no-repeat 0 100px;*/
-min-height: 3430px;
+min-height: 3130px;
 width: 100%;
 position: absolute;
-top: 2050px;
-left: 0;
-z-index: 2;
-background-size: 1600px;
+top: 2750px;
+left: 0px;
+z-index: 1;
+background: url(../img/team_bg2.jpg) 0px 100px / 1200px no-repeat;
 }
 .pattern_boxes2
 {
@@ -3159,16 +3158,6 @@ top: 250px;
 {
 margin-bottom: 25px;
 }
-.team_bg_wrapper {
-    /*background: url('../img/team_bg2.jpg') repeat 0 200px;*/
-    min-height: 2350px;
-    width: 100%;
-    position: absolute;
-    top: 2650px;
-    left: 0;
-    z-index: 2;
-    /*background-size: contain;*/
-}
 }
 
 @media only screen and (max-width : 1105px) {
@@ -3299,16 +3288,6 @@ z-index: 2;
 height: 40px;
 line-height: 40px;
 width: 200px;
-}
-.team_bg_wrapper {
-    /*background: url(../img/team_bg2.jpg) no-repeat 0 200px;*/
-    min-height: 2853px;
-    width: 100%;
-    position: absolute;
-    top: 2250px;
-    left: 0;
-    z-index: 2;
-    /*background-size: cover;*/
 }
 .second_section_tabs_wrapper
 {
@@ -3481,15 +3460,14 @@ padding-bottom: 30px;
 }
 .team_bg_wrapper
 {
-    /*background: url(../img/team_bg3.jpg) no-repeat 0 100px;*/
-    top: 4590px;
-    /*background-size: 780px;*/
-    min-height: 2215px;
-    width: 100%;
-    position: absolute;
-    left: 0;
-    /*background-size: contain;*/
-    z-index: 2;
+background: url(../img/team_bg3.jpg) no-repeat 0 100px;
+top: 4590px;
+background-size: 780px;
+min-height: 2620px;
+width: 100%;
+position: absolute;
+left: 0;
+z-index: 1;
 }
 .first_section_title_text  {
     font-size: 40px;
@@ -4073,16 +4051,17 @@ padding-bottom: 170px;
 }
 /* Extra Small Devices, Phones */ 
 @media only screen and (max-width : 650px) {
-/*.team_bg_wrapper
+.team_bg_wrapper
 {
-    background: url(../img/star_small.png) no-repeat center;
-    width: 100%;
-    position: absolute;
-    left: 0;
-    z-index: 2;
-    top: 4417px;
-    min-height: 3080px;
-}*/
+background: url(../img/team_bg3.jpg) no-repeat 0 100px;
+width: 100%;
+position: absolute;
+left: 0;
+z-index: 1;
+top: 4590px;
+background-size: 1320px;
+min-height: 4280px;
+}
 }
 @media only screen and (max-width : 600px) {
     .closed .roadmap_quarter_text.third_text {
@@ -4122,9 +4101,6 @@ padding-bottom: 170px;
     .closed .roadmap_quarter_text.eith_text {
         max-height: 35px;
     }
-    .team_bg_wrapper {
-        top: 4760px;
-    }
 }
 @media only screen and (max-width : 520px) {
     .closed .roadmap_quarter_text.tenth_text {
@@ -4150,9 +4126,6 @@ padding-bottom: 170px;
 .ninth_section_wrapper
 {
 
-}
-.team_bg_wrapper {
-    top: 4460px;
 }
 .roadmap_quarter_text {
 font-size: 1.4em;
@@ -4348,17 +4321,7 @@ color: #8e92c5;
 @media only screen and (max-width : 468px) {
     .closed .roadmap_quarter_text.tenth_text {
         max-height: 31px;
-    }
-.team_bg_wrapper
-{
-    background: url(../img/star_small.png) no-repeat center;
-    width: 100%;
-    position: absolute;
-    left: 0;
-    z-index: 2;
-    top: 4417px;
-    min-height: 3080px;
-}    
+    } 
 }
 @media only screen and (max-width : 440px) {
     .closed .roadmap_quarter_text.sixth_text {
@@ -4413,10 +4376,6 @@ margin-bottom: 10px;
 }
 
 @media only screen and (max-width : 320px) {
-.team_bg_wrapper {
-
-    top: 4517px;
-}
 }
 
 
