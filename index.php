@@ -196,12 +196,12 @@ of digital assets'>
 			<div class="fourth_section_text">
 				<div class="fourth_section_text_title">INSIDE A SMART CONTRACT WE RECORD ALL DETAILS OF A DEAL:</div>
 				<ul class="fourth_section_ul">
-					<li class="fourth_section_li">1)  The initial amount of digital assets in an investor’s account (equal to BTC, ETH or USD)</li>
-					<li class="fourth_section_li">2) Target profit for completion of the contract (based on average profitability of a trader.Upon completion, the contract will automatically terminate)</li>
-					<li class="fourth_section_li">3) Duration of the contract (the contract will then automatically calculate the profit and send it to the trader)</li>
-					<li class="fourth_section_li">4) Maximum loss (If a loss reaches the maximum value, the access will automatically close. The contract will then dissolves, refunding trader’s fee to the investor)</li>
-					<li class="fourth_section_li">5) Authorized pairs for trading</li>
-					<li class="fourth_section_li">6) Trader’s fee and his wallet</li>
+					<li class="fourth_section_li">The initial amount of digital assets in an investor’s account (equal to BTC, ETH or USD)</li>
+					<li class="fourth_section_li">Target profit for completion of the contract (based on average profitability of a trader.Upon completion, the contract will automatically terminate)</li>
+					<li class="fourth_section_li">Duration of the contract (the contract will then automatically calculate the profit and send it to the trader)</li>
+					<li class="fourth_section_li">Maximum loss (If a loss reaches the maximum value, the access will automatically close. The contract will then dissolves, refunding trader’s fee to the investor)</li>
+					<li class="fourth_section_li">Authorized pairs for trading</li>
+					<li class="fourth_section_li">Trader’s fee and his wallet</li>
 				</ul>
 			</div>
 			<!-- <div class="sections_arrow_wrapper">
