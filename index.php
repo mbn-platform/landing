@@ -4,9 +4,9 @@
 	<div class="first_section_content content_container">
 		<div class="first_section_slogan_wrapper">
 			<div class="first_section_title">
-				<div class="first_section_title_text" data-text='trust managment
+				<div class="first_section_title_text" data-text='trust management
 of digital assets'>
-					trust managment<br>of digital assets  
+					trust management<br>of digital assets  
 				</div>										
 			</div>
 
