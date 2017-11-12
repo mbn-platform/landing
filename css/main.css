@@ -1600,8 +1600,9 @@ line-height: 1;
 text-align: center;
 position: relative;
 }
-.our_team_name_text.clickable {
+.clickable {
     cursor: pointer;
+    text-decoration: underline;
 }
 .our_team_name:after
 {
