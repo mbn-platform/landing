@@ -370,6 +370,23 @@ of digital assets'>
 							<a class="social_networks_a gh" href="https://github.com/noxonsu" target="_blank"></a>
 						</div>
 					</div>
+					<div class="our_team_item">
+						<div class="our_team_img_wrapper">
+							<img class="our_team_img" src="img/uploads/sls.png" alt="" title="" onclick="window.open('https://bitcointalk.org/index.php?topic=1317448.0')">
+						</div>
+						<div class="our_team_position">
+							<div class="our_team_position_text">Advisor</div>
+						</div>
+						<div class="our_team_name">
+							<div class="our_team_name_text clickable" onclick="window.open('https://bitcointalk.org/index.php?topic=1317448.0')">Kushed</div>
+						</div>						
+						<div class="our_team_description clickable">
+							<div class="our_team_description_text" onclick="window.open('https://bitcointalk.org/index.php?topic=1317448.0')">Since 2013 year in a crypto trading. Oldschool and trustable bitcointalk member.</div>
+						</div>
+						<div class="social_networks_wrapper">
+							<a class="social_networks_a tw" href="https://twitter.com/Kushed_Crypto" target="_blank"></a>
+						</div>
+					</div>					
 				</div>
 			</div>
 		</div>
