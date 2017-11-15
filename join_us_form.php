@@ -23,7 +23,7 @@
 				<a class="join_us_a medium" href="https://medium.com/@Mercatus.im" target="_blank"></a>
 				<a class="join_us_a github" href="https://github.com/MercatusPlatform" target="_blank"></a>
 			</div>
-			<div class="mercatus_email">info@mercatus.im</div>
+			<div class="mercatus_email"><a class="contacts_email" href="mailto:info@mercatus.im">info@mercatus.im</a></div>
 		<?endif;?>
 	</div>
 </div>

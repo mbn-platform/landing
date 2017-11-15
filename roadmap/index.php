@@ -1,5 +1,5 @@
 <? require_once('../header.php');?>
-<link type="text/css" rel="stylesheet" href="/css/roadmap.css?t=<?php echo(microtime(true)); ?>">
+<link type="text/css" rel="stylesheet" href="../css/roadmap.css?t=<?php echo(microtime(true)); ?>">
 <script type="text/javascript">
 	$(window).on('beforeunload', function() {
 	    $(window).scrollTop(0); 
@@ -94,6 +94,7 @@
 								Private testing of Mercatus alpha version with incomplete functions:
 								<ul>
 									<li>Authorizing with Metamask</li>
+									<li>Inner trading terminal</li>
 									<li>Adding Bittrex API keys</li>
 									<li>Sending and receiving requests</li>
 									<li>Sending Ethereum to a smart contract’s address</li>
@@ -146,13 +147,13 @@
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">FINAL RELEASE</div>
 							<div class="roadmap_quarter_text sixth_text">
-								Full release of complete Mercatus with basic functions.
+								Full release of complete Mercatus platform with basic functions.
 								<ul>
-									<li>Data mining for startup Prediction AI.</li>
-									<li>Added support for most API exchanges</li>
 									<li>Mobile version</li>
+									<li>Added support for most API exchanges</li>
 									<li>Bug-fixing and improvement through feedback</li>
 									<li>Best user experience possible</li>
+									<li>Data mining for startup Prediction AI.</li>
 								</ul>
 							</div>	
 							<div class="read_more_btn">Read more</div>

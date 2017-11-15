@@ -112,8 +112,9 @@ of digital assets'>
 							<ul class="platform_ul">
 								<li class="platform_li platform_li9"><div class="platform_li_text">Create a trade or an investment fund and invite new members to join</div></li>
 								<li class="platform_li platform_li2"><div class="platform_li_text">Customise fund settings and user options</div></li>
+								<li class="platform_li platform_li13"><div class="platform_li_text">Propose an offer for share voting</div></li>								
 								<li class="platform_li platform_li12"><div class="platform_li_text">Perform corporate actions via multisig</div></li>
-								<li class="platform_li platform_li13"><div class="platform_li_text">Acquire your share as recorded in smart contract of the fund</div></li>
+								<li class="platform_li platform_li8"><div class="platform_li_text platform_li_text_color">Credit profit directly into your fund exchange account.</div></li>								
 							</ul>
 						</div>
 						<div class="second_section_tab_right_col">

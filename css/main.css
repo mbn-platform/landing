@@ -1600,10 +1600,6 @@ line-height: 1;
 text-align: center;
 position: relative;
 }
-.clickable {
-    cursor: pointer;
-    text-decoration: underline;
-}
 .our_team_name:after
 {
 content: "";
@@ -1728,9 +1724,6 @@ transition-property: opacity;
 transition-duration: 400ms;
 -webkit-transition: opacity 400ms;
 }
-.social_networks_a.tw {
-    top: 2px;
-}
 .social_networks_a:hover::before
 {
 opacity: 1;
@@ -1740,12 +1733,6 @@ z-index: 2;
 {
 opacity: 0;
 z-index: 1;
-}
-.social_networks_a.tw:before
-{
-background-image: url(../img/join_twitter_hover.png);
-background-image: url(../img/join_twitter_hover.svg);
-background-repeat: no-repeat;
 }
 .social_networks_a.gh:before
 {
@@ -1776,12 +1763,6 @@ background-image: url(../img/linkedin.svg);
 {
 background-image: url(../img/dribbble.png);
 background-image: url(../img/dribbble.svg);
-}
-.social_networks_a.tw:after
-{
-background-image: url(../img/join_twitter.png);
-background-image: url(../img/join_twitter.svg);
-background-repeat: no-repeat;
 }
 
 
@@ -2929,9 +2910,15 @@ min-height: 410px;
 }
 }
 @media only screen and (max-width : 1200px) {
-.team_bg_wrapper {
-    /*min-height: 2700px;*/
-    top: 2520px;
+.team_bg_wrapper
+{
+min-height: 3130px;
+width: 100%;
+position: absolute;
+top: 2750px;
+left: 0px;
+z-index: 1;
+background: url(../img/team_bg2.jpg) 0px 100px / 1200px no-repeat;
 }
 .pattern_boxes2
 {
@@ -4066,15 +4053,14 @@ padding-bottom: 170px;
 @media only screen and (max-width : 650px) {
 .team_bg_wrapper
 {
-    background: url(../img/team_bg3.jpg) no-repeat 0 100px;
-    width: 100%;
-    position: absolute;
-    left: 0;
-    z-index: 1;
-    top: 4690px;
-    background-size: cover;
-    min-height: 2080px;
-
+background: url(../img/team_bg3.jpg) no-repeat 0 100px;
+width: 100%;
+position: absolute;
+left: 0;
+z-index: 1;
+top: 4590px;
+background-size: 1320px;
+min-height: 4280px;
 }
 }
 @media only screen and (max-width : 600px) {
@@ -4328,9 +4314,7 @@ color: #8e92c5;
 .closed .roadmap_quarter_text.tenth_text {
     max-height: 18px;
 }
-.team_bg_wrapper {
-    min-height: 3480px;
-}
+
 
 
 }
