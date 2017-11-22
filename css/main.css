@@ -1734,11 +1734,15 @@ z-index: 2;
 opacity: 0;
 z-index: 1;
 }
+.social_networks_a.tw {
+    top: 2px;
+}
 .social_networks_a.gh:before
 {
 background-image: url(../img/github_hover.png);
 background-image: url(../img/github_hover.svg);
 }
+
 .social_networks_a.ln:before
 {
 background-image: url(../img/linkedin_hover.png);
@@ -1748,6 +1752,12 @@ background-image: url(../img/linkedin_hover.svg);
 {
 background-image: url(../img/dribbble_hover.png);
 background-image: url(../img/dribbble_hover.svg);
+}
+.social_networks_a.tw:before
+{
+background-image: url(../img/join_twitter_hover.png);
+background-image: url(../img/join_twitter_hover.svg);
+background-repeat: no-repeat;
 }
 .social_networks_a.gh:after
 {
@@ -1764,7 +1774,12 @@ background-image: url(../img/linkedin.svg);
 background-image: url(../img/dribbble.png);
 background-image: url(../img/dribbble.svg);
 }
-
+.social_networks_a.tw:after
+{
+background-image: url(../img/join_twitter.png);
+background-image: url(../img/join_twitter.svg);
+background-repeat: no-repeat;
+}
 
 
 

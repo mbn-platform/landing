@@ -47,8 +47,8 @@ of digital assets'>
 	</div>
 	<div class="team_bg_wrapper"></div>
 </div>
-<div class="all_sections_wrapper">
-	<div class="second_section_wrapper section_wrapper_js" data-section-index="2">
+<div class="all_sections_wrapper"  id="fullpage">
+	<div class="second_section_wrapper section_wrapper_js  section" data-section-index="2">
 		<img class="small_pattern_1 small_pattern" src="img/small_pattern_9.png" width="112" onerror="this.onerror=null; this.src='img/small_pattern_9.png'" >
 		<img class="small_pattern_2 small_pattern" src="img/small_pattern_7.png" width="33" onerror="this.onerror=null; this.src='img/small_pattern_7.png'" >
 		<img class="small_pattern_3 small_pattern" src="img/small_pattern_10.png" width="70" onerror="this.onerror=null; this.src='img/small_pattern_10.png'" >
@@ -137,7 +137,7 @@ of digital assets'>
 			</div>
 		</div>
 	</div>
-	<div class="third_section_wrapper section_wrapper_js" data-section-index="3">
+	<div class="third_section_wrapper section_wrapper_js  section" data-section-index="3">
 		<div class="third_section_content content_container">
 			<h2 class="sections_title">Platform layers</h2>
 			<div class="layer_animation_wrapper clearfix">
@@ -185,7 +185,7 @@ of digital assets'>
 			</div>
 		</div>
 	</div>
-	<div class="fourth_section_wrapper section_wrapper_js" data-section-index="3">
+	<div class="fourth_section_wrapper section_wrapper_js  section" data-section-index="3">
 		<div class="fourth_section_content content_container">
 			<h2 class="sections_title">How it works</h2>
 			<div class="sections_subtitle">
@@ -210,7 +210,7 @@ of digital assets'>
 			</div> -->
 		</div>
 	</div>
-	<div class="six_section_wrapper section_wrapper_js" data-section-index="4">
+	<div class="six_section_wrapper section_wrapper_js  section" data-section-index="4">
 		<img class="small_pattern_7 small_pattern" src="img/small_pattern_7.png" width="33" onerror="this.onerror=null; this.src='img/small_pattern_7.png'" >
 		<img class="small_pattern_8 small_pattern" src="img/small_pattern_8.png" width="33" onerror="this.onerror=null; this.src='img/small_pattern_8.png'" >
 		<img class="small_pattern_9 small_pattern" src="img/small_pattern_9.png" width="112" onerror="this.onerror=null; this.src='img/small_pattern_9.png'" >
@@ -246,7 +246,7 @@ of digital assets'>
 			</div>
 		</div>
 	</div>
-	<div class="seventh_section_wrapper section_wrapper_js" data-section-index="5">
+	<div class="seventh_section_wrapper section_wrapper_js  section" data-section-index="5">
 		<div class="seventh_section_content content_container">
 			<h2 class="sections_title">our team</h2>
 			<div class="our_team_wrapper">
@@ -349,7 +349,7 @@ of digital assets'>
 			</div> -->
 		</div>
 	</div>
-	<div class="eight_section_wrapper section_wrapper_js" data-section-index="6">
+	<div class="eight_section_wrapper section_wrapper_js  section" data-section-index="6">
 		<div class="eight_section_content content_container">
 			<h2 class="sections_title">advisors</h2>
 			<div class="our_team_wrapper">

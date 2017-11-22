@@ -61,7 +61,10 @@ header("Expires: " . date("r"));
 	<link id="page_favicon" href="/img/favicon.ico" rel="icon" type="image/x-icon">
 	<script type="text/javascript" src="/js/jquery-3.2.1.min.js"></script>
 	<script type="text/javascript" src="/js/jquery.arcticmodal-0.3.min.js"></script>
+	<!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.5/jquery.fullpage.min.js"></script> -->
+	
 	<script type="text/javascript" src="/js/main.js?t=<?php echo(microtime(true)); ?>"></script>
+	<!-- <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.5/jquery.fullpage.min.css" /> -->
 	<link type="text/css" rel="stylesheet" href="/css/normalize.css">
 	<link type="text/css" rel="stylesheet" href="/css/jquery.arcticmodal-0.3.css">
 	<link type="text/css" rel="stylesheet" href="/css/main.css?t=<?php echo(microtime(true)); ?>">
@@ -229,8 +232,8 @@ header("Expires: " . date("r"));
 					<ul class="header_menu_ul clearfix">
 						<li class="header_menu_li"><a class="header_menu_a <?=$contactsSelected;?>" href="/contacts/">Contacts</a></li>
 						<li class="header_menu_li"><a class="header_menu_a <?=$roadmapSelected;?>" href="/roadmap/">Roadmap</a></li>
-						<li class="header_menu_li"><a class="mobile_menu_a <?=$businnesoverviewSelected;?>" href="/businnes_overview/">Businnes overview</a></li>
-						<li class="header_menu_li"><a class="mobile_menu_a <?=$whitepaperSelected;?>" href="/whitepaper/">Whitepaper</a></li>
+						<li class="header_menu_li"><a class="header_menu_a <?=$businnesoverviewSelected;?>" href="/businnes_overview/">Businnes overview</a></li>
+						<li class="header_menu_li"><a class="header_menu_a <?=$whitepaperSelected;?>" href="/whitepaper/">Whitepaper</a></li>
 					</ul>
 				</div>
 			</div>
