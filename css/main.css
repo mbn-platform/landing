@@ -2395,6 +2395,9 @@ width: 100%;
 line-height: 1;
 vertical-align: middle;
 }
+.center_second_page_title {
+    /*line-height: 300px;*/
+}
 .second_pages_subtitle_wrapper
 {
 height: 100px;
@@ -2769,6 +2772,14 @@ left: -340px;
 .contacts_title_wrapper
 {
 height: 190px;
+}
+.no_exist_page {
+    height: 300px;
+    display: table;
+    margin: auto;    
+}
+.center_second_page_title {
+    display: table-cell;
 }
 .header_modal_ok_js
 {

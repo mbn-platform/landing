@@ -23,6 +23,14 @@ header("Expires: " . date("r"));
 		$roadmapSelected = 'selected';
 		$title = 'Roadmap | Mercatus';
 	}
+	else if($_SERVER['REQUEST_URI'] == '/whitepaper/'){
+		$whitepaperSelected = 'selected';
+		$title = 'Whitepaper | Mercatus';
+	}
+	else if($_SERVER['REQUEST_URI'] == '/businnes_overview/'){
+		$businnesoverviewSelected = 'selected';
+		$title = 'Overview | Mercatus';
+	}		
 	else if($_SERVER['REQUEST_URI'] == '/'){
 		$homeSelected = 'selected';
 		$title = 'Mercatus - trust management of digital assets.';
@@ -178,8 +186,8 @@ header("Expires: " . date("r"));
 	<div class="close_mobile_menu">×</div>
 	<div class="mobile_menu_ul_wrapper">
 		<ul class="mobile_menu_ul">
-			<li class="mobile_menu_li"><a class="mobile_menu_a" href="/whitepaper.pdf" target="_blank">Whitepaper</a></li>
-			<li class="mobile_menu_li"><a class="mobile_menu_a" href="/overview.pdf" target="_blank">Businnes overview</a></li>
+			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$whitepaperSelected;?>" href="/whitepaper/">Whitepaper</a></li>
+			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$businnesoverviewSelected;?>" href="/businnes_overview/">Businnes overview</a></li>
 			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$roadmapSelected;?>" href="/roadmap/">Roadmap</a></li>
 			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$contactsSelected;?>" href="/contacts/">Contacts</a></li>
 		</ul>
@@ -221,8 +229,8 @@ header("Expires: " . date("r"));
 					<ul class="header_menu_ul clearfix">
 						<li class="header_menu_li"><a class="header_menu_a <?=$contactsSelected;?>" href="/contacts/">Contacts</a></li>
 						<li class="header_menu_li"><a class="header_menu_a <?=$roadmapSelected;?>" href="/roadmap/">Roadmap</a></li>
-						<li class="header_menu_li"><a class="header_menu_a" href="/overview.pdf" target="_blank">Businnes overview</a></li>
-						<li class="header_menu_li"><a class="header_menu_a" href="/whitepaper.pdf" target="_blank">Whitepaper</a></li>
+						<li class="header_menu_li"><a class="mobile_menu_a <?=$businnesoverviewSelected;?>" href="/businnes_overview/">Businnes overview</a></li>
+						<li class="header_menu_li"><a class="mobile_menu_a <?=$whitepaperSelected;?>" href="/whitepaper/">Whitepaper</a></li>
 					</ul>
 				</div>
 			</div>
