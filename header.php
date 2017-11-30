@@ -61,10 +61,11 @@ header("Expires: " . date("r"));
 	<link id="page_favicon" href="/img/favicon.ico" rel="icon" type="image/x-icon">
 	<script type="text/javascript" src="/js/jquery-3.2.1.min.js"></script>
 	<script type="text/javascript" src="/js/jquery.arcticmodal-0.3.min.js"></script>
-	<!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.5/jquery.fullpage.min.js"></script> -->
+	<script type="text/javascript" src="https://rawgit.com/alvarotrigo/fullPage.js/dev/vendors/scrolloverflow.js"></script>
+	<!-- <script type="text/javascript" src="https://rawgit.com/alvarotrigo/fullPage.js/dev/jquery.fullPage.js"></script>	 -->
 	
 	<script type="text/javascript" src="/js/main.js?t=<?php echo(microtime(true)); ?>"></script>
-	<!-- <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.5/jquery.fullpage.min.css" /> -->
+	<!-- <link rel="stylesheet" type="text/css" href="https://rawgit.com/alvarotrigo/fullPage.js/master/jquery.fullPage.css" /> -->
 	<link type="text/css" rel="stylesheet" href="/css/normalize.css">
 	<link type="text/css" rel="stylesheet" href="/css/jquery.arcticmodal-0.3.css">
 	<link type="text/css" rel="stylesheet" href="/css/main.css?t=<?php echo(microtime(true)); ?>">
