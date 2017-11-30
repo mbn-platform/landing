@@ -190,7 +190,7 @@ header("Expires: " . date("r"));
 	<div class="mobile_menu_ul_wrapper">
 		<ul class="mobile_menu_ul">
 			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$whitepaperSelected;?>" href="/whitepaper/">Whitepaper</a></li>
-			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$businnesoverviewSelected;?>" href="/businnes_overview/">Businnes overview</a></li>
+			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$businnesoverviewSelected;?>" href="/businnes_overview/">Business overview</a></li>
 			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$roadmapSelected;?>" href="/roadmap/">Roadmap</a></li>
 			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$contactsSelected;?>" href="/contacts/">Contacts</a></li>
 		</ul>
@@ -232,7 +232,7 @@ header("Expires: " . date("r"));
 					<ul class="header_menu_ul clearfix">
 						<li class="header_menu_li"><a class="header_menu_a <?=$contactsSelected;?>" href="/contacts/">Contacts</a></li>
 						<li class="header_menu_li"><a class="header_menu_a <?=$roadmapSelected;?>" href="/roadmap/">Roadmap</a></li>
-						<li class="header_menu_li"><a class="header_menu_a <?=$businnesoverviewSelected;?>" href="/businnes_overview/">Businnes overview</a></li>
+						<li class="header_menu_li"><a class="header_menu_a <?=$businnesoverviewSelected;?>" href="/businnes_overview/">Business overview</a></li>
 						<li class="header_menu_li"><a class="header_menu_a <?=$whitepaperSelected;?>" href="/whitepaper/">Whitepaper</a></li>
 					</ul>
 				</div>
