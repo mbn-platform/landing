@@ -97,6 +97,11 @@ height: 100%;
    -moz-osx-font-smoothing: grayscale;
 
 }
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
 .page_wrapper_full
 {
 width: 100%;

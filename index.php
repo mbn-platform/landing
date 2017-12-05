@@ -1,6 +1,6 @@
 <? require_once('header.php');?>
 <div class="section_arrow section_arrow_first"></div>
-<div class="first_section_wrapper">
+<div class="first_section_wrapper section fp-auto-height-responsive">
 	<div class="first_section_content content_container">
 		<div class="first_section_slogan_wrapper">
 			<div class="first_section_title">
@@ -12,8 +12,8 @@ of digital assets'>
 
 		</div>
 		<div class="first_section_video_btn_wrapper">
-			<div class="first_section_video_btn video_btn_js">
-				<div class="first_section_video_btn_text">watch video</div>
+			<div class="first_section_video_btn video_btn_js" onclick='window.open("https://demo.mercatus.im/")'>
+				<div class="first_section_video_btn_text">try demo</div>
 			</div>
 			<form class="join_us_form join_us_form_first feedback_form_js" name="subscribe1" method="post">
 				<div class="join_us_field_wrapper clearfix">
@@ -47,7 +47,7 @@ of digital assets'>
 	</div>
 	<div class="team_bg_wrapper"></div>
 </div>
-<div class="all_sections_wrapper"  id="fullpage">
+<div class="all_sections_wrapper section fp-auto-height-responsive">
 	<div class="second_section_wrapper section_wrapper_js  section" data-section-index="2">
 		<img class="small_pattern_1 small_pattern" src="img/small_pattern_9.png" width="112" onerror="this.onerror=null; this.src='img/small_pattern_9.png'" >
 		<img class="small_pattern_2 small_pattern" src="img/small_pattern_7.png" width="33" onerror="this.onerror=null; this.src='img/small_pattern_7.png'" >
@@ -62,7 +62,7 @@ of digital assets'>
 					<div class="second_section_tabs_item tab1 selected clearfix">
 						<div class="second_section_tab_left_col">
 							<div class="platform_text_title">a platform for investors</div>
-							<a class="platform_img_a" href="/platform_components/#investors">
+							<a class="platform_img_a" href="https://demo.mercatus.im/ratings" target="_blank">
 								<img class="platform_img" src="img/platform_img_small1.png" alt="Mercatus platform for investors" title="">
 							</a>
 							<div class="platform_text">An investor is able to select the best trader and sign a smart-contract with him.</div>
@@ -75,7 +75,7 @@ of digital assets'>
 							</ul>
 						</div>
 						<div class="second_section_tab_right_col">
-							<a class="platform_img_a" href="/platform_components/#investors">
+							<a class="platform_img_a" href="https://demo.mercatus.im/ratings" target="_blank">
 								<img class="platform_img" src="img/platform_img_small1.png" alt="Mercatus platform for investors" title="">
 							</a>
 						</div>
@@ -83,7 +83,7 @@ of digital assets'>
 					<div class="second_section_tabs_item tab2 clearfix">
 						<div class="second_section_tab_left_col">
 							<div class="platform_text_title">A PLATFORM FOR TRADERS</div>
-							<a class="platform_img_a" href="/platform_components/#traders">
+							<a class="platform_img_a" href="https://demo.mercatus.im/terminal" target="_blank">
 								<img class="platform_img" src="img/platform_img_small2.png" alt="Mercatus platform for traders" title="">
 							</a>
 							<div class="platform_text">A trader is able to receive money for trust management.</div>
@@ -97,7 +97,7 @@ of digital assets'>
 							</ul>
 						</div>
 						<div class="second_section_tab_right_col">
-							<a class="platform_img_a" href="/platform_components/#traders">
+							<a class="platform_img_a" href="https://demo.mercatus.im/terminal" target="_blank">
 								<img class="platform_img" src="img/platform_img_small2.png" alt="Mercatus platform for traders" title="">
 							</a>
 						</div>
@@ -105,7 +105,7 @@ of digital assets'>
 					<div class="second_section_tabs_item tab3 clearfix">
 						<div class="second_section_tab_left_col">
 							<div class="platform_text_title">FOR FUNDS</div>
-							<a class="platform_img_a" href="/platform_components/#funds">
+							<a class="platform_img_a"  style='pointer-events: none;'  href="#">
 								<img class="platform_img" src="img/platform_img_small3.png" alt="Mercatus platform for funds" title="">
 							</a>
 							<div class="platform_text">An investor or trader is able to join in and be part of a fund or create it in just few steps:</div>
@@ -118,7 +118,7 @@ of digital assets'>
 							</ul>
 						</div>
 						<div class="second_section_tab_right_col">
-							<a class="platform_img_a" href="/platform_components/#funds">
+							<a class="platform_img_a"  style='pointer-events: none;'  href="#">
 								<img class="platform_img" src="img/platform_img_small3.png" alt="Mercatus platform for funds" title="">
 							</a>
 						</div>
@@ -246,7 +246,7 @@ of digital assets'>
 			</div>
 		</div>
 	</div>
-	<div class="seventh_section_wrapper section_wrapper_js  section" data-section-index="5">
+	<div class="seventh_section_wrapper section_wrapper_js section" data-section-index="5">
 		<div class="seventh_section_content content_container">
 			<h2 class="sections_title">our team</h2>
 			<div class="our_team_wrapper">
@@ -349,7 +349,7 @@ of digital assets'>
 			</div> -->
 		</div>
 	</div>
-	<div class="eight_section_wrapper section_wrapper_js  section" data-section-index="6">
+	<div class="eight_section_wrapper section_wrapper_js  section" data-section-index="6"  data-anchor="section1">
 		<div class="eight_section_content content_container">
 			<h2 class="sections_title">advisors</h2>
 			<div class="our_team_wrapper">
