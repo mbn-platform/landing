@@ -262,7 +262,7 @@ of digital assets'>
 							<div class="our_team_name_text">Eugene Buev</div>
 						</div>
 						<div class="our_team_description">
-							<div class="our_team_description_text">Digital assets trader since 2015, Seven Star FX CEO</div>
+							<div class="our_team_description_text">Serial entrepreneur<br>Trader of cryptocurrency assets since 2015</div>
 						</div>
 						<div class="social_networks_wrapper">
 							<a class="social_networks_a ln" href="https://www.linkedin.com/in/eugene-buev-2a7367144/" target="_blank"></a>
@@ -277,7 +277,7 @@ of digital assets'>
 							<div class="our_team_position_text">CTO</div>
 						</div>
 						<div class="our_team_name">
-							<div class="our_team_name_text">Maxim Kukhro</div>
+							<div class="our_team_name_text">Maxim Khuhro</div>
 						</div>
 						<div class="our_team_description">
 							<div class="our_team_description_text">Machine learning and Java expert, AI researcher. 8 years experience at Intel Corp as a team lead.</div>
@@ -287,8 +287,43 @@ of digital assets'>
 							<a class="social_networks_a gh" href="https://github.com/goupdown/dev" target="_blank"></a>
 						</div>
 					</div>
+					<div class="our_team_item">
+						<div class="our_team_img_wrapper">
+							<img class="our_team_img" src="img/uploads/yurii_gerasimov.jpg" alt="" title="">
+						</div>
+						<div class="our_team_position">
+							<div class="our_team_position_text">CMO</div>
+						</div>
+						<div class="our_team_name">
+							<div class="our_team_name_text">Yurii Gerasimov</div>
+						</div>
+						<div class="our_team_description">
+							<div class="our_team_description_text">Marketing in SxS corporation<br>Launched several business start-ups<br>Cryptoanalyst</div>
+						</div>
+						<div class="social_networks_wrapper">
+							<a class="social_networks_a gh" href="https://github.com/thecph" target="_blank"></a>
+						</div>
+					</div>					
 				</div>
 				<div class="our_team_string our_team_string2">
+					<div class="our_team_item">
+						<div class="our_team_img_wrapper">
+							<img class="our_team_img" src="img/uploads/kirill_romanov.jpg" alt="" title="">
+						</div>
+						<div class="our_team_position">
+							<div class="our_team_position_text">COO</div>
+						</div>
+						<div class="our_team_name">
+							<div class="our_team_name_text">Kirill Romanov</div>
+						</div>
+						<div class="our_team_description">
+							<div class="our_team_description_text">Digital-agency founder<br>Serial entrepreneur<br>Marketing since 2009</div>
+						</div>
+						<div class="social_networks_wrapper">
+							<a class="social_networks_a ln" href="https://www.linkedin.com/in/kirill-romanov-56b5118b/" target="_blank"></a>
+							<a class="social_networks_a fb" href="https://www.facebook.com/romanovkiri11" target="_blank"></a>
+						</div>
+					</div>						
 					<div class="our_team_item">
 						<div class="our_team_img_wrapper">
 							<img class="our_team_img" src="img/uploads/igor_knyazev.jpg" alt="" title="">
@@ -325,9 +360,9 @@ of digital assets'>
 							<a class="social_networks_a gh" href="https://github.com/goblinrd" target="_blank"></a>
 						</div>
 					</div>
-					<!--<div class="our_team_item">
+					<div class="our_team_item">
 						<div class="our_team_img_wrapper">
-							<img class="our_team_img" src="img/uploads/artyom_shtirner.jpg" alt="" title="">
+							<img class="our_team_img" src="img/uploads/artem_myznikov.jpg" alt="" title="">
 						</div>
 						<div class="our_team_position">
 							<div class="our_team_position_text">Frontend developer</div>
@@ -341,7 +376,7 @@ of digital assets'>
 						<div class="social_networks_wrapper">
 							<a class="social_networks_a gh" href="https://github.com/amiznikov" target="_blank"></a>
 						</div>
-					</div>-->
+					</div>
 				</div>
 			</div>
 			<!-- <div class="sections_arrow_wrapper">

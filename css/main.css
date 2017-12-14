@@ -1764,6 +1764,12 @@ background-image: url(../img/join_twitter_hover.png);
 background-image: url(../img/join_twitter_hover.svg);
 background-repeat: no-repeat;
 }
+.social_networks_a.fb:before
+{
+background-image: url(../img/join_fb_hover.png);
+background-image: url(../img/join_fb_hover.svg);
+background-repeat: no-repeat;
+}
 .social_networks_a.gh:after
 {
 background-image: url(../img/github.png);
@@ -1783,6 +1789,12 @@ background-image: url(../img/dribbble.svg);
 {
 background-image: url(../img/join_twitter.png);
 background-image: url(../img/join_twitter.svg);
+background-repeat: no-repeat;
+}
+.social_networks_a.fb:after
+{
+background-image: url(../img/join_fb.png);
+background-image: url(../img/join_fb.svg);
 background-repeat: no-repeat;
 }
 
@@ -2946,10 +2958,10 @@ min-height: 410px;
 min-height: 3130px;
 width: 100%;
 position: absolute;
-top: 2750px;
+top: 2450px;
 left: 0px;
 z-index: 1;
-background: url(../img/team_bg2.jpg) 0px 100px / 1200px no-repeat;
+/*background: url(../img/team_bg2.jpg) 0px 100px / 1200px no-repeat;*/
 }
 .pattern_boxes2
 {
@@ -4084,14 +4096,16 @@ padding-bottom: 170px;
 @media only screen and (max-width : 650px) {
 .team_bg_wrapper
 {
-background: url(../img/team_bg3.jpg) no-repeat 0 100px;
-width: 100%;
-position: absolute;
-left: 0;
-z-index: 1;
-top: 4590px;
-background-size: 1320px;
-min-height: 4280px;
+    background: url(../img/team_bg3.jpg) no-repeat 0 100px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    z-index: 1;
+    /* background-repeat-y: repeat; */
+    top: 4790px;
+    /* background-size: 1320px; */
+    min-height: 3080px;
+    background-size: cover;
 }
 }
 @media only screen and (max-width : 600px) {
@@ -4157,6 +4171,19 @@ min-height: 4280px;
 .ninth_section_wrapper
 {
 
+}
+
+.team_bg_wrapper {
+    background: url(../img/team_bg3.jpg) no-repeat 0 100px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    z-index: 1;
+    /* background-repeat-y: repeat; */
+    top: 4490px;
+    /* background-size: 1320px; */
+    min-height: 3180px;
+    background-size: cover;
 }
 .roadmap_quarter_text {
 font-size: 1.4em;
@@ -4348,6 +4375,11 @@ color: #8e92c5;
 
 
 
+}
+@media only screen and (max-width : 470px) {
+.team_bg_wrapper {
+    min-height: 5180px;
+}
 }
 @media only screen and (max-width : 468px) {
     .closed .roadmap_quarter_text.tenth_text {
