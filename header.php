@@ -27,7 +27,7 @@ header("Expires: " . date("r"));
 		$whitepaperSelected = 'selected';
 		$title = 'Whitepaper | Mercatus';
 	}
-	else if($_SERVER['REQUEST_URI'] == '/businnes_overview/'){
+	else if($_SERVER['REQUEST_URI'] == '/business_overview/'){
 		$businnesoverviewSelected = 'selected';
 		$title = 'Overview | Mercatus';
 	}		
@@ -191,7 +191,7 @@ header("Expires: " . date("r"));
 	<div class="mobile_menu_ul_wrapper">
 		<ul class="mobile_menu_ul">
 			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$whitepaperSelected;?>" target="_blank" href="/whitepaper/">Whitepaper</a></li>
-			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$businnesoverviewSelected;?>" target="_blank" href="/businnes_overview/">Business overview</a></li>
+			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$businnesoverviewSelected;?>" target="_blank" href="/business_overview/">Business overview</a></li>
 			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$roadmapSelected;?>" href="/roadmap/">Roadmap</a></li>
 			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$contactsSelected;?>" href="/contacts/">Contacts</a></li>
 		</ul>
@@ -233,7 +233,7 @@ header("Expires: " . date("r"));
 					<ul class="header_menu_ul clearfix">
 						<li class="header_menu_li"><a class="header_menu_a <?=$contactsSelected;?>" href="/contacts/">Contacts</a></li>
 						<li class="header_menu_li"><a class="header_menu_a <?=$roadmapSelected;?>" href="/roadmap/">Roadmap</a></li>
-						<li class="header_menu_li"><a class="header_menu_a <?=$businnesoverviewSelected;?>" target="_blank" href="/businnes_overview/">Business overview</a></li>
+						<li class="header_menu_li"><a class="header_menu_a <?=$businnesoverviewSelected;?>" target="_blank" href="/business_overview/">Business overview</a></li>
 						<li class="header_menu_li"><a class="header_menu_a <?=$whitepaperSelected;?>"  target="_blank"  href="/whitepaper/">Whitepaper</a></li>
 					</ul>
 				</div>
