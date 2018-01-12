@@ -359,23 +359,52 @@ line-height: 30px;
 }
 /*************** Header end ***************/
 
+/*************** Language begin ***************/
 
+.language_content {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;    
+}
 
+.language_item {
+    display: inline-block;
+    width: 20%;
+    cursor: pointer;
+}
 
+.language_choose {
+    text-align: center;
+    margin-bottom: 40px;    
+}
 
+.language_item .language_title {
+    margin-bottom: 15px;
+}
 
+.language_choose ,.language_item .language_title {
+    color: #32ba94;
+    font-size: 3em;
+    text-transform: uppercase;
+    font-family: 'maven_proregular';
+    line-height: 1;
+    text-align: center;
 
+}
+.language_item .language_flag {
+    width: 100%;
+    background-size: contain;
+}
+.language_item .language_flag.ru {
+    background-image: url(../img/ru.png);
+    padding-top: 50%;
+}
+.language_item .language_flag.en {
+    background-image: url(../img/en.png);
+    padding-top: 50%;
+}
 
-
-
-
-
-
-
-
-
-
-
+/*************** Language end ***************/
 
 /*************** Index page begin ***************/
 .first_section_wrapper
@@ -3463,6 +3492,26 @@ display: none;
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
+.language_choose ,.language_item .language_title { 
+    font-size: 1.4em;
+}
+.language_item {
+    display: inline-block;
+    width: 30%;
+}
+.language_content {
+    margin-bottom: 15px;    
+}
+
+.language_choose {
+    text-align: center;
+    margin-bottom: 15px;    
+}
+
+.language_item .language_title {
+    margin-bottom: 7px;
+}
+
 .error_404_wrapper
 {
 padding-top: 40px;

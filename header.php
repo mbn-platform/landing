@@ -23,11 +23,11 @@ header("Expires: " . date("r"));
 		$roadmapSelected = 'selected';
 		$title = 'Roadmap | Mercatus';
 	}
-	else if($_SERVER['REQUEST_URI'] == '/whitepaper/'){
+	else if($_SERVER['REQUEST_URI'] == '/whitepaper_language/'){
 		$whitepaperSelected = 'selected';
 		$title = 'Whitepaper | Mercatus';
 	}
-	else if($_SERVER['REQUEST_URI'] == '/business_overview/'){
+	else if($_SERVER['REQUEST_URI'] == '/business_overview_language/'){
 		$businnesoverviewSelected = 'selected';
 		$title = 'Overview | Mercatus';
 	}		
@@ -190,8 +190,8 @@ header("Expires: " . date("r"));
 	<div class="close_mobile_menu">×</div>
 	<div class="mobile_menu_ul_wrapper">
 		<ul class="mobile_menu_ul">
-			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$whitepaperSelected;?>" target="_blank" href="/whitepaper/">Whitepaper</a></li>
-			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$businnesoverviewSelected;?>" target="_blank" href="/business_overview/">Business overview</a></li>
+			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$whitepaperSelected;?>" href="/whitepaper_language/">Whitepaper</a></li>
+			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$businnesoverviewSelected;?>" href="/business_overview_language/">Business overview</a></li>
 			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$roadmapSelected;?>" href="/roadmap/">Roadmap</a></li>
 			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$contactsSelected;?>" href="/contacts/">Contacts</a></li>
 		</ul>
@@ -233,8 +233,8 @@ header("Expires: " . date("r"));
 					<ul class="header_menu_ul clearfix">
 						<li class="header_menu_li"><a class="header_menu_a <?=$contactsSelected;?>" href="/contacts/">Contacts</a></li>
 						<li class="header_menu_li"><a class="header_menu_a <?=$roadmapSelected;?>" href="/roadmap/">Roadmap</a></li>
-						<li class="header_menu_li"><a class="header_menu_a <?=$businnesoverviewSelected;?>" target="_blank" href="/business_overview/">Business overview</a></li>
-						<li class="header_menu_li"><a class="header_menu_a <?=$whitepaperSelected;?>"  target="_blank"  href="/whitepaper/">Whitepaper</a></li>
+						<li class="header_menu_li"><a class="header_menu_a <?=$businnesoverviewSelected;?>" href="/business_overview_language/">Business overview</a></li>
+						<li class="header_menu_li"><a class="header_menu_a <?=$whitepaperSelected;?>" href="/whitepaper_language/">Whitepaper</a></li>
 					</ul>
 				</div>
 			</div>
