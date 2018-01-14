@@ -30,22 +30,230 @@ of digital assets'>
 		<div class="first_section_text_wrapper">
 			<div class="first_section_text">THE FIRST TRUST MANAGEMENT PLATFORM FULLY BUILT ON BLOCKCHAIN TECHNOLOGY</div>	
 		</div>
-		<div class="sections_arrow_wrapper">
-			<div class="section_arrow section_arrow_point"></div>
-		</div>
+        <div class="sections_arrow_wrapper">
+            <div class="section_arrow section_arrow_point"></div>
+        </div>        
 	</div>
-	<div class="first_section_line_wrapper">
-		<div class="first_section_line"></div>
-	</div>
+    <div class="first_section_line_wrapper">
+        <div class="first_section_line"></div>
+    </div>         
 </div>
+
+<section class="">
+    <div class="first_section_ether">
+        <div class="first_section_ether_title">
+            Pre-ICO starts in:
+        </div>
+        <div id="clockdiv" class="count-down progress" data-deadline="2018-01-20">
+            <div class="column day">
+                <div class="number days">6</div>
+                <div class="text">days</div>
+            </div>
+            <div class="column hour">
+                <div class="number hours">21</div>
+                <div class="text">hours</div>
+            </div>
+            <div class="column min">
+                <div class="number minutes">21</div>
+                <div class="text">minutes</div>
+            </div>
+            <div class="column sec">
+                <div class="number seconds">47</div>
+                <div class="text">seconds</div>
+            </div>
+        </div>
+        <div class="join_us_submit_wrapper join">
+            <div class="join_us_submit_wrapper1"></div>
+            <div class="join_us_submit_wrapper2"></div>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdpHm7dyQ11oficrhdXOmaJKOIXmHTXt3aOR6nEgvcHW6j9eQ/viewform" target="_blank" class="join_us_submit">Join Whitelist</a>
+        </div>
+        <br>
+        <br>
+        <br>
+    </div>
+
+</section>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.0/Chart.min.js"></script>
+<section class="section charts">
+    <div class="container">
+        <header class="section-header">
+            <h2>Pre-ICO token price</h2>
+            <div>
+                Price for 1 token = $0,008 or 0,000065 ETH <br>
+                1 Ethereum  = 15 600 MCS tokens
+            </div>
+        </header>
+        <div class="row gap-y">
+            <div class="col-12 col-lg-3">
+                <div class="card card-shadowed">
+                    <div class="card-block">
+                        <div class="chartjs-size-monitor" style="position: absolute; left: 0px; top: 0px; right: 0px; bottom: 0px; overflow: hidden; pointer-events: none; visibility: hidden; z-index: -1;">
+                            <div class="chartjs-size-monitor-expand" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
+                                <div style="position:absolute;width:1000000px;height:1000000px;left:0;top:0"></div>
+                            </div>
+                            <div class="chartjs-size-monitor-shrink" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
+                                <div style="position:absolute;width:200%;height:200%;left:0; top:0"></div>
+                            </div>
+                        </div>
+                        <h5 class="card-title">Pre-sale Range 1</h5>
+                        <br>
+                        <div class="lead text-center text-success">10 ETH - 50 ETH</div>
+                        <br>
+                        <div class="text-center text-muted">Bonus 10%</div>
+                        <br>
+                        <br>
+                        <canvas id="presale1" width="215" height="107" class="chartjs-render-monitor" style="display: block; width: 215px; height: 107px;"></canvas>
+                        <script>
+                            $(function() {
+                                var presale1 = document.getElementById("presale1");
+                                var presaleChart1 = new Chart(presale1, {
+                                    type: 'pie',
+                                    data: {
+                                        datasets: [{
+                                            data: [10, 90],
+                                            backgroundColor: ['#3ebb94','#58585f']
+                                        }]
+                                    },
+                                    options: {
+                                        legend: { display: false },
+                                        tooltips: { enabled: false }
+                                    }
+                                });
+                            });
+                        </script>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-lg-3">
+                <div class="card card-shadowed">
+                    <div class="card-block">
+                        <div class="chartjs-size-monitor" style="position: absolute; left: 0px; top: 0px; right: 0px; bottom: 0px; overflow: hidden; pointer-events: none; visibility: hidden; z-index: -1;">
+                            <div class="chartjs-size-monitor-expand" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
+                                <div style="position:absolute;width:1000000px;height:1000000px;left:0;top:0"></div>
+                            </div>
+                            <div class="chartjs-size-monitor-shrink" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
+                                <div style="position:absolute;width:200%;height:200%;left:0; top:0"></div>
+                            </div>
+                        </div>
+                        <h5 class="card-title">Pre-sale Range 2</h5>
+                        <br>
+                        <div class="lead text-center text-success">50 ETH - 100 ETH</div>
+                        <br>
+                        <div class="text-center text-muted">Bonus 20%</div>
+                        <br>
+                        <br>
+                        <canvas id="presale2" width="215" height="107" class="chartjs-render-monitor" style="display: block; width: 215px; height: 107px;"></canvas>
+                        <script>$(function() {
+                                var presale2 = document.getElementById("presale2");
+                                var presaleChart2 = new Chart(presale2, {
+                                    type: 'pie',
+                                    data: {
+                                        datasets: [{
+                                            data: [20, 80],
+                                            backgroundColor: ['#3ebb94','#58585f']
+                                        }]
+                                    },
+                                    options: {
+                                        legend: { display: false },
+                                        tooltips: { enabled: false }
+                                    }
+                                });
+                            });
+                        </script>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-lg-3">
+                <div class="card card-shadowed">
+                    <div class="card-block">
+                        <div class="chartjs-size-monitor" style="position: absolute; left: 0px; top: 0px; right: 0px; bottom: 0px; overflow: hidden; pointer-events: none; visibility: hidden; z-index: -1;">
+                            <div class="chartjs-size-monitor-expand" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
+                                <div style="position:absolute;width:1000000px;height:1000000px;left:0;top:0"></div>
+                            </div>
+                            <div class="chartjs-size-monitor-shrink" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
+                                <div style="position:absolute;width:200%;height:200%;left:0; top:0"></div>
+                            </div>
+                        </div>
+                        <h5 class="card-title">Pre-sale Range 3</h5>
+                        <br>
+                        <div class="lead text-center text-success">100 ETH +</div>
+                        <br>
+                        <div class="text-center text-muted">Bonus 30%</div>
+                        <br>
+                        <br>
+                        <canvas id="presale3" width="215" height="107" class="chartjs-render-monitor" style="display: block; width: 215px; height: 107px;"></canvas>
+                        <script>
+                            $(function() {
+                                var presale3 = document.getElementById("presale3");
+                                var presaleChart3 = new Chart(presale3, {
+                                    type: 'pie',
+                                    data: {
+                                        datasets: [{
+                                            data: [30, 70],
+                                            backgroundColor: ['#3ebb94','#58585f']
+                                        }]
+                                    },
+                                    options: {
+                                        legend: { display: false },
+                                        tooltips: { enabled: false }
+                                    }
+                                });
+                            });
+                        </script>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-lg-3">
+                <div class="card card-shadowed">
+                    <div class="card-block">
+                        <div class="chartjs-size-monitor" style="position: absolute; left: 0px; top: 0px; right: 0px; bottom: 0px; overflow: hidden; pointer-events: none; visibility: hidden; z-index: -1;">
+                            <div class="chartjs-size-monitor-expand" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
+                                <div style="position:absolute;width:1000000px;height:1000000px;left:0;top:0"></div>
+                            </div>
+                            <div class="chartjs-size-monitor-shrink" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
+                                <div style="position:absolute;width:200%;height:200%;left:0; top:0"></div>
+                            </div>
+                        </div>
+                        <h5 class="card-title">Public Sale</h5>
+                        <div class="lead text-center text-success">min/max Personal Cap: <br > 0.1 / 10 eth for first hour. No limits after.</div>
+                        <div class="text-center text-muted">no Bonus</div>
+                        <canvas id="crowdsale" width="215" height="107" class="chartjs-render-monitor" style="display: block; width: 215px; height: 107px;"></canvas>
+                        <script>
+                            $(function() {
+                                var crowdsale = document.getElementById("crowdsale");
+                                var crowdsaleChart = new Chart(crowdsale, {
+                                    type: 'pie',
+                                    data: {
+                                        datasets: [{
+                                            data: [100, 0],
+                                            backgroundColor: ['#3ebb94','#58585f']
+                                        }]
+                                    },
+                                    options: {
+                                        legend: { display: false },
+                                        tooltips: { enabled: false }
+                                    }
+                                });
+                            });
+                        </script>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <div class="patterns_wrapper">
-	<div class="pattern_dots"></div>
-	<div class="pattern_boxes1">
-	</div>
-	<div class="pattern_boxes2">
-		<div class="pattern_cycrle3"></div>
-	</div>
-	<div class="team_bg_wrapper"></div>
+    <div class="pattern_dots"  style="top: 0;"></div>
+    <div class="pattern_boxes1" style="top: 0">
+    </div>
+    <div class="pattern_boxes2">
+        <div class="pattern_cycrle3"></div>
+    </div>
+    <div class="team_bg_wrapper"></div>
 </div>
 <div class="all_sections_wrapper section fp-auto-height-responsive">
 	<div class="second_section_wrapper section_wrapper_js  section" data-section-index="2">
@@ -389,6 +597,25 @@ of digital assets'>
 			<h2 class="sections_title">advisors</h2>
 			<div class="our_team_wrapper">
 				<div class="our_team_string our_team_string2">
+				<!--
+					<div class="our_team_item">
+						<div class="our_team_img_wrapper">
+							<img class="our_team_img" src="img/uploads/alexander_noxon.jpg" alt="" title="">
+						</div>
+						<div class="our_team_position">
+							<div class="our_team_position_text">Technical Advisor</div>
+						</div>
+						<div class="our_team_name">
+							<div class="our_team_name_text">Alexander Noxon</div>
+						</div>
+						<div class="our_team_description">
+							<div class="our_team_description_text">CTO at dao.casino Expert in ethereum dapps. In 2015 developed own trading platform connectivity Thomson Reuters.</div>
+						</div>
+						<div class="social_networks_wrapper">
+							<a class="social_networks_a gh" href="https://github.com/noxonsu" target="_blank"></a>
+						</div>
+					</div>
+				-->
 					<div class="our_team_item">
 						<div class="our_team_img_wrapper">
 							<img class="our_team_img" src="img/uploads/sls.png" alt="" title="" onclick="window.open('https://bitcointalk.org/index.php?topic=1317448.0')">
