@@ -38,8 +38,16 @@ of digital assets'>
         <div class="first_section_line"></div>
     </div>         
 </div>
-
-<section class="">
+<div class="patterns_wrapper">
+    <div class="pattern_dots"  style="top: 0;"></div>
+    <div class="pattern_boxes1" style="top: 0">
+    </div>
+    <div class="pattern_boxes2">
+        <div class="pattern_cycrle3"></div>
+    </div>
+    <div class="team_bg_wrapper"></div>
+</div>
+<section class="section pre-ico">
     <div class="first_section_ether">
         <div class="first_section_ether_title">
             Pre-ICO starts in:
@@ -246,15 +254,6 @@ of digital assets'>
         </div>
     </div>
 </section>
-<div class="patterns_wrapper">
-    <div class="pattern_dots"  style="top: 0;"></div>
-    <div class="pattern_boxes1" style="top: 0">
-    </div>
-    <div class="pattern_boxes2">
-        <div class="pattern_cycrle3"></div>
-    </div>
-    <div class="team_bg_wrapper"></div>
-</div>
 <div class="all_sections_wrapper section fp-auto-height-responsive">
 	<div class="second_section_wrapper section_wrapper_js  section" data-section-index="2">
 		<img class="small_pattern_1 small_pattern" src="img/small_pattern_9.png" width="112" onerror="this.onerror=null; this.src='img/small_pattern_9.png'" >

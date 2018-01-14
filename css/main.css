@@ -102,6 +102,7 @@ a {
     color: inherit;
     text-decoration: none;
 }
+
 .page_wrapper_full
 {
 width: 100%;
@@ -699,7 +700,7 @@ background: url(../img/team_bg.jpg) no-repeat 0 100px;
 min-height: 3000px;
 width: 100%;
 position: absolute;
-top: 3420px;
+top: 4220px;
 left: 0;
 z-index: 1;
 background-size: 1918px;
@@ -2987,7 +2988,7 @@ min-height: 410px;
 min-height: 3130px;
 width: 100%;
 position: absolute;
-top: 2450px;
+top: 3150px;
 left: 0px;
 z-index: 1;
 /*background: url(../img/team_bg2.jpg) 0px 100px / 1200px no-repeat;*/
@@ -3266,6 +3267,11 @@ margin-bottom: 25px;
 }
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
+.team_bg_wrapper
+{
+top: 5750px;
+/*background: url(../img/team_bg2.jpg) 0px 100px / 1200px no-repeat;*/
+}    
 .fourth_section_wrapper:before,
 .fourth_section_wrapper:after
 {
@@ -3552,7 +3558,7 @@ padding-bottom: 30px;
 .team_bg_wrapper
 {
 background: url(../img/team_bg3.jpg) no-repeat 0 100px;
-top: 4590px;
+top: 7390px;
 background-size: 780px;
 min-height: 2620px;
 width: 100%;
@@ -4150,7 +4156,7 @@ padding-bottom: 170px;
     left: 0;
     z-index: 1;
     /* background-repeat-y: repeat; */
-    top: 4790px;
+    top: 7390px;
     /* background-size: 1320px; */
     min-height: 3080px;
     background-size: cover;
@@ -4228,7 +4234,7 @@ padding-bottom: 170px;
     left: 0;
     z-index: 1;
     /* background-repeat-y: repeat; */
-    top: 4290px;
+    top: 6790px;
     /* background-size: 1320px; */
     min-height: 3180px;
     background-size: cover;
@@ -4423,6 +4429,26 @@ color: #8e92c5;
 
 
 
+}
+
+@media only screen and (max-width : 480px) {
+.ninth_section_wrapper
+{
+
+}
+
+.team_bg_wrapper {
+    background: url(../img/team_bg3.jpg) no-repeat 0 100px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    z-index: 1;
+    /* background-repeat-y: repeat; */
+    top: 6490px;
+    /* background-size: 1320px; */
+    min-height: 3180px;
+    background-size: cover;
+}
 }
 @media only screen and (max-width : 470px) {
 .team_bg_wrapper {
@@ -4810,7 +4836,20 @@ margin-bottom: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
     position: relative;
+    margin-bottom: 50px;
     z-index: 5;
+}
+
+.section.pre-ico {
+    position: relative;
+    width: 100%;
+    height: 275px;  
+    margin-top: 70px;  
+}
+.section.pre-ico .first_section_ether {
+    position: absolute;
+    z-index: 2;
+    width: 100%;    
 }
 
 @media (min-width: 1200px) {
