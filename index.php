@@ -30,50 +30,49 @@ of digital assets'>
 		<div class="first_section_text_wrapper">
 			<div class="first_section_text">THE FIRST TRUST MANAGEMENT PLATFORM FULLY BUILT ON BLOCKCHAIN TECHNOLOGY</div>	
 		</div>
-        <div class="first_section_line_wrapper">
-            <div class="first_section_line"></div>
+        <div class="sections_arrow_wrapper">
+            <div class="section_arrow section_arrow_point"></div>
         </div>        
-        <div class="">
-            <div class="first_section_ether">
-                <div class="first_section_ether_title">
-                    Pre-ICO dates 20.01.2018-20.02.2018
-                </div>
-                <div id="clockdiv" class="count-down progress" data-deadline="2018-01-20">
-                    <div class="column day">
-                        <div class="number days">6</div>
-                        <div class="text">days</div>
-                    </div>
-                    <div class="column hour">
-                        <div class="number hours">21</div>
-                        <div class="text">hours</div>
-                    </div>
-                    <div class="column min">
-                        <div class="number minutes">21</div>
-                        <div class="text">minutes</div>
-                    </div>
-                    <div class="column sec">
-                        <div class="number seconds">47</div>
-                        <div class="text">seconds</div>
-                    </div>
-                </div>
-                <div class="join_us_submit_wrapper join">
-                    <div class="join_us_submit_wrapper1"></div>
-                    <div class="join_us_submit_wrapper2"></div>
-                    <a href="#modalinfo"  rel="modal:open" class="join_us_submit">Join Whitelist</a>
-                </div>
-                <br>
-                <br>
-                <br>
-            </div>
-
-        </div>
-		<div class="sections_arrow_wrapper">
-			<div class="section_arrow section_arrow_point"></div>
-		</div>
 	</div>
-<!---->
-
+    <div class="first_section_line_wrapper">
+        <div class="first_section_line"></div>
+    </div>         
 </div>
+
+<section class="">
+    <div class="first_section_ether">
+        <div class="first_section_ether_title">
+            Pre-ICO starts in:
+        </div>
+        <div id="clockdiv" class="count-down progress" data-deadline="2018-01-20">
+            <div class="column day">
+                <div class="number days">6</div>
+                <div class="text">days</div>
+            </div>
+            <div class="column hour">
+                <div class="number hours">21</div>
+                <div class="text">hours</div>
+            </div>
+            <div class="column min">
+                <div class="number minutes">21</div>
+                <div class="text">minutes</div>
+            </div>
+            <div class="column sec">
+                <div class="number seconds">47</div>
+                <div class="text">seconds</div>
+            </div>
+        </div>
+        <div class="join_us_submit_wrapper join">
+            <div class="join_us_submit_wrapper1"></div>
+            <div class="join_us_submit_wrapper2"></div>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdpHm7dyQ11oficrhdXOmaJKOIXmHTXt3aOR6nEgvcHW6j9eQ/viewform" target="_blank" class="join_us_submit">Join Whitelist</a>
+        </div>
+        <br>
+        <br>
+        <br>
+    </div>
+
+</section>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.0/Chart.min.js"></script>
 <section class="section charts">
     <div class="container">
