@@ -104,12 +104,9 @@ of digital assets'>
                             </div>
                         </div>
                         <h5 class="card-title">Pre-sale Range 1</h5>
-                        <br>
-                        <div class="lead text-center text-success">10 ETH - 50 ETH</div>
-                        <br>
+                        
+                        <div class="lead text-center text-success"><br>10 ETH - 50 ETH<br>&nbsp;</div>
                         <div class="text-center text-muted">Bonus 10%</div>
-                        <br>
-                        <br>
                         <canvas id="presale1" width="215" height="107" class="chartjs-render-monitor" style="display: block; width: 215px; height: 107px;"></canvas>
                         <script>
                             $(function() {
@@ -145,12 +142,8 @@ of digital assets'>
                             </div>
                         </div>
                         <h5 class="card-title">Pre-sale Range 2</h5>
-                        <br>
-                        <div class="lead text-center text-success">50 ETH - 100 ETH</div>
-                        <br>
+                        <div class="lead text-center text-success"><br>50 ETH - 100 ETH<br>&nbsp;</div>
                         <div class="text-center text-muted">Bonus 20%</div>
-                        <br>
-                        <br>
                         <canvas id="presale2" width="215" height="107" class="chartjs-render-monitor" style="display: block; width: 215px; height: 107px;"></canvas>
                         <script>$(function() {
                                 var presale2 = document.getElementById("presale2");
@@ -185,12 +178,8 @@ of digital assets'>
                             </div>
                         </div>
                         <h5 class="card-title">Pre-sale Range 3</h5>
-                        <br>
-                        <div class="lead text-center text-success">100 ETH +</div>
-                        <br>
+                        <div class="lead text-center text-success"><br>100 ETH +<br>&nbsp;</div>
                         <div class="text-center text-muted">Bonus 30%</div>
-                        <br>
-                        <br>
                         <canvas id="presale3" width="215" height="107" class="chartjs-render-monitor" style="display: block; width: 215px; height: 107px;"></canvas>
                         <script>
                             $(function() {
@@ -226,7 +215,7 @@ of digital assets'>
                             </div>
                         </div>
                         <h5 class="card-title">Public Sale</h5>
-                        <div class="lead text-center text-success">min/max Personal Cap: <br > 0.1 / 10 eth for first hour. No limits after.</div>
+                        <div class="lead text-center text-success">Pers. cap for 1st hour: min 0.1 - max 10 ETH <br> No limits after</div>
                         <div class="text-center text-muted">no Bonus</div>
                         <canvas id="crowdsale" width="215" height="107" class="chartjs-render-monitor" style="display: block; width: 215px; height: 107px;"></canvas>
                         <script>
