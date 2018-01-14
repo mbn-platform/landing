@@ -17,7 +17,6 @@
     <div class="tab-info join_us">
         <div class="tab-info-inner" id="tab-first">
             <p class="text-center"><strong>Join whitelist</strong></p>
-            <p class="text-center"><strong>Send your contribution to this address:</strong></p>
             <form action="/email/email.php" id="form_join_us">
                 <div class="join_us_field_wrapper clearfix">
                     <input type="email" id="join_us_email" class="join_us_field email"  value="" placeholder="enter your e-mail">
