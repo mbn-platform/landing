@@ -109,8 +109,114 @@ $(document).ready(function() {
 		else{
 			$('.detail_table_overflow').addClass('opened');
 		}
-	})
-})
+	});
+
+	$(document).on('click','.js_readfaq',function(even){
+		even.preventDefault();
+		var href = $(this).attr('href');
+		$(href).slideToggle();
+		return false;
+	});
+
+	$('.js-checer input').change(function(){
+		var count = $('.js-checer input').length,
+			checkcount = 0;
+        $('.js-checer input').each(function(){
+			if ($(this).prop('checked')) {
+                checkcount++;
+			}
+		});
+        if (checkcount == count) {
+        	$('.js-next').css('visibility','visible');
+		}
+	});
+    $('.js-next').click(function(){
+        $('#tab-first').hide();
+    	$('#tab-second').show();
+    	$('.tab-top-inner').removeClass('active');
+        $('#tabtwo').addClass('active');
+	});
+    $('#copytocli').click(function(){
+        var copyText = document.getElementById("copyurl");
+        copyText.select();
+        document.execCommand("Copy");
+        console.log("Copied the text: " + copyText.value);
+	});
+
+    function getTimeRemaining(endtime){
+        var t = Date.parse(endtime) - Date.parse(new Date());
+        var seconds = Math.floor( (t/1000) % 60 );
+        var minutes = Math.floor( (t/1000/60) % 60 );
+        var hours = Math.floor( (t/(1000*60*60)) % 24 );
+        var days = Math.floor( t/(1000*60*60*24) );
+        return {
+            'total': t,
+            'days': days,
+            'hours': hours,
+            'minutes': minutes,
+            'seconds': seconds
+        };
+    }
+
+    function initializeClock(id, endtime){
+        var clock = document.getElementById(id);
+        var timeinterval = setInterval(function(){
+            var t = getTimeRemaining(endtime);
+            // clock.innerHTML = 'days: ' + t.days + ' ' + t.hours + ':' + t.minutes + ':' + t.seconds;
+            var daysSpan = clock.querySelector('.days');
+            var hoursSpan = clock.querySelector('.hours');
+            var minutesSpan = clock.querySelector('.minutes');
+            var secondsSpan = clock.querySelector('.seconds');
+            daysSpan.innerHTML = t.days;
+            hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
+            minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
+            secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
+            if(t.total<=0){
+                clearInterval(timeinterval);
+            }
+        },1000);
+    }
+    if ($('#clockdiv').length > 0) {
+        var deadline =  $('#clockdiv').data('deadline');
+        //'02/10/2017 20:59:59 GMT+02:00';
+        initializeClock('clockdiv', deadline);
+    }
+    function openInNewTab(url) {
+        var win = window.open(url, '_blank');
+        win.focus();
+    }
+    $('#join_us_submit').click(function(even){
+        even.preventDefault();
+    	$('#form_join_us').submit();
+    });
+    $('#form_join_us').submit(function(even){
+        even.preventDefault();
+        var from = $('#form_join_us'),
+            url = from.attr('action');
+        $.ajax({
+            type:'POST',
+            data: {'email':$('#join_us_email').val()},
+            url: url,
+            success: function(result){
+                console.log(result);
+                console.log(JSON.parse(result));
+                res = JSON.parse(result);
+                if (res['error'] != 1) {
+                	if (res['status'] != 0) {
+                        $('#join_us_status').text(res['text']);
+					}
+                    if (res['status'] == 3) {
+                        openInNewTab(res['url']);
+                    }
+				} else {
+                    $('#join_us_status').html(res['text']);
+				}
+            }
+        });
+        return false;
+	});
+
+});
 $(window).on('load', function () {
 	var $roadMapStrings = $('.roadmap_item_string');
 	var hold = 400;
@@ -209,6 +315,36 @@ $(window).on('load', function () {
 			)
 		}
 	}
-});	
+});
 
 
+$(window).on('load', function () {
+	var ethlink = $('#polosa').data('eht');
+    $.ajax({
+        type:'POST',
+		data: {'link':ethlink},
+        url: "/pars/pars.php",
+        success: function(result){
+        	var that = $('#polosa'),
+                avgproc = 0,
+                tekproc = 0,
+				min = that.data('min'),
+                avg = that.data('avg'),
+            	max = that.data('max');
+
+            console.log(JSON.parse(result));
+            res = JSON.parse(result);
+            if (res['error'] == 0) {
+            	tekproc = (100*res['usd'])/max;
+            	avgproc = (100*avg)/max;
+            	console.log(avgproc);
+                $('.first_section_ether_polosa_max').html(max+' USD<span>hard cap</span>');
+                $('.first_section_ether_polosa_min').html(min);
+                $('.first_section_ether_polosa_avg').html(avg+' USD<span>soft cap</span>');
+                $('.first_section_ether_polosa_inner').text(res['usd']);
+                $('.first_section_ether_polosa_inner').css('min-width',tekproc+'%');
+                $('.first_section_ether_polosa_avg').css('left',avgproc+'%');
+            }
+        }
+    });
+});

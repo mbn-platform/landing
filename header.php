@@ -61,6 +61,7 @@ header("Expires: " . date("r"));
 	<link id="page_favicon" href="/img/favicon.ico" rel="icon" type="image/x-icon">
 	<script type="text/javascript" src="/js/jquery-3.2.1.min.js"></script>
 	<script type="text/javascript" src="/js/jquery.arcticmodal-0.3.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.modal.js"></script>
 	<script type="text/javascript" src="https://rawgit.com/alvarotrigo/fullPage.js/dev/vendors/scrolloverflow.js"></script>
 	<!-- <script type="text/javascript" src="https://rawgit.com/alvarotrigo/fullPage.js/dev/jquery.fullPage.js"></script>	 -->
 	
