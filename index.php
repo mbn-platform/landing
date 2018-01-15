@@ -50,7 +50,7 @@ of digital assets'>
 <section class="section pre-ico">
     <div class="first_section_ether">
         <div class="first_section_ether_title">
-            Pre-ICO starts in:
+            Pre-ICO starts 20.01.2017:
         </div>
         <div id="clockdiv" class="count-down progress" data-deadline="2018-01-20">
             <div class="column day">
@@ -88,7 +88,8 @@ of digital assets'>
             <h2>Pre-ICO token price</h2>
             <div>
                 Price for 1 token = $0,008 or 0,000065 ETH <br>
-                1 Ethereum  = 15 600 MCS tokens
+                1 Ethereum  = 15 600 MCS tokens <br><br>
+                Soft CAP - $300 000, Hard CAP - $500 000
             </div>
         </header>
         <div class="row gap-y">
