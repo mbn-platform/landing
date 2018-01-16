@@ -107,14 +107,14 @@
 						</div>
 					</div>
 					<div class="roadmap_right_col">
-						<div class="roadmap_quarter_date">Q4 2017
+						<div class="roadmap_quarter_date">Q1 2018
 							<div class="roadmap_quarter_date_point"></div>
 						</div>
 					</div>
 				</div>
 				<div class="roadmap_item_string right_text clearfix">
 					<div class="roadmap_left_col clearfix">
-						<div class="roadmap_quarter_date">Q1 2018
+						<div class="roadmap_quarter_date">Q2 2018
 							<div class="roadmap_quarter_date_point"></div>
 						</div>
 					</div>
@@ -161,14 +161,14 @@
 						</div>
 					</div>
 					<div class="roadmap_right_col">
-						<div class="roadmap_quarter_date">Q2 2018
+						<div class="roadmap_quarter_date">Q3 2018
 							<div class="roadmap_quarter_date_point"></div>
 						</div>
 					</div>
 				</div>
 				<div class="roadmap_item_string right_text clearfix">
 					<div class="roadmap_left_col clearfix">
-						<div class="roadmap_quarter_date">Q3 2018
+						<div class="roadmap_quarter_date">Q4 2018
 							<div class="roadmap_quarter_date_point"></div>
 						</div>
 					</div>
@@ -204,7 +204,7 @@
 						</div>
 					</div>
 					<div class="roadmap_right_col">
-						<div class="roadmap_quarter_date">Q4 2018
+						<div class="roadmap_quarter_date">Q5 2018
 							<div class="roadmap_quarter_date_point"></div>
 						</div>
 					</div>
