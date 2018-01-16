@@ -93,13 +93,14 @@
 							<div class="roadmap_quarter_text forth_text">
 								Private testing of Mercatus alpha version with incomplete functions:
 								<ul>
+									<li>Allowing access for trading through API key</li>
 									<li>Authorizing with Metamask</li>
 									<li>Inner trading terminal</li>
 									<li>Adding Bittrex API keys</li>
 									<li>Sending and receiving requests</li>
 									<li>Sending Ethereum to a smart contract’s address</li>
 									<li>Showing terms of a smart contract on Etherscan</li>
-									<li>Updating rating system with the result of a smart contract</li>
+
 								</ul>
 							</div>	
 							<div class="read_more_btn">Read more</div>
@@ -126,13 +127,13 @@
 							<div class="roadmap_quarter_text fifth_text">
 								Open testing of Mercatus beta version with updated functions:
 								<ul>
-									<li>Fixing bugs</li>
-									<li>Allowing access for trading through API key</li>
+									<li>Fixing bugs</li>									
 									<li>Placing orders on exchange via inner trading platform</li>
 									<li>Writing results of trades in blockchain</li>
 									<li>Performing smart oracle work adjustment</li>
 									<li>Executing smart contracts with different scenarios</li>
 									<li>Examining all systems and working algorithms</li>
+									<li>Updating rating system with the result of a smart contract</li>
 								</ul>
 							</div>	
 							<div class="read_more_btn">Read more</div>

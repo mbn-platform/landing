@@ -13,7 +13,7 @@ of digital assets'>
 		</div>
 		<div class="first_section_video_btn_wrapper">
 			<div class="first_section_video_btn video_btn_js" onclick='window.open("https://demo.mercatus.im/")'>
-				<div class="first_section_video_btn_text">try demo</div>
+				<div class="first_section_video_btn_text">try alfa</div>
 			</div>
 			<form class="join_us_form join_us_form_first feedback_form_js" name="subscribe1" method="post">
 				<div class="join_us_field_wrapper clearfix">
