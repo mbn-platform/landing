@@ -55,7 +55,7 @@ of digital assets'>
         <div class="first_section_ether_title">
             Pre-ICO starts 20.01.2018:
         </div>
-        <div id="clockdiv" class="count-down progress" data-deadline="2018-01-20">
+        <div id="clockdiv" class="count-down progress" data-deadline="01/20/2018 19:00:00">
             <div class="column day">
                 <div class="number days">6</div>
                 <div class="text">days</div>
@@ -90,6 +90,7 @@ of digital assets'>
         <header class="section-header">
             <h2>Token price</h2>
             <div>
+                <br>
                 Price for 1 token = $0,08 <br><br>
                 Pre-ICO Soft CAP - $300 000, Hard CAP - $500 000<br>
                 ICO Soft CAP - $2 000 000, Hard CAP - $4 000 000
