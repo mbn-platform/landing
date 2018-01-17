@@ -14,10 +14,10 @@ of digital assets'>
 		<div class="first_section_video_btn_wrapper">
 			<div class="first_section_video_btn video_btn_js" onclick='window.open("https://demo.mercatus.im/")'>
 				<div class="first_section_video_btn_text">try demo</div>
+<!--                 <div class="first_section_btn_text_wrapper">
+                    <div class="first_section_video_btn_text">try demo</div>
+                </div> -->
 			</div>
-<!--             <div class="first_section_video_btn" onclick='window.open("https://demo.mercatus.im/")'>
-                <div class="first_section_video_btn_text">try demo</div>
-            </div>             -->
 			<form class="join_us_form join_us_form_first feedback_form_js" name="subscribe1" method="post">
 				<div class="join_us_field_wrapper clearfix">
 					<input type="text" class="join_us_field email_field_js" name="email" placeholder="Type your e-mail here...">
@@ -90,8 +90,7 @@ of digital assets'>
         <header class="section-header">
             <h2>Pre-ICO token price</h2>
             <div>
-                Price for 1 token = $0,008 or 0,000065 ETH <br>
-                1 Ethereum  = 15 600 MCS tokens <br><br>
+                Price for 1 token = $0,008 <br><br>
                 Soft CAP - $300 000, Hard CAP - $500 000
             </div>
         </header>
@@ -219,7 +218,7 @@ of digital assets'>
                             </div>
                         </div>
                         <h5 class="card-title">Public Sale</h5>
-                        <div class="lead text-center text-success">Pers. cap for 1st hour: min 0.1 - max 10 ETH <br> No limits after</div>
+                        <div class="lead text-center text-success">Personal cap for 1st hour: min 0.1 - max 10 ETH <br> No limits after</div>
                         <div class="text-center text-muted">no Bonus</div>
                         <canvas id="crowdsale" width="215" height="107" class="chartjs-render-monitor" style="display: block; width: 215px; height: 107px;"></canvas>
                         <script>

@@ -511,6 +511,10 @@ margin-left: -75px;
 left: 50%;
 bottom: -40px;
 }
+.first_section_btn_text_wrapper {
+    position: relative;
+    margin-top: 125px;
+}
 .first_section_text_wrapper
 {
 width: 100%;
