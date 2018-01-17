@@ -88,10 +88,11 @@ of digital assets'>
 <section class="section charts">
     <div class="container">
         <header class="section-header">
-            <h2>Pre-ICO token price</h2>
+            <h2>Token price</h2>
             <div>
-                Price for 1 token = $0,008 <br><br>
-                Soft CAP - $300 000, Hard CAP - $500 000
+                Price for 1 token = $0,08 <br><br>
+                Pre-ICO Soft CAP - $300 000, Hard CAP - $500 000<br>
+                ICO Soft CAP - $2 000 000, Hard CAP - $4 000 000
             </div>
         </header>
         <div class="row gap-y">
@@ -218,7 +219,7 @@ of digital assets'>
                             </div>
                         </div>
                         <h5 class="card-title">Public Sale</h5>
-                        <div class="lead text-center text-success">Personal cap for 1st hour: min 0.1 - max 10 ETH <br> No limits after</div>
+                        <div class="lead text-center text-success">Personal cap for 1st hour:<br> min 0.1 - max 10 ETH <br> No limits after</div>
                         <div class="text-center text-muted">no Bonus</div>
                         <canvas id="crowdsale" width="215" height="107" class="chartjs-render-monitor" style="display: block; width: 215px; height: 107px;"></canvas>
                         <script>
