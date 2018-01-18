@@ -53,9 +53,9 @@ of digital assets'>
 <section class="section pre-ico">
     <div class="first_section_ether">
         <div class="first_section_ether_title">
-            Pre-ICO starts 20.01.2018:
+            Pre-ICO will be announced soon.
         </div>
-        <div id="clockdiv" class="count-down progress" data-deadline="01/20/2018 20:00:00">
+<!--         <div id="clockdiv" class="count-down progress" data-deadline="01/20/2018 20:00:00">
             <div class="column day">
                 <div class="number days">6</div>
                 <div class="text">days</div>
@@ -72,7 +72,7 @@ of digital assets'>
                 <div class="number seconds">47</div>
                 <div class="text">seconds</div>
             </div>
-        </div>
+        </div> -->
         <div class="join_us_submit_wrapper join">
             <div class="join_us_submit_wrapper1"></div>
             <div class="join_us_submit_wrapper2"></div>
