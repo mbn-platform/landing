@@ -2987,7 +2987,7 @@ min-height: 410px;
 min-height: 3130px;
 width: 100%;
 position: absolute;
-top: 2450px;
+top: 2850px;
 left: 0px;
 z-index: 1;
 /*background: url(../img/team_bg2.jpg) 0px 100px / 1200px no-repeat;*/
@@ -3553,7 +3553,7 @@ padding-bottom: 30px;
 .team_bg_wrapper
 {
 background: url(../img/team_bg3.jpg) no-repeat 0 100px;
-top: 4590px;
+top: 4890px;
 background-size: 780px;
 min-height: 2620px;
 width: 100%;
@@ -4229,7 +4229,7 @@ padding-bottom: 170px;
     left: 0;
     z-index: 1;
     /* background-repeat-y: repeat; */
-    top: 4290px;
+    top: 4490px;
     /* background-size: 1320px; */
     min-height: 3180px;
     background-size: cover;

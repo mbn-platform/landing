@@ -303,7 +303,25 @@ of digital assets'>
                         <div class="social_networks_wrapper">
                             <a class="social_networks_a gh" href="https://github.com/thecph" target="_blank"></a>
                         </div>
-                    </div>                  
+                    </div>    
+                    <div class="our_team_item">
+                        <div class="our_team_img_wrapper">
+                            <img class="our_team_img" src="img/uploads/alex_finn.jpg" alt="" title="">
+                        </div>
+                        <div class="our_team_position">
+                            <div class="our_team_position_text">External relationships</div>
+                        </div>
+                        <div class="our_team_name">
+                            <div class="our_team_name_text">Alexander Finn</div>
+                        </div>
+                        <div class="our_team_description">
+                            <div class="our_team_description_text">CEO of Rosblack Capital<br>Entrepreneur Bitcoin<br> Enthusiast</div>
+                        </div>
+                        <div class="social_networks_wrapper">
+                            <a class="social_networks_a tw" href="https://twitter.com/ag_finn" target="_blank"></a>
+                            <a class="social_networks_a fb" href="https://www.facebook.com/alexgfinn" target="_blank"></a>
+                        </div>
+                    </div>                                    
                 </div>
                 <div class="our_team_string our_team_string2">
                     <div class="our_team_item">
