@@ -12,8 +12,8 @@ of digital assets'>
 
         </div>
         <div class="first_section_video_btn_wrapper">
-            <div class="first_section_video_btn video_btn_js" onclick='window.open("https://demo.mercatus.im/")'>
-                <div class="first_section_video_btn_text">try demo</div>
+            <div class="first_section_video_btn video_btn_js" onclick='window.open("https://alpha.mercatus.im/")'>
+                <div class="first_section_video_btn_text">alpha version</div>
             </div>
             <form class="join_us_form join_us_form_first feedback_form_js" name="subscribe1" method="post">
                 <div class="join_us_field_wrapper clearfix">
@@ -303,25 +303,7 @@ of digital assets'>
                         <div class="social_networks_wrapper">
                             <a class="social_networks_a gh" href="https://github.com/thecph" target="_blank"></a>
                         </div>
-                    </div>    
-                    <div class="our_team_item">
-                        <div class="our_team_img_wrapper">
-                            <img class="our_team_img" src="img/uploads/alex_finn.jpg" alt="" title="">
-                        </div>
-                        <div class="our_team_position">
-                            <div class="our_team_position_text">External relationships</div>
-                        </div>
-                        <div class="our_team_name">
-                            <div class="our_team_name_text">Alexander Finn</div>
-                        </div>
-                        <div class="our_team_description">
-                            <div class="our_team_description_text">CEO of Rosblack Capital<br>Entrepreneur Bitcoin<br> Enthusiast</div>
-                        </div>
-                        <div class="social_networks_wrapper">
-                            <a class="social_networks_a tw" href="https://twitter.com/ag_finn" target="_blank"></a>
-                            <a class="social_networks_a fb" href="https://www.facebook.com/alexgfinn" target="_blank"></a>
-                        </div>
-                    </div>                                    
+                    </div>                                       
                 </div>
                 <div class="our_team_string our_team_string2">
                     <div class="our_team_item">
@@ -423,9 +405,28 @@ of digital assets'>
                         <div class="social_networks_wrapper">
                             <a class="social_networks_a tw" href="https://twitter.com/Kushed_Crypto" target="_blank"></a>
                         </div>
-                    </div>                  
+                    </div>   
+                    <div class="our_team_item">
+                        <div class="our_team_img_wrapper">
+                            <img class="our_team_img" src="img/uploads/alex_finn.jpg" alt="" title="">
+                        </div>
+                        <div class="our_team_position">
+                            <div class="our_team_position_text">Adviser</div>
+                        </div>
+                        <div class="our_team_name">
+                            <div class="our_team_name_text">Alexander Finn</div>
+                        </div>
+                        <div class="our_team_description">
+                            <div class="our_team_description_text">CEO of Rosblack Capital<br>Entrepreneur Bitcoin<br> Enthusiast</div>
+                        </div>
+                        <div class="social_networks_wrapper">
+                            <a class="social_networks_a tw" href="https://twitter.com/ag_finn" target="_blank"></a>
+                            <a class="social_networks_a fb" href="https://www.facebook.com/alexgfinn" target="_blank"></a>
+                        </div>
+                    </div>                                    
                 </div>
             </div>
+
         </div>
     </div>
     <? require_once('join_us_form.php');?>
