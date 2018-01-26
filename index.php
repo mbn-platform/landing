@@ -411,13 +411,13 @@ of digital assets'>
                             <img class="our_team_img" src="img/uploads/alex_finn.jpg" alt="" title="">
                         </div>
                         <div class="our_team_position">
-                            <div class="our_team_position_text">Adviser</div>
+                            <div class="our_team_position_text">Advisor</div>
                         </div>
                         <div class="our_team_name">
                             <div class="our_team_name_text">Alexander Finn</div>
                         </div>
                         <div class="our_team_description">
-                            <div class="our_team_description_text">CEO of Rosblack Capital<br>Entrepreneur Bitcoin<br> Enthusiast</div>
+                            <div class="our_team_description_text">CEO of Rosblack Capital<br>Entrepreneur<br>Bitcoin Enthusiast</div>
                         </div>
                         <div class="social_networks_wrapper">
                             <a class="social_networks_a tw" href="https://twitter.com/ag_finn" target="_blank"></a>
