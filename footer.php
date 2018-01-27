@@ -7,7 +7,7 @@
     </div>
     <div class="footer_content_background">
         <div class="footer_content">
-            <div class="footer_copyright">Mercatus © 2017</div>
+            <div class="footer_copyright">Mercatus.im © 2017</div>
         </div>  
     </div>
     
