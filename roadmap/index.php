@@ -180,7 +180,7 @@
 							<div class="roadmap_quarter_title">RELEASE OF PREDICTION AI</div>
 							<div class="roadmap_quarter_text seventh_text">
 								Running  Prediction AI to accurately predict trader’s profitability.<br><br>
-								Working with Cindicator to create a hybrid prediction system. The system combines machine-learning AI and Cindicator’s users forecasting to predict trader’s profitability (ROI). <br>
+								Working to create a hybrid prediction system. The system combines machine-learning AI and users forecasting to predict trader’s profitability (ROI). <br>
 								The system provides users a precise instrument to choose the best trader possible, increase the accuracy of planning and investing, and thereby maximizing their profit.
 							</div>	
 							<div class="read_more_btn">Read more</div>
