@@ -266,7 +266,6 @@ of digital assets'>
                         </div>
                         <div class="social_networks_wrapper">
                             <a class="social_networks_a ln" href="https://www.linkedin.com/in/eugene-buev-2a7367144/" target="_blank"></a>
-                            <a class="social_networks_a gh" href="https://github.com/eugeneCEO" target="_blank"></a>
                         </div>
                     </div>
                     <div class="our_team_item">
@@ -320,8 +319,7 @@ of digital assets'>
                             <div class="our_team_description_text">Digital-agency founder<br>Serial entrepreneur<br>Marketing since 2009</div>
                         </div>
                         <div class="social_networks_wrapper">
-                            <a class="social_networks_a ln" href="https://www.linkedin.com/in/kirill-romanov-56b5118b/" target="_blank"></a>
-                            <a class="social_networks_a fb" href="https://www.facebook.com/romanovkiri11" target="_blank"></a>
+                            <a class="social_networks_a ln" href="https://www.linkedin.com/in/kirill-romanov-4u" target="_blank"></a>
                         </div>
                     </div>                      
                     <div class="our_team_item">
@@ -338,7 +336,6 @@ of digital assets'>
                             <div class="our_team_description_text">Developed own trading platform. Solidity developer since 2016. Blockchain and Smart Contracts expert.</div>
                         </div>
                         <div class="social_networks_wrapper">
-                            <a class="social_networks_a ln" href="https://www.linkedin.com/in/igor-knyazev-237914148/" target="_blank"></a>
                             <a class="social_networks_a gh" href="https://github.com/almart0o" target="_blank"></a>
                         </div>
                     </div>                  
@@ -356,7 +353,6 @@ of digital assets'>
                             <div class="our_team_description_text">Javascript full stack developer, mobile developer (Android, iOS)</div>
                         </div>
                         <div class="social_networks_wrapper">
-                            <a class="social_networks_a ln" href="https://www.linkedin.com/in/vyacheslavmychkin/" target="_blank"></a>
                             <a class="social_networks_a gh" href="https://github.com/goblinrd" target="_blank"></a>
                         </div>
                     </div>
