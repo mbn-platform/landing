@@ -303,8 +303,6 @@ of digital assets'>
                             <a class="social_networks_a gh" href="https://github.com/thecph" target="_blank"></a>
                         </div>
                     </div>                                       
-                </div>
-                <div class="our_team_string our_team_string2">
                     <div class="our_team_item">
                         <div class="our_team_img_wrapper">
                             <img class="our_team_img" src="img/uploads/kirill_romanov.jpg" alt="" title="">
@@ -322,6 +320,8 @@ of digital assets'>
                             <a class="social_networks_a ln" href="https://www.linkedin.com/in/kirill-romanov-4u" target="_blank"></a>
                         </div>
                     </div>                      
+                </div>
+                <div class="our_team_string our_team_string2">
                     <div class="our_team_item">
                         <div class="our_team_img_wrapper">
                             <img class="our_team_img" src="img/uploads/igor_knyazev.jpg" alt="" title="">
@@ -371,6 +371,22 @@ of digital assets'>
                         </div>
                         <div class="social_networks_wrapper">
                             <a class="social_networks_a gh" href="https://github.com/amiznikov" target="_blank"></a>
+                        </div>
+                    </div>
+                    <div class="our_team_item">
+                        <div class="our_team_img_wrapper">
+                            <img class="our_team_img" src="img/uploads/sonder_s_lim.jpg" alt="" title="">
+                        </div>
+                        <div class="our_team_position">
+                            <div class="our_team_position_text">Regional Brand Ambassador, Asia</div>
+                        </div>
+                        <div class="our_team_name">
+                            <div class="our_team_name_text">Sonder S. Lim</div>
+                        </div>
+                        <div class="our_team_description">
+                            <div class="our_team_description_text">Digital Assets Advocate<br>Content Marketing Agency Founder<br>Content Strategist</div>
+                        </div>
+                        <div class="social_networks_wrapper">
                         </div>
                     </div>
                 </div>
