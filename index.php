@@ -265,7 +265,6 @@ of digital assets'>
                             <div class="our_team_description_text">Serial entrepreneur<br>Trader of cryptocurrency assets since 2015</div>
                         </div>
                         <div class="social_networks_wrapper">
-                            <a class="social_networks_a ln" href="https://www.linkedin.com/in/eugene-buev-2a7367144/" target="_blank"></a>
                         </div>
                     </div>
                     <div class="our_team_item">
@@ -283,7 +282,6 @@ of digital assets'>
                         </div>
                         <div class="social_networks_wrapper">
                             <a class="social_networks_a ln" href="https://www.linkedin.com/in/maximkhukhro/" target="_blank"></a>
-                            <a class="social_networks_a gh" href="https://github.com/goupdown/dev" target="_blank"></a>
                         </div>
                     </div>
                     <div class="our_team_item">
@@ -300,7 +298,6 @@ of digital assets'>
                             <div class="our_team_description_text">Marketing in SxS corporation<br>Launched several business start-ups<br>Cryptoanalyst</div>
                         </div>
                         <div class="social_networks_wrapper">
-                            <a class="social_networks_a gh" href="https://github.com/thecph" target="_blank"></a>
                         </div>
                     </div>                                       
                     <div class="our_team_item">
@@ -336,7 +333,6 @@ of digital assets'>
                             <div class="our_team_description_text">Developed own trading platform. Solidity developer since 2016. Blockchain and Smart Contracts expert.</div>
                         </div>
                         <div class="social_networks_wrapper">
-                            <a class="social_networks_a gh" href="https://github.com/almart0o" target="_blank"></a>
                         </div>
                     </div>                  
                     <div class="our_team_item">
@@ -353,24 +349,6 @@ of digital assets'>
                             <div class="our_team_description_text">Javascript full stack developer, mobile developer (Android, iOS)</div>
                         </div>
                         <div class="social_networks_wrapper">
-                            <a class="social_networks_a gh" href="https://github.com/goblinrd" target="_blank"></a>
-                        </div>
-                    </div>
-                    <div class="our_team_item">
-                        <div class="our_team_img_wrapper">
-                            <img class="our_team_img" src="img/uploads/artem_myznikov.jpg" alt="" title="">
-                        </div>
-                        <div class="our_team_position">
-                            <div class="our_team_position_text">Frontend developer</div>
-                        </div>
-                        <div class="our_team_name">
-                            <div class="our_team_name_text">Artem Myznikov</div>
-                        </div>
-                        <div class="our_team_description">
-                            <div class="our_team_description_text">Frontend, mobile developer.</div>
-                        </div>
-                        <div class="social_networks_wrapper">
-                            <a class="social_networks_a gh" href="https://github.com/amiznikov" target="_blank"></a>
                         </div>
                     </div>
                     <div class="our_team_item">
