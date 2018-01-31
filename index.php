@@ -241,6 +241,19 @@ of digital assets'>
             <div class="six_section_btn_wrapper ethereum">
                 <a class="six_section_btn" href="https://metamask.io/" target="_blank">Read more</a>
             </div>
+            <div class="six_section_title metamask_logo">
+                <div class="six_section_metamask_block">
+                    <img class="six_section_img" src="img/cipher.png" alt="" title="">
+                    <div class="metamask-text">Cipher Browser</div>                   
+                </div>
+
+            </div>
+            <div class="six_section_text_wrapper">
+                <div class="six_section_text">You can use our platform on mobile devices using Cipher Browser. Cipher Browser is the world's first full-featured mobile dapp browser and wallet for the Ethereum blockchain. Cipher allows you to interact with dapps powered by Ethereum on your mobile device and makes it easy for you to securely store, send and receive Ether and ERC20 tokens.</div>
+            </div>          
+            <div class="six_section_btn_wrapper ethereum">
+                <a class="six_section_btn" href="https://www.cipherbrowser.com/" target="_blank">Read more</a>
+            </div>
             <div class="sections_arrow_wrapper">
                 <div class="section_arrow"></div>
             </div>
