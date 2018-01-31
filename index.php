@@ -369,7 +369,7 @@ of digital assets'>
                             <img class="our_team_img" src="img/uploads/sonder_s_lim.jpg" alt="" title="">
                         </div>
                         <div class="our_team_position">
-                            <div class="our_team_position_text">Regional Brand Ambassador, Asia</div>
+                            <div class="our_team_position_text">Regional Brand Manager, Asia</div>
                         </div>
                         <div class="our_team_name">
                             <div class="our_team_name_text">Sonder S. Lim</div>
@@ -378,6 +378,7 @@ of digital assets'>
                             <div class="our_team_description_text">Digital Assets Advocate<br>Content Marketing Agency Founder<br>Content Strategist</div>
                         </div>
                         <div class="social_networks_wrapper">
+                            <a class="social_networks_a ln" href="https://www.linkedin.com/in/sonderslim/" target="_blank"></a>
                         </div>
                     </div>
                 </div>
