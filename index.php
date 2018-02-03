@@ -439,7 +439,7 @@ of digital assets'>
                             <div class="our_team_name_text">Hans Choi</div>
                         </div>                      
                         <div class="our_team_description">
-                            <div class="our_team_description_text">CEO of Openchain<br>Fintech expert<br>Software developer</div>
+                            <div class="our_team_description_text">OpenChain CEO/Dev<br>Blockchain Developer &amp; Architect<br>Fintech expert</div>
                         </div>
                         <div class="social_networks_wrapper">
                             <a class="social_networks_a ln" href="https://www.linkedin.com/in/hans-namkyu-choi-407618102" target="_blank"></a>
