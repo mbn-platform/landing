@@ -404,7 +404,7 @@ of digital assets'>
                             <div class="our_team_name_text">Kushed</div>
                         </div>                      
                         <div class="our_team_description">
-                            <div class="our_team_description_text" onclick="window.open('https://bitcointalk.org/index.php?topic=1317448.0')"><span class="clickable">The founder of SaluS (SLS)</span>. Crypto trader since 2013. Oldschool and trustable bitcointalk member.</div>
+                            <div class="our_team_description_text" onclick="window.open('https://bitcointalk.org/index.php?topic=1317448.0')"><span class="clickable">The founder of SaluS (SLS)</span></div>
                         </div>
                         <div class="social_networks_wrapper">
                             <a class="social_networks_a tw" href="https://twitter.com/Kushed_Crypto" target="_blank"></a>
