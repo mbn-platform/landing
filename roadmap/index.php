@@ -86,7 +86,7 @@
 				<div class="roadmap_item_string left_text clearfix">
 					<div class="roadmap_left_col clearfix">
 						<div class="roadmap_col_img_wr">
-							<img class="roadmap_col_img" src="/img/roadmap_1.png" alt="" title="">
+							<img class="roadmap_col_img" src="/img/roadmap_1.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">ALPHA VERSION</div>
@@ -120,7 +120,7 @@
 					</div>
 					<div class="roadmap_right_col">
 						<div class="roadmap_col_img_wr">
-							<img class="roadmap_col_img" src="/img/roadmap_2.png" alt="" title="">
+							<img class="roadmap_col_img" src="/img/roadmap_2.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">BETA VERSION</div>
@@ -143,7 +143,7 @@
 				<div class="roadmap_item_string left_text clearfix">
 					<div class="roadmap_left_col clearfix">
 						<div class="roadmap_col_img_wr">
-							<img class="roadmap_col_img" src="/img/roadmap_3.png" alt="" title="">
+							<img class="roadmap_col_img" src="/img/roadmap_3.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">FINAL RELEASE</div>
@@ -174,7 +174,7 @@
 					</div>
 					<div class="roadmap_right_col">
 						<div class="roadmap_col_img_wr">
-							<img class="roadmap_col_img" src="/img/roadmap_4.png" alt="" title="">
+							<img class="roadmap_col_img" src="/img/roadmap_4.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">RELEASE OF PREDICTION AI</div>
@@ -190,7 +190,7 @@
 				<div class="roadmap_item_string left_text clearfix">
 					<div class="roadmap_left_col clearfix">
 						<div class="roadmap_col_img_wr">
-							<img class="roadmap_col_img" src="/img/roadmap_5.png" alt="" title="">
+							<img class="roadmap_col_img" src="/img/roadmap_5.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">FUNDS</div>
@@ -217,7 +217,7 @@
 					</div>
 					<div class="roadmap_right_col">
 						<div class="roadmap_col_img_wr">
-							<img class="roadmap_col_img" src="/img/roadmap_6.png" alt="" title="">
+							<img class="roadmap_col_img" src="/img/roadmap_6.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">ICO FUNDS</div>
@@ -234,7 +234,7 @@
 				<div class="roadmap_item_string roadmap_item_last left_text clearfix">
 					<div class="roadmap_left_col clearfix">
 						<div class="roadmap_col_img_wr">
-							<img class="roadmap_col_img" src="/img/roadmap_7.png" alt="" title="">
+							<img class="roadmap_col_img" src="/img/roadmap_7.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">TRADE PROGRAMMING</div>
