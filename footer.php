@@ -7,7 +7,7 @@
     </div>
     <div class="footer_content_background">
         <div class="footer_content">
-            <div class="footer_copyright">Mercatus.im © 2018</div>
+            <div class="footer_copyright">Membrana.io © 2018</div>
         </div>  
     </div>
     

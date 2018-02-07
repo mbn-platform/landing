@@ -2,7 +2,7 @@
 	<div class="ninth_section_content content_container">
 		<div class="join_us_wrapper">
 			<div class="join_us_title">join us</div>
-			<div class="join_us_text">To learn more about trust management of digital assets, how to use Mercatus, and to meet the team!</div>
+			<div class="join_us_text">To learn more about trust management of digital assets, how to use Membrana, and to meet the team!</div>
 			<form class="join_us_form feedback_form_js" name="subscribe2" method="post">
 				<div class="join_us_field_wrapper clearfix">
 					<input type="text" class="join_us_field email_field_js" name="email" placeholder="Type your e-mail here...">
@@ -23,7 +23,7 @@
 				<a class="join_us_a medium" href="https://medium.com/@Mercatus.im" target="_blank"></a>
 				<a class="join_us_a github" href="https://github.com/MercatusPlatform" target="_blank"></a>
 			</div>
-			<div class="mercatus_email"><a class="contacts_email" href="mailto:info@mercatus.im">info@mercatus.im</a></div>
+			<div class="membrana_email"><a class="contacts_email" href="mailto:info@membrana.io">info@membrana.io</a></div>
 		<?endif;?>
 	</div>
 </div>

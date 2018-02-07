@@ -10,9 +10,9 @@
 			<div class="contacts_text">
 				If you have any questions regarding the Mercatus project do not hesitate to contact us!<br><br>
 
-				You can use this email: <a class="contacts_email" href="mailto:info@mercatus.im">info@mercatus.im</a> <br>
-				<!-- Tech and ICO support: <a class="contacts_email" href="support@mercatus.im">support@mercatus.im </a><br> -->
-				<!-- Media\PR inquiries: <a class="contacts_email" href="pr@mercatus.im">pr@mercatus.im</a><br><br> -->
+				You can use this email: <a class="contacts_email" href="mailto:info@membrana.io">info@membrana.io</a> <br>
+				<!-- Tech and ICO support: <a class="contacts_email" href="support@membrana.io">support@membrana.io </a><br> -->
+				<!-- Media\PR inquiries: <a class="contacts_email" href="pr@membrana.io">pr@membrana.io</a><br><br> -->
 
 				We will be glad to answer any questions about our project.	
 			</div>

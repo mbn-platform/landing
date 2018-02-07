@@ -12,7 +12,7 @@ of digital assets'>
 
         </div>
         <div class="first_section_video_btn_wrapper">
-            <div class="first_section_video_btn video_btn_js" onclick='window.open("https://alpha.mercatus.im/")'>
+            <div class="first_section_video_btn video_btn_js" onclick='window.open("https://alpha.membrana.io/")'>
                 <div class="first_section_video_btn_text">alpha version</div>
             </div>
             <form class="join_us_form join_us_form_first feedback_form_js" name="subscribe1" method="post">
@@ -56,14 +56,14 @@ of digital assets'>
         <img class="small_pattern_5 small_pattern" src="img/small_pattern_13.png" width="150" onerror="this.onerror=null; this.src='img/small_pattern_13.png'" >
         <img class="small_pattern_6 small_pattern" src="img/small_pattern_12.png" width="123" onerror="this.onerror=null; this.src='img/small_pattern_12.png'" >
         <div class="second_section_content content_container">
-            <h2 class="sections_title">Mercatus platform components</h2>
+            <h2 class="sections_title">Membrana platform components</h2>
             <div class="second_section_tabs_wrapper tabs_js">
                 <div class="second_section_tabs_items">
                     <div class="second_section_tabs_item tab1 selected clearfix">
                         <div class="second_section_tab_left_col">
                             <div class="platform_text_title">a platform for investors</div>
-                            <a class="platform_img_a" href="https://demo.mercatus.im/ratings" target="_blank">
-                                <img class="platform_img" src="img/platform_img_small1.png" alt="Mercatus platform for investors" title="">
+                            <a class="platform_img_a" href="https://demo.membrana.io/ratings" target="_blank">
+                                <img class="platform_img" src="img/platform_img_small1.png" alt="Membrana platform for investors" title="">
                             </a>
                             <div class="platform_text">An investor is able to select the best trader and sign a smart-contract with him.</div>
                             <ul class="platform_ul">
@@ -75,20 +75,20 @@ of digital assets'>
                             </ul>
                         </div>
                         <div class="second_section_tab_right_col">
-                            <a class="platform_img_a" href="https://demo.mercatus.im/ratings" target="_blank">
-                                <img class="platform_img" src="img/platform_img_small1.png" alt="Mercatus platform for investors" title="">
+                            <a class="platform_img_a" href="https://demo.membrana.io/ratings" target="_blank">
+                                <img class="platform_img" src="img/platform_img_small1.png" alt="Membrana platform for investors" title="">
                             </a>
                         </div>
                     </div>
                     <div class="second_section_tabs_item tab2 clearfix">
                         <div class="second_section_tab_left_col">
                             <div class="platform_text_title">A PLATFORM FOR TRADERS</div>
-                            <a class="platform_img_a" href="https://demo.mercatus.im/terminal" target="_blank">
-                                <img class="platform_img" src="img/platform_img_small2.png" alt="Mercatus platform for traders" title="">
+                            <a class="platform_img_a" href="https://demo.membrana.io/terminal" target="_blank">
+                                <img class="platform_img" src="img/platform_img_small2.png" alt="Membrana platform for traders" title="">
                             </a>
                             <div class="platform_text">A trader is able to receive money for trust management.</div>
                             <ul class="platform_ul">
-                                <li class="platform_li platform_li1"><div class="platform_li_text">Start trading through Mercatus trading platform</div></li>
+                                <li class="platform_li platform_li1"><div class="platform_li_text">Start trading through Membrana trading platform</div></li>
                                 <li class="platform_li platform_li2"><div class="platform_li_text">Set your specific setting for trust management</div></li>
                                 <li class="platform_li platform_li3"><div class="platform_li_text">Achieve top spot in trader’s rating</div></li>
                                 <li class="platform_li platform_li11"><div class="platform_li_text">Accept a request from an investor and sign a smart-contract with him</div></li>
@@ -97,8 +97,8 @@ of digital assets'>
                             </ul>
                         </div>
                         <div class="second_section_tab_right_col">
-                            <a class="platform_img_a" href="https://demo.mercatus.im/terminal" target="_blank">
-                                <img class="platform_img" src="img/platform_img_small2.png" alt="Mercatus platform for traders" title="">
+                            <a class="platform_img_a" href="https://demo.membrana.io/terminal" target="_blank">
+                                <img class="platform_img" src="img/platform_img_small2.png" alt="Membrana platform for traders" title="">
                             </a>
                         </div>
                     </div>
@@ -106,7 +106,7 @@ of digital assets'>
                         <div class="second_section_tab_left_col">
                             <div class="platform_text_title">FOR FUNDS</div>
                             <a class="platform_img_a"  style='pointer-events: none;'  href="#">
-                                <img class="platform_img" src="img/platform_img_small3.png" alt="Mercatus platform for funds" title="">
+                                <img class="platform_img" src="img/platform_img_small3.png" alt="Membrana platform for funds" title="">
                             </a>
                             <div class="platform_text">An investor or trader is able to join in and be part of a fund or create it in just few steps:</div>
                             <ul class="platform_ul">
@@ -119,7 +119,7 @@ of digital assets'>
                         </div>
                         <div class="second_section_tab_right_col">
                             <a class="platform_img_a"  style='pointer-events: none;'  href="#">
-                                <img class="platform_img" src="img/platform_img_small3.png" alt="Mercatus platform for funds" title="">
+                                <img class="platform_img" src="img/platform_img_small3.png" alt="Membrana platform for funds" title="">
                             </a>
                         </div>
                     </div>
@@ -166,12 +166,12 @@ of digital assets'>
                     <div class="right_animation_string right_animation_string1" data-hover="1">
                         <div class="right_animation_string_title right_animation_string_title1">API KEY of any exchange</div>
                         <div class="right_animation_string_line"></div>
-                        <div class="right_animation_string_text">Any exchange with API trade support will be available for operation Mercatus platform.</div>
+                        <div class="right_animation_string_text">Any exchange with API trade support will be available for operation Membrana platform.</div>
                     </div>
                     <div class="right_animation_string right_animation_string2" data-hover="2">
                         <div class="right_animation_string_title right_animation_string_title2">Smart oracles</div>
                         <div class="right_animation_string_line"></div>
-                        <div class="right_animation_string_text">Oracles provide off-blockchain data for smart contracts. On Mercatus, all trade data go through Oracles</div>
+                        <div class="right_animation_string_text">Oracles provide off-blockchain data for smart contracts. On Membrana, all trade data go through Oracles</div>
                     </div>
                     <div class="right_animation_string right_animation_string3" data-hover="3">
                         <div class="right_animation_string_title right_animation_string_title3">Ethereum Smart Contracts</div>
@@ -190,7 +190,7 @@ of digital assets'>
             <h2 class="sections_title">How it works</h2>
             <div class="sections_subtitle">
                 <div class="sections_subtitle_text">
-                    MERCATUS ENABLES A STRAIGHT CONNECTION BETWEEN AN INVESTOR AND A TRADER, MAKING THEIR RELATIONS PROFITABLE AND SECURED FOR BOTH SIDES. AN INVESTOR’S FUNDS NEVER LEAVE THEIR EXCHANGE WALLET, ALL TRUST MANAGEMENT IS ACCESSED AND
+                    MEMBRANA ENABLES A STRAIGHT CONNECTION BETWEEN AN INVESTOR AND A TRADER, MAKING THEIR RELATIONS PROFITABLE AND SECURED FOR BOTH SIDES. AN INVESTOR’S FUNDS NEVER LEAVE THEIR EXCHANGE WALLET, ALL TRUST MANAGEMENT IS ACCESSED AND
                     EXECUTED WITH THE PROVISION OF API KEY. EVERY RELATION GOES THROUGH SMART CONTRACTS, ELIMINATING MIDDLEMAN AND COUNTERPARTY RISKS, AND MAKING AN AGREEMENT MANDATORY. 
                 </div>      
             </div>
@@ -223,7 +223,7 @@ of digital assets'>
                 <img class="six_section_img" src="img/ethereum_logo.png" alt="" title="">
             </div>
             <div class="six_section_text_wrapper">
-                <div class="six_section_text">Mercatus is built on Ethereum, a next-generation blockchain protocol that enables advanced smart contracts — agreements, that operate automatically, without the need of human control. Ethereum is decentralized and safe; it provides transparency to all operations on the platform.</div>
+                <div class="six_section_text">Membrana is built on Ethereum, a next-generation blockchain protocol that enables advanced smart contracts — agreements, that operate automatically, without the need of human control. Ethereum is decentralized and safe; it provides transparency to all operations on the platform.</div>
             </div>
             <div class="six_section_btn_wrapper ethereum">
                 <a class="six_section_btn" href="https://ethereum.org/" target="_blank">Read more</a>

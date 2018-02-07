@@ -464,7 +464,7 @@
 				<a class="join_us_a medium" href=""></a>
 				<a class="join_us_a github" href=""></a>
 			</div>
-			<div class="mercatus_email">info@mercatus.im</div>
+			<div class="membrana_email">info@membrana.io</div>
 		</div>
 	</div>
 </div>

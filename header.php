@@ -17,31 +17,31 @@ header("Expires: " . date("r"));
 
 	if($_SERVER['REQUEST_URI'] == '/contacts/'){
 		$contactsSelected = 'selected';
-		$title = 'Contacts | Mercatus';
+		$title = 'Contacts | Membrana';
 	}
 	else if($_SERVER['REQUEST_URI'] == '/roadmap/'){
 		$roadmapSelected = 'selected';
-		$title = 'Roadmap | Mercatus';
+		$title = 'Roadmap | Membrana';
 	}
 	else if($_SERVER['REQUEST_URI'] == '/whitepaper_language/'){
 		$whitepaperSelected = 'selected';
-		$title = 'Whitepaper | Mercatus';
+		$title = 'Whitepaper | Membrana';
 	}
 	else if($_SERVER['REQUEST_URI'] == '/business_overview_language/'){
 		$businnesoverviewSelected = 'selected';
-		$title = 'Overview | Mercatus';
+		$title = 'Overview | Membrana';
 	}		
 	else if($_SERVER['REQUEST_URI'] == '/'){
 		$homeSelected = 'selected';
-		$title = 'Mercatus - trust management of digital assets.';
+		$title = 'Membrana - trust management of digital assets.';
 	}
 	else if($_SERVER['REQUEST_URI'] == '/platform_components/'){
 		$homeSelected = 'selected';
-		$title = 'About platform | Mercatus';
+		$title = 'About platform | Membrana';
 	}
 	else if($_SERVER['REQUEST_URI'] == '/dev/'){
 		$homeSelected = 'selected';
-		$title = 'Page in process | Mercatus';
+		$title = 'Page in process | Membrana';
 	}
 	else{
 		$title = 'Page not found | 404 error';
@@ -49,10 +49,10 @@ header("Expires: " . date("r"));
 	?>
 	<meta property="og:title" content="<?=$title;?>">
 	<meta property="og:type" content="websites">
-	<meta property="og:url" content="http://mercatus.im">
+	<meta property="og:url" content="http://membrana.io">
 	<meta property="og:description" content="The first trust management platform fully based on Ethereum smart contracts.">
-	<meta property="og:email" content="info@mercatus.im">
-	<meta property="og:site_name" content="Mercatus - trust management of digital assets">
+	<meta property="og:email" content="info@membrana.io">
+	<meta property="og:site_name" content="Membrana - trust management of digital assets">
 	<meta property="og:image" content="/img/platform_img_big1.png">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -224,9 +224,9 @@ header("Expires: " . date("r"));
 			<div class="header_logo_col">
 				<div class="header_logo_wrapper">
 					<a class="header_logo_a logo_js" href="/">
-						<img class="header_logo logo_big" src="/img/header_logo_big.svg" onerror="this.onerror=null; this.src='/img/header_logo_big.png'" alt="Mercatus - trust management of digital assets">
-						<img class="header_logo logo_big_mobile" src="/img/header_logo_big_mobile.svg" onerror="this.onerror=null; this.src='/img/header_logo_big_mobile.png'" alt="Mercatus - trust management of digital assets">
-						<img class="header_logo logo_small" src="/img/header_logo_small.svg" onerror="this.onerror=null; this.src='/img/header_logo_small.png'" alt="Mercatus - trust management of digital assets">	
+						<img class="header_logo logo_big" src="/img/header_logo_big.svg" onerror="this.onerror=null; this.src='/img/header_logo_big.png'" alt="Membrana - trust management of digital assets">
+						<img class="header_logo logo_big_mobile" src="/img/header_logo_big_mobile.svg" onerror="this.onerror=null; this.src='/img/header_logo_big_mobile.png'" alt="Membrana - trust management of digital assets">
+						<img class="header_logo logo_small" src="/img/header_logo_small.svg" onerror="this.onerror=null; this.src='/img/header_logo_small.png'" alt="Membrana - trust management of digital assets">	
 					</a>
 				</div>
 			</div>

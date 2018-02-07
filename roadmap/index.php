@@ -35,7 +35,7 @@
 									<li>lack of trust</li>
 									<li>risk of fraud management results</li>
 								</ul>
-								Finding the best way to implement the solutions. Generation of Mercatus platform concept.
+								Finding the best way to implement the solutions. Generation of Membrana platform concept.
 								</div>	
 								<div class="read_more_btn">Read more</div>
 						</div>
@@ -91,7 +91,7 @@
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">ALPHA VERSION</div>
 							<div class="roadmap_quarter_text forth_text">
-								Private testing of Mercatus alpha version with incomplete functions:
+								Private testing of Membrana alpha version with incomplete functions:
 								<ul>
 									<li>Allowing access for trading through API key</li>
 									<li>Authorizing with Metamask</li>
@@ -125,7 +125,7 @@
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">BETA VERSION</div>
 							<div class="roadmap_quarter_text fifth_text">
-								Open testing of Mercatus beta version with updated functions:
+								Open testing of Membrana beta version with updated functions:
 								<ul>
 									<li>Fixing bugs</li>									
 									<li>Placing orders on exchange via inner trading platform</li>
@@ -148,7 +148,7 @@
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">FINAL RELEASE</div>
 							<div class="roadmap_quarter_text sixth_text">
-								Full release of complete Mercatus platform with basic functions.
+								Full release of complete Membrana platform with basic functions.
 								<ul>
 									<li>Mobile version</li>
 									<li>Added support for most API exchanges</li>
@@ -239,7 +239,7 @@
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">TRADE PROGRAMMING</div>
 							<div class="roadmap_quarter_text tenth_text">
-								On the Mercatus site, the index editor will be implemented.<br><br>
+								On the Membrana site, the index editor will be implemented.<br><br>
 								Users can create their own trade algorithms: it is operated by comparing their custom index and content taken from online tracing systems.<br>
 								Indices will be managed by means of formulas composed of the following parameters:
 								<ul>

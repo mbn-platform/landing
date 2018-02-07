@@ -18,7 +18,7 @@ if($_POST['email'] != ''){
 		//     </body> 
 		// </html>'; 
 		// $headers  = "Content-type: text/html; charset=windows-1251; \r\n 
-		// 			From: Mercatus <info@mercatus.im>";   
+		// 			From: Membrana <info@membrana.io>";
 		// if (mail($to, $subject, $message, $headers)) { 
 		//     echo 'Your request is accepted.';
 		// } else { 

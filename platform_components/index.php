@@ -42,17 +42,17 @@
 				<div class="second_section_tabs_items">
 					<div class="second_section_tabs_item tab1 selected clearfix" id="investors">
 						<div class="second_section_tab_right_col">
-							<img class="platform_img" src="/img/platform_img_big1.png" alt="Mercatus platform for investors" title="">
+							<img class="platform_img" src="/img/platform_img_big1.png" alt="Membrana platform for investors" title="">
 						</div>
 					</div>
 					<div class="second_section_tabs_item tab2 clearfix" id="traders">
 						<div class="second_section_tab_right_col">
-							<img class="platform_img" src="/img/platform_img_big2.png" alt="Mercatus platform for traders" title="">
+							<img class="platform_img" src="/img/platform_img_big2.png" alt="Membrana platform for traders" title="">
 						</div>
 					</div>
 					<div class="second_section_tabs_item tab3 clearfix" id="funds">
 						<div class="second_section_tab_right_col">
-							<img class="platform_img" src="/img/platform_img_big3.png" alt="Mercatus platform for funds" title="">
+							<img class="platform_img" src="/img/platform_img_big3.png" alt="Membrana platform for funds" title="">
 						</div>
 					</div>
 				</div>
