@@ -21,10 +21,10 @@
 			<div class="second_pages_subtitle">Get in touch:</div>
 		</div>
 		<div class="join_us_networks_wrapper">
-				<a class="join_us_a twitter" href="https://twitter.com/mercatus_im" target="_blank"></a>
+				<a class="join_us_a twitter" href="https://twitter.com/membrana_io" target="_blank"></a>
 				<a class="join_us_a telegram" href="https://t.me/mercatus_im" target="_blank"></a>
 				<a class="join_us_a facebook" href="https://fb.me/mercatus.im" target="_blank"></a>
-				<a class="join_us_a medium" href="https://medium.com/@Mercatus.im" target="_blank"></a>
+				<a class="join_us_a medium" href="https://medium.com/@membrana" target="_blank"></a>
 				<a class="join_us_a github" href="https://github.com/MercatusPlatform" target="_blank"></a>
 		</div>
 	</div>
