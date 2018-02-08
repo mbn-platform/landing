@@ -243,7 +243,7 @@ of digital assets'>
             </div>
             <div class="six_section_title metamask_logo">
                 <div class="six_section_metamask_block">
-                    <img class="six_section_img" src="img/cipher.png" alt="" title="">
+                    <img class="six_section_img cipher_logo" src="img/cipher.png" alt="" title="">
                     <div class="metamask-text">Cipher Browser</div>                   
                 </div>
 

@@ -1497,6 +1497,9 @@ margin-bottom: 65px;
     width: 120px;
     margin-left: -85px;
 }
+.six_section_title.metamask_logo .six_section_img.cipher_logo {
+    margin-left: 0px;
+}
 .six_section_title .metamask-text {
     font-size: 40px;
     color: #b9bdeb;
