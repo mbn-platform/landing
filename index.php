@@ -69,7 +69,7 @@ of digital assets'>
                             <ul class="platform_ul">
                                 <li class="platform_li platform_li4"><div class="platform_li_text">Add API key of any exchange</div></li>
                                 <li class="platform_li platform_li5"><div class="platform_li_text">Send a request to the selected trader with defined settings and chosen pairs for trading</div></li>
-                                <li class="platform_li platform_li6"><div class="platform_li_text">Send MCS tokens to the address of the smart contract (trader’s fee)</div></li>
+                                <li class="platform_li platform_li6"><div class="platform_li_text">Send MBN tokens to the address of the smart contract (trader’s fee)</div></li>
                                 <li class="platform_li platform_li7"><div class="platform_li_text">Sign a smart-contract to allow trader’s acess for trading</div></li>                             
                                 <li class="platform_li platform_li8"><div class="platform_li_text platform_li_text_color">Credit profit directly into your exchange account.</div></li>
                             </ul>
