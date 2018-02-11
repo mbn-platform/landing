@@ -381,6 +381,22 @@ of digital assets'>
                             <a class="social_networks_a ln" href="https://www.linkedin.com/in/sonderslim/" target="_blank"></a>
                         </div>
                     </div>
+                    <div class="our_team_item">
+                        <div class="our_team_img_wrapper">
+                            <img class="our_team_img" src="img/uploads/adam_joseph.jpg" alt="" title="">
+                        </div>
+                        <div class="our_team_position">
+                            <div class="our_team_position_text">Regional Brand Manager, India</div>
+                        </div>
+                        <div class="our_team_name">
+                            <div class="our_team_name_text">Adam Joseph</div>
+                        </div>
+                        <div class="our_team_description">
+                            <div class="our_team_description_text">Strategic Marketing<br>Business Development Manager</div>
+                        </div>
+                        <div class="social_networks_wrapper">
+                        </div>
+                    </div>
                 </div>
             </div>
             <!-- <div class="sections_arrow_wrapper">
