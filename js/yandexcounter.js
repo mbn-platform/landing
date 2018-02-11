@@ -1,8 +1,8 @@
 (function (d, w, c) {
   (w[c] = w[c] || []).push(function() {
     try {
-      w.yaCounter47453140 = new Ya.Metrika2({
-        id:47453140,
+      w.yaCounter47624572 = new Ya.Metrika({
+        id:47624572,
         clickmap:true,
         trackLinks:true,
         accurateTrackBounce:true,
@@ -17,9 +17,9 @@
     f = function () { n.parentNode.insertBefore(s, n); };
   s.type = "text/javascript";
   s.async = true;
-  s.src = "https://mc.yandex.ru/metrika/tag.js";
+  s.src = "https://mc.yandex.ru/metrika/watch.js";
 
   if (w.opera == "[object Opera]") {
     d.addEventListener("DOMContentLoaded", f, false);
   } else { f(); }
-})(document, window, "yandex_metrika_callbacks2");
+})(document, window, "yandex_metrika_callbacks");

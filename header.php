@@ -60,6 +60,7 @@ header("Expires: " . date("r"));
 	<meta name="description" content="The first trust management platform fully based on Ethereum smart contracts.">
 	<link id="page_favicon" href="/img/favicon.ico" rel="icon" type="image/x-icon">
 	<script type="text/javascript" src="/js/yandexcounter.js"></script>
+	<noscript><div><img src="https://mc.yandex.ru/watch/47624572" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 	<script type="text/javascript" src="/js/jquery-3.2.1.min.js"></script>
 	<script type="text/javascript" src="/js/jquery.arcticmodal-0.3.min.js"></script>
     <script type="text/javascript" src="/js/jquery.modal.js"></script>
