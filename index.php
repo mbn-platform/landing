@@ -395,6 +395,7 @@ of digital assets'>
                             <div class="our_team_description_text">Strategic Marketing<br>Business Development Manager</div>
                         </div>
                         <div class="social_networks_wrapper">
+                            <a class="social_networks_a ln" href="https://www.linkedin.com/in/adam-joseph-266356153/" target="_blank"></a>
                         </div>
                     </div>
                 </div>
@@ -459,6 +460,24 @@ of digital assets'>
                         </div>
                         <div class="social_networks_wrapper">
                             <a class="social_networks_a ln" href="https://www.linkedin.com/in/hans-namkyu-choi-407618102" target="_blank"></a>
+                        </div>
+                    </div>   
+                    <div class="our_team_item">
+                        <div class="our_team_img_wrapper">
+                            <img class="our_team_img" src="img/uploads/yan_stolyar.jpg" alt="" title="">
+                        </div>
+                        <div class="our_team_position">
+                            <div class="our_team_position_text">Advisor</div>
+                        </div>
+                        <div class="our_team_name">
+                            <div class="our_team_name_text">Yan Stolyar</div>
+                        </div>                      
+                        <div class="our_team_description">
+                            <div class="our_team_description_text">CEO Telecom<br>IT, project management expert<br>MBA in management</div>
+                        </div>
+                        <div class="social_networks_wrapper">
+                            <a class="social_networks_a ln" href="https://www.linkedin.com/in/yanstolyar/" target="_blank"></a>
+                            <a class="social_networks_a fb" href="https://www.facebook.com/yan.stolyar" target="_blank"></a>
                         </div>
                     </div>   
                 </div>
