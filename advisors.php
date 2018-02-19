@@ -92,6 +92,23 @@
                         <a class="social_networks_a ln" href="https://www.linkedin.com/in/marie-noel-nsana-120a433/" target="_blank"></a>
                     </div>
                 </div>
+                <div class="our_team_item">
+                    <div class="our_team_img_wrapper">
+                        <img class="our_team_img" src="img/uploads/edward_luo.jpg" alt="" title="">
+                    </div>
+                    <div class="our_team_position">
+                        <div class="our_team_position_text">Advisor</div>
+                    </div>
+                    <div class="our_team_name">
+                        <div class="our_team_name_text">Edward Luo</div>
+                    </div>
+                    <div class="our_team_description">
+                        <div class="our_team_description_text">Master’s in Accounting and Bachelor’s in Finance from New York University<br>Six years in financial industry<br>Expert in BSA/AML and OFAC Sanctions</div>
+                    </div>
+                    <div class="social_networks_wrapper">
+                        <a class="social_networks_a ln" href="https://www.linkedin.com/in/edward-luo/" target="_blank"></a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
