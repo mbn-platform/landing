@@ -17,7 +17,7 @@
                         <div class="our_team_description_text">Serial entrepreneur<br>Trader of cryptocurrency assets since 2015</div>
                     </div>
                     <div class="social_networks_wrapper">
-                        <a class="social_networks_a ln" href="https://www.linkedin.com/in/eugene-buev-2a7367144/" target="_blank"></a>
+                        <a class="social_networks_a ln" href="https://www.linkedin.com/in/eugenebuev/" target="_blank"></a>
                     </div>
                 </div>
                 <div class="our_team_item">
