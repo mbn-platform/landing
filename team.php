@@ -51,6 +51,7 @@
                         <div class="our_team_description_text">Marketing in SxS corporation<br>Launched several business start-ups<br>Cryptoanalyst</div>
                     </div>
                     <div class="social_networks_wrapper">
+                        <a class="social_networks_a ln" href="https://www.linkedin.com/in/jerry-gerasimov/" target="_blank"></a>
                     </div>
                 </div>
                 <div class="our_team_item">
