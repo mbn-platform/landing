@@ -2941,6 +2941,28 @@ transition: opacity 800ms;
 {
 opacity: .7;
 }
+.telegram__icon-wrapper {
+  z-index: 150;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 60px;
+  height: 60px;
+  background: #3a8cf4;
+  border-radius: 50%;
+  transition: .3s;
+}
+.telegram__icon-wrapper:hover {
+  box-shadow: 0 0px 20px 0 rgba(0,33,51,0.27);
+}
+
+.telegram__icon {
+  display: block;
+  width: 56px;
+  height: 58px;
+  background: url(../img/telegram_bottom.svg) no-repeat center center;
+}
+
 @media only screen and (max-width : 1480px) {
 .small_pattern
 {
