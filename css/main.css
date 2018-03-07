@@ -410,7 +410,7 @@ line-height: 30px;
 .first_section_wrapper
 {
 min-height: 1040px;
-background: url(../img/first_section_bg.png);
+background: url(../img/first_section_bg.svg);
 background-size: 100%;
 padding-top: 230px;
 margin-top: -100px;
@@ -695,7 +695,7 @@ cursor: pointer;
 }
 .team_bg_wrapper
 {
-background: url(../img/team_bg.jpg) no-repeat 0 100px;
+background: url(../img/team_bg.jpg) no-repeat 0 500px;
 min-height: 3000px;
 width: 100%;
 position: absolute;
