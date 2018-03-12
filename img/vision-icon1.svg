@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="105px" viewBox="0 0 78 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>201274AD-15CD-4E0C-9475-64174E822AAF</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="-96.5424147%" y1="224.523534%" x2="186.043202%" y2="-143.303004%" id="linearGradient-1">
+            <stop stop-color="#00FFCE" offset="0%"></stop>
+            <stop stop-color="#01AEFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-26.0807239%" y1="97.5948328%" x2="118.242493%" y2="-5.39363108%" id="linearGradient-2">
+            <stop stop-color="#00FFCE" offset="0%"></stop>
+            <stop stop-color="#01AEFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Vision" transform="translate(-220.000000, -362.000000)" fill-rule="nonzero">
+            <g id="1" transform="translate(220.000000, 362.000000)">
+                <g id="vision-page-icons_outline-01">
+                    <polygon id="Shape" fill="url(#linearGradient-1)" points="61.128523 42.042 58.9140242 39.816 34.1158162 64.722 23.5447182 54.096 21.3302194 56.322 34.1158162 69.174"></polygon>
+                    <path d="M37.5420218,104.118 L38.9626437,104.853 L40.3832655,104.118 C51.6855659,98.322 61.170306,89.481 67.7929109,78.603 C74.4155157,67.725 77.9252874,55.23 77.9252874,42.462 L77.9252874,18.732 L75.5436566,18.144 C63.0923238,15.036 51.5602169,9.534 41.3024914,1.764 L38.9626437,0 L36.6227959,1.764 C26.3650704,9.534 14.853855,15.036 2.38163077,18.144 L0,18.732 L0,42.462 C0,55.23 3.50977166,67.725 10.1323765,78.603 C16.7549814,89.502 26.2188299,98.322 37.5420218,104.118 Z M6.26744939,23.646 C18.0711457,20.412 29.0600736,15.12 38.9626437,7.875 C48.8652137,15.12 59.8541416,20.412 71.657838,23.646 L71.657838,42.483 C71.657838,54.075 68.4823303,65.436 62.4446874,75.327 C56.6995254,84.756 48.6145157,92.484 38.9626437,97.755 C29.3107716,92.484 21.2257619,84.756 15.4806,75.327 C9.44295707,65.436 6.26744939,54.075 6.26744939,42.462 L6.26744939,23.646 Z" id="Shape" fill="url(#linearGradient-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
