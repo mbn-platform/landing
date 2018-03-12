@@ -193,7 +193,7 @@ header("Expires: " . date("r"));
 	<div class="close_mobile_menu">×</div>
 	<div class="mobile_menu_ul_wrapper">
 		<ul class="mobile_menu_ul">
-			<li class="mobile_menu_li"><a class="mobile_menu_a -btn" href="javascript:void(0)">Alpha version</a></li>
+			<li class="mobile_menu_li"><a class="mobile_menu_a -btn" href="https://alpha.membrana.io/">Alpha version</a></li>
 			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$whitepaperSelected;?>" href="/whitepaper_language/">Whitepaper</a></li>
 			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$businnesoverviewSelected;?>" href="/business_overview_language/">Business overview</a></li>
 			<li class="mobile_menu_li"><a class="mobile_menu_a <?=$roadmapSelected;?>" href="/roadmap/">Roadmap</a></li>
@@ -239,7 +239,7 @@ header("Expires: " . date("r"));
 						<li class="header_menu_li"><a class="header_menu_a <?=$roadmapSelected;?>" href="/roadmap/">Roadmap</a></li>
 						<li class="header_menu_li"><a class="header_menu_a <?=$businnesoverviewSelected;?>" href="/business_overview_language/">Business overview</a></li>
 						<li class="header_menu_li"><a class="header_menu_a <?=$whitepaperSelected;?>" href="/whitepaper_language/">Whitepaper</a></li>
-						<li class="header_menu_li"><a class="header_menu_a -btn" href="javascript:void(0)">Alpha version</a></li>
+						<li class="header_menu_li"><a class="header_menu_a -btn" target="_blank" href="https://alpha.membrana.io/">Alpha version</a></li>
 					</ul>
 				</div>
 			</div>
