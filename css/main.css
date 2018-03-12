@@ -166,7 +166,7 @@ float: left;
 }
 .header_menu_col
 {
-width: 60%; 
+width: 80%;
 float: right;
 }
 .header_menu_mobile_btn
@@ -4614,4 +4614,29 @@ margin-bottom: 10px;
     .vision-list-item__image {
         margin: 0 auto 20px;
     }
+}
+
+/* Add alpha version btn */
+.header_menu_a.-btn, .mobile_menu_a.-btn {
+    width: 160px;
+    height: 35px;
+    line-height: 35px;
+    border-radius: 4px;
+    background-image: -webkit-linear-gradient(12deg, #4afdcb, #5da5fd);
+    background-image: -o-linear-gradient(12deg, #4afdcb, #5da5fd);
+    background-image: linear-gradient(78deg, #4afdcb, #5da5fd);
+    font-size: 14px;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: 1.4px;
+    text-align: center;
+    color: #27283a;
+    margin-top: -10px;
+    -webkit-box-shadow: 2px 4px 40px rgba(50, 186, 148, .65);
+    box-shadow: 2px 4px 40px rgba(50, 186, 148, .65);
+}
+
+.mobile_menu_a.-btn {
+    box-shadow: none;
+    margin: 0 0 5px;
 }
