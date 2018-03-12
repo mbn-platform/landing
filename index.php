@@ -55,6 +55,47 @@ of digital assets'>
         <img class="small_pattern_4 small_pattern" src="img/small_pattern_11.png" width="87" onerror="this.onerror=null; this.src='img/small_pattern_11.png'" >
         <img class="small_pattern_5 small_pattern" src="img/small_pattern_13.png" width="150" onerror="this.onerror=null; this.src='img/small_pattern_13.png'" >
         <img class="small_pattern_6 small_pattern" src="img/small_pattern_12.png" width="123" onerror="this.onerror=null; this.src='img/small_pattern_12.png'" >
+        <div class="vision_section_content content_container">
+            <h2 class="sections_title">Glad to present the vision of Membrana project</h2>
+            <div class="vision-list">
+                <div class="vision-list-item">
+                    <div class="vision-list-item__image">
+                        <img src="img/vision-icon1.svg" alt="">
+                    </div>
+                    <div class="vision-list-item__content">
+                        <div class="vision-list-item__title">Membrana is the safety</div>
+                        <div class="vision-list-item__description">Membrana is the safety for digital assets. It is the trust without risks for all contractors, and the security guarantee for investors and traders achieved by a unique platform algorithm and blockchain technology.</div>
+                    </div>
+                </div>
+                <div class="vision-list-item">
+                    <div class="vision-list-item__image">
+                        <img src="img/vision-icon2.svg" alt="">
+                    </div>
+                    <div class="vision-list-item__content">
+                        <div class="vision-list-item__title">Membrana is the freedom</div>
+                        <div class="vision-list-item__description">Membrana is the freedom, the freedom to choose partners among platform users, from all over the world without the limitations of centralized systems.</div>
+                    </div>
+                </div>
+                <div class="vision-list-item">
+                    <div class="vision-list-item__image">
+                        <img src="img/vision-icon3.svg" alt="">
+                    </div>
+                    <div class="vision-list-item__content">
+                        <div class="vision-list-item__title">Membrana is the new cash opportunity</div>
+                        <div class="vision-list-item__description">Membrana is the new cash opportunity, the ability to invest and raise money for management. It is the financial freedom for those who had previously been neglected - regardless of their social status and seed capital.</div>
+                    </div>
+                </div>
+                <div class="vision-list-item">
+                    <div class="vision-list-item__image">
+                        <img src="img/vision-icon4.svg" alt="">
+                    </div>
+                    <div class="vision-list-item__content">
+                        <div class="vision-list-item__title">Membrana is the spirit of courage</div>
+                        <div class="vision-list-item__description">Membrana is the spirit of courage. We have combined the experience of all our team members gifted from life in five different countries. Each of us is well-established in our business, and is ready to dive in full force to launch a start-up, created for the sake of this noble idea. We are not another broker – because we have completely changed the system. How long have you been searching for an aspiring project like this that change the world for the better?</div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="second_section_content content_container">
             <h2 class="sections_title">Membrana platform components</h2>
             <div class="second_section_tabs_wrapper tabs_js">

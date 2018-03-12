@@ -4516,10 +4516,102 @@ margin-bottom: 10px;
 }
 
 
-
-
-
-
-
-
-
+.vision-list {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: 110px -100px 180px;
+}
+.vision-list-item {
+    width: 50%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 90px;
+    padding: 0 20px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.vision-list-item__image {
+    width: 92px;
+    height: 105px;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin-right: 26px;
+}
+.vision-list-item__image img {
+    max-width: 100%;
+    height: auto;
+}
+.vision-list-item__title {
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    color: #32ba94;
+    margin-bottom: 26px;
+    text-transform: uppercase;
+    max-width: 600px;
+}
+.vision-list-item__description {
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    color: #6e718f;
+    max-width: 500px;
+}
+@media only screen and (max-width : 1400px) {
+    .vision-list {
+        margin-left: -20px;
+        margin-right: -20px;
+    }
+    .vision-list-item__title {
+        font-size: 21px;
+    }
+}
+@media only screen and (max-width : 1023px) {
+    .vision-list {
+        margin-top: 60px;
+        margin-bottom: 110px;
+    }
+    .vision-list-item {
+        width: 100%;
+        max-width: 660px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 40px;
+    }
+    .vision-list-item__title {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .vision-list-item__description {
+        font-size: 16px;
+    }
+}
+@media only screen and (max-width : 479px) {
+    .vision-list-item {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .vision-list-item__image {
+        margin: 0 auto 20px;
+    }
+}
