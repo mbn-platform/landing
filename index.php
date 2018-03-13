@@ -56,7 +56,7 @@ of digital assets'>
         <img class="small_pattern_5 small_pattern" src="img/small_pattern_13.png" width="150" onerror="this.onerror=null; this.src='img/small_pattern_13.png'" >
         <img class="small_pattern_6 small_pattern" src="img/small_pattern_12.png" width="123" onerror="this.onerror=null; this.src='img/small_pattern_12.png'" >
         <div class="vision_section_content content_container">
-            <h2 class="sections_title">Glad to present the vision of Membrana project</h2>
+            <h2 class="sections_title">Presenting the vision of Membrana project</h2>
             <div class="vision-list">
                 <div class="vision-list-item">
                     <div class="vision-list-item__image">
