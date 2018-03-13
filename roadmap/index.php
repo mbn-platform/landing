@@ -174,14 +174,18 @@
 					</div>
 					<div class="roadmap_right_col">
 						<div class="roadmap_col_img_wr">
-							<img class="roadmap_col_img" src="/img/roadmap_4.svg" alt="" title="">
+							<img class="roadmap_col_img" src="/img/roadmap_7.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
-							<div class="roadmap_quarter_title">RELEASE OF PREDICTION AI</div>
+							<div class="roadmap_quarter_title">ADVANCED FEATURES &amp; ROI PREDICTION SYSTEM</div>
 							<div class="roadmap_quarter_text seventh_text">
-								Running  Prediction AI to accurately predict trader’s profitability.<br><br>
-								Working to create a hybrid prediction system. The system combines machine-learning AI and users forecasting to predict trader’s profitability (ROI). <br>
-								The system provides users a precise instrument to choose the best trader possible, increase the accuracy of planning and investing, and thereby maximizing their profit.
+								Adding advanced trading features to Membrana platform.
+								<ul>
+									<li>Contracts with security - additional contract type in which trader reserves HIS funds to compensate part of investor's loss, if contract is failed</li>
+									<li>Algorithmic trading orders - adding advanced order type such as iceberg orders, peg orders, trailing orders and others</li>
+									<li>News feed workshop - enable an option to upload all news related to selected currency. Users can see correlation between price and news on price chart in terminal</li>
+									<li>ROI prediction system based on collaboration with Mirocana project</li>
+								</ul>
 							</div>	
 							<div class="read_more_btn">Read more</div>
 						</div>
@@ -193,12 +197,14 @@
 							<img class="roadmap_col_img" src="/img/roadmap_5.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
-							<div class="roadmap_quarter_title">FUNDS</div>
+							<div class="roadmap_quarter_title">UNITED API</div>
 							<div class="roadmap_quarter_text eith_text">
-								The functions allowing traders and investors to unite in funds.<br><br>
-								Complete fund management platform which operates through smart-contracts.<br>
-								The first test of DAO voting within the created funds.<br>
-								Funds for traders and investors, where they can customize their share settings, and make corporate decisions via multi-sig. The functions will consist of investing and trading instruments.<br>
+								Creating our own united API protocol.
+								<ul>
+									<li>A possibility to connect to Membrana platform with own software using API protocol</li>
+									<li>One united Membrana API that provides an access to all exchanges</li>
+									<li>Remote control for all Membrana platform functions</li>
+								</ul>
 							</div>	
 							<div class="read_more_btn">Read more</div>
 						</div>
@@ -220,12 +226,14 @@
 							<img class="roadmap_col_img" src="/img/roadmap_6.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
-							<div class="roadmap_quarter_title">ICO FUNDS</div>
+							<div class="roadmap_quarter_title">TRUST MANAGEMENT WITH ETHEREUM WALLET</div>
 							<div class="roadmap_quarter_text nineth_text">
-								A smart contract between an investor and an ICO manager is executed.<br><br>
-								It is the management of investor’s ETH for long-term investment in ICO.<br>
-								Pay is carried out in ICO tokens, within the described terms in a smart contract.<br>
-								The effectiveness of a manager is determined by the difference of invested ETH on the ICO day and the value of the tokens on the completion day of a contract.<br>
+								Creating new smart-contract for trust management.
+								<ul>
+									<li>Investor have an option to create a trust management contract without having an exchange account</li>
+									<li>Deal is concluded by investor from his Ethereum wallet. Investor sends his money to smart-contract to start a deal. He has an option to close a deal, and recieve his money back</li>
+									<li>Trading funds on exchange are provided by Membrana platform with usage of API protocol</li>
+								</ul>
 							</div>	
 							<div class="read_more_btn">Read more</div>
 						</div>
@@ -234,25 +242,18 @@
 				<div class="roadmap_item_string roadmap_item_last left_text clearfix">
 					<div class="roadmap_left_col clearfix">
 						<div class="roadmap_col_img_wr">
-							<img class="roadmap_col_img" src="/img/roadmap_7.svg" alt="" title="">
+							<img class="roadmap_col_img" src="/img/roadmap_5.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
-							<div class="roadmap_quarter_title">TRADE PROGRAMMING</div>
+							<div class="roadmap_quarter_title">DEX IMPLEMENTATION</div>
 							<div class="roadmap_quarter_text tenth_text">
-								On the Membrana site, the index editor will be implemented.<br><br>
-								Users can create their own trade algorithms: it is operated by comparing their custom index and content taken from online tracing systems.<br>
-								Indices will be managed by means of formulas composed of the following parameters:
+								Adding decentralized exchanges to Membrana platform.
 								<ul>
-									<li>Market cap currency</li>
-									<li>Exchange rate of a particular exchange</li>
-									<li>Volume of trades (per hour, per day, per week, per month)</li>
-									<li>Cross course with another currency (cross rate is the ratio of coins in circulation and the value of coins of one crypto currency to another)</li>
-									<li>Growth of buy / sell (on any of the supported exchanges)</li>
-									<li>And more than 100 online parameters</li>
+									<li>Trading on DEX through inner trading terminal</li>
+									<li>Ability to give assets from DEX for trust management</li>
+									<li>Trust manamegent is executed with special smart-contract that allows traders to place orders on exchange using investor's funds.
+Remote work on DEX with Membrana API protocol</li>
 								</ul>
-								This editor will allow users to compose their own dynamic index of a set of currencies and other settings.<br>
-								The resulting index will manage a user’s portfolio in online mode, selling and buying currency according to the given formulas.<br>
-								The platform will allow every user without the knowledge of programming to create their own trading robots, which can work on several exchanges at once.<br>
 
 							</div>	
 							<div class="read_more_btn">Read more</div>
@@ -264,6 +265,32 @@
 						</div>
 					</div>
 				</div>				
+				<div class="roadmap_item_string roadmap_item_last right_text clearfix">
+					<div class="roadmap_left_col clearfix">
+						<div class="roadmap_quarter_date">Q4 2019
+							<div class="roadmap_quarter_date_point"></div>
+						</div>
+					</div>
+					<div class="roadmap_right_col">
+						<div class="roadmap_col_img_wr">
+							<img class="roadmap_col_img" src="/img/roadmap_5.svg" alt="" title="">
+						</div>
+						<div class="roadmap_text_wr closed">
+							<div class="roadmap_quarter_title">OTC/DARK POOL</div>
+							<div class="roadmap_quarter_text nineth_text">
+								Creating decentralized interbourse trading pools.
+								<ul>
+									<li>Creating off the chain (OTC) trading pool - deals are happening with p2p transactions, not involving exchange trading platform.</li>
+									<li>Creating anonymous dark pool</li>
+									<li>Hidden order book in dark pool</li>
+									<li>Secured deal execution with escrow smart-contracts</li>
+									<li>Ability to trade big volumes without impacting the price</li>
+								</ul>
+							</div>	
+							<div class="read_more_btn">Read more</div>
+						</div>
+					</div>
+				</div>
 			</div>
 			
 		</div>
