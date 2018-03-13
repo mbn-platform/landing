@@ -4640,3 +4640,9 @@ margin-bottom: 10px;
     box-shadow: none;
     margin: 0 0 5px;
 }
+
+/* Temporary pattern bg offset */
+.patterns_wrapper .pattern_boxes1,
+.patterns_wrapper .pattern_boxes2 {
+    margin-top: 1000px;
+}
