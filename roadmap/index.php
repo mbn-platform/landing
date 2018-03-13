@@ -194,7 +194,7 @@
 				<div class="roadmap_item_string left_text clearfix">
 					<div class="roadmap_left_col clearfix">
 						<div class="roadmap_col_img_wr">
-							<img class="roadmap_col_img" src="/img/roadmap_5.svg" alt="" title="">
+							<img class="roadmap_col_img" src="/img/roadmap_8.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">UNITED API</div>
@@ -223,7 +223,7 @@
 					</div>
 					<div class="roadmap_right_col">
 						<div class="roadmap_col_img_wr">
-							<img class="roadmap_col_img" src="/img/roadmap_6.svg" alt="" title="">
+							<img class="roadmap_col_img" src="/img/roadmap_9.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">TRUST MANAGEMENT WITH ETHEREUM WALLET</div>
@@ -242,7 +242,7 @@
 				<div class="roadmap_item_string roadmap_item_last left_text clearfix">
 					<div class="roadmap_left_col clearfix">
 						<div class="roadmap_col_img_wr">
-							<img class="roadmap_col_img" src="/img/roadmap_5.svg" alt="" title="">
+							<img class="roadmap_col_img" src="/img/roadmap_10.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
 							<div class="roadmap_quarter_title">DEX IMPLEMENTATION</div>
