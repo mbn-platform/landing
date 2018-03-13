@@ -72,7 +72,24 @@
                     </div>
                 </div>
             </div>
-            <div class="our_team_string our_team_string2">
+            <div class="our_team_string our_team_string">
+                <div class="our_team_item">
+                    <div class="our_team_img_wrapper">
+                        <img class="our_team_img" src="img/uploads/kseniya_kotvits.jpg" alt="" title="">
+                    </div>
+                    <div class="our_team_position">
+                        <div class="our_team_position_text">CCO</div>
+                    </div>
+                    <div class="our_team_name">
+                        <div class="our_team_name_text">Kseniya Kotvits</div>
+                    </div>
+                    <div class="our_team_description">
+                        <div class="our_team_description_text">PR since 2010</br>Launched several PR campaigns on millions of users</div>
+                    </div>
+                    <div class="social_networks_wrapper">
+                        <a class="social_networks_a fb" href="https://www.facebook.com/kseniya.kotvits" target="_blank"></a>
+                    </div>
+                </div>
                 <div class="our_team_item">
                     <div class="our_team_img_wrapper">
                         <img class="our_team_img" src="img/uploads/igor_knyazev.jpg" alt="" title="">
@@ -124,6 +141,8 @@
                         <a class="social_networks_a ln" href="https://www.linkedin.com/in/sonderslim/" target="_blank"></a>
                     </div>
                 </div>
+            </div>
+            <div class="our_team_string our_team_string2">
                 <div class="our_team_item">
                     <div class="our_team_img_wrapper">
                         <img class="our_team_img" src="img/uploads/adam_joseph.jpg" alt="" title="">

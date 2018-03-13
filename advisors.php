@@ -22,6 +22,23 @@
                 </div>
                 <div class="our_team_item">
                     <div class="our_team_img_wrapper">
+                        <img class="our_team_img" src="img/uploads/alexander_noxon.jpg" alt="" title="">
+                    </div>
+                    <div class="our_team_position">
+                        <div class="our_team_position_text">Technical Advisor</div>
+                    </div>
+                    <div class="our_team_name">
+                        <div class="our_team_name_text">Alexander Noxon</div>
+                    </div>
+                    <div class="our_team_description">
+                        <div class="our_team_description_text">CTO at dao.casino Expert in ethereum dapps. In 2015 developed own trading platform connectivity Thomson Reuters.</div>
+                    </div>
+                    <div class="social_networks_wrapper">
+                        <a class="social_networks_a gh" href="https://github.com/noxonsu" target="_blank"></a>
+                    </div>
+                </div>
+                <div class="our_team_item">
+                    <div class="our_team_img_wrapper">
                         <img class="our_team_img" src="img/uploads/hans_choi.jpg" alt="" title="">
                     </div>
                     <div class="our_team_position">
@@ -54,6 +71,8 @@
                         <a class="social_networks_a ln" href="https://www.linkedin.com/in/edward-luo/" target="_blank"></a>
                     </div>
                 </div>
+            </div>
+            <div class="our_team_string our_team_string2">
                 <div class="our_team_item">
                     <div class="our_team_img_wrapper">
                         <img class="our_team_img" src="img/uploads/yan_stolyar.jpg" alt="" title="">
@@ -72,8 +91,6 @@
                         <a class="social_networks_a fb" href="https://www.facebook.com/yan.stolyar" target="_blank"></a>
                     </div>
                 </div>
-            </div>
-            <div class="our_team_string our_team_string2">
                 <div class="our_team_item">
                     <div class="our_team_img_wrapper">
                         <img class="our_team_img" src="img/uploads/sls.png" alt="" title="" onclick="window.open('https://bitcointalk.org/index.php?topic=1317448.0')">
