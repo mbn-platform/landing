@@ -4536,8 +4536,8 @@ margin-bottom: 10px;
     box-sizing: border-box;
 }
 .vision-list-item__image {
-    width: 78px;
-    height: 89px;
+    width: 92px;
+    height: 84px;
     -ms-flex-negative: 0;
     flex-shrink: 0;
     display: -webkit-box;
@@ -4554,6 +4554,16 @@ margin-bottom: 10px;
 .vision-list-item__image img {
     max-width: 100%;
     height: auto;
+    -webkit-transform: scale(.85);
+    -moz-transform: scale(.85);
+    -ms-transform: scale(.85);
+    -o-transform: scale(.85);
+    transform: scale(.85);
+    -webkit-transform-origin: center;
+    -moz-transform-origin: center;
+    -ms-transform-origin: center;
+    -o-transform-origin: center;
+    transform-origin: center;
 }
 .vision-list-item__title {
     font-size: 3em;
