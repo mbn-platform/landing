@@ -4536,8 +4536,8 @@ margin-bottom: 10px;
     box-sizing: border-box;
 }
 .vision-list-item__image {
-    width: 92px;
-    height: 105px;
+    width: 78px;
+    height: 89px;
     -ms-flex-negative: 0;
     flex-shrink: 0;
     display: -webkit-box;
@@ -4556,18 +4556,16 @@ margin-bottom: 10px;
     height: auto;
 }
 .vision-list-item__title {
-    font-size: 30px;
+    font-size: 3em;
     font-weight: 600;
-    letter-spacing: 3px;
     color: #32ba94;
     margin-bottom: 26px;
     text-transform: uppercase;
     max-width: 600px;
 }
 .vision-list-item__description {
-    font-size: 18px;
+    font-size: 1.8em;
     font-weight: 300;
-    letter-spacing: 1px;
     color: #6e718f;
     max-width: 500px;
 }
@@ -4577,7 +4575,7 @@ margin-bottom: 10px;
         margin-right: -20px;
     }
     .vision-list-item__title {
-        font-size: 21px;
+        font-size: 2.1em;
     }
 }
 @media only screen and (max-width : 1023px) {
@@ -4593,11 +4591,11 @@ margin-bottom: 10px;
         margin-bottom: 40px;
     }
     .vision-list-item__title {
-        font-size: 18px;
+        font-size: 1.8em;
         margin-bottom: 15px;
     }
     .vision-list-item__description {
-        font-size: 16px;
+        font-size: 1.6em;
     }
 }
 @media only screen and (max-width : 479px) {
@@ -4625,10 +4623,9 @@ margin-bottom: 10px;
     background-image: -webkit-linear-gradient(12deg, #4afdcb, #5da5fd);
     background-image: -o-linear-gradient(12deg, #4afdcb, #5da5fd);
     background-image: linear-gradient(78deg, #4afdcb, #5da5fd);
-    font-size: 14px;
+    font-size: 1.4em;
     font-style: normal;
     font-stretch: normal;
-    letter-spacing: 1.4px;
     text-align: center;
     color: #27283a;
     margin-top: -10px;
@@ -4639,4 +4636,10 @@ margin-bottom: 10px;
 .mobile_menu_a.-btn {
     box-shadow: none;
     margin: 0 0 5px;
+}
+
+/* Temporary pattern bg offset */
+.patterns_wrapper .pattern_boxes1,
+.patterns_wrapper .pattern_boxes2 {
+    margin-top: 1000px;
 }
