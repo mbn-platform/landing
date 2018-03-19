@@ -2327,7 +2327,8 @@ cursor: pointer;
 display: inline-block;
 position: relative;
 width: 100%;
-max-width: 600px;
+max-width: 1280px;
+max-height: 720px;
 }
 .video_wrapper.opened
 {
@@ -2337,8 +2338,10 @@ opacity: 1;
 .video_frame
 {
 display: inline-block;
-max-width: 600px;
+max-width: 1280px;
+max-height: 720px;
 width: 100%;
+height: 56.25vw;
 }
 .video_mask.opened
 {
@@ -3622,6 +3625,7 @@ z-index: 0;
 }
 .video_frame_wrapper
 {
+height: 56.25;
 width: 90%;
 }
 .arcticmodal-container_i

@@ -12,7 +12,7 @@ of digital assets'>
 
         </div>
         <div class="first_section_video_btn_wrapper">
-            <div class="first_section_video_btn video_btn_js" onclick='window.open("https://alpha.membrana.io/")'>
+            <div class="first_section_video_btn video_btn_js">
                 <div class="first_section_video_btn_text">alpha version</div>
             </div>
             <form class="join_us_form join_us_form_first feedback_form_js" name="subscribe1" method="post">

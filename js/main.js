@@ -9,31 +9,26 @@ $(document).ready(function() {
 			$('.mobile_menu_wrapper').addClass('opened');
 		}
 	})
-	// function toggleVideo(state) {
- //    // if state == 'hide', hide. Else: show video
- //    var div = document.getElementById("play");
-	//     var iframe = div.getElementsByTagName("iframe")[0].contentWindow;
-	//     div.style.display = state == 'hide' ? 'none' : '';
-	//     func = state == 'hide' ? 'pauseVideo' : 'playVideo';
-	//     iframe.postMessage('{"event":"command","func":"' + func + '","args":""}', '*');
-	// }
-	function showSubscribe(){
-		$('.first_section_video_btn').css('display', 'none');
-		$('.join_us_form_first').css('display', 'inline-block');
-	}
-	// $('.video_btn_js, .video_mask, .video_wrapper').click(function(e){
-	// 	if($('.video_mask').hasClass('opened')){
-	// 		$('.video_mask').removeClass('opened');
-	// 		$('.video_wrapper').removeClass('opened');
-	// 		toggleVideo('hide');
-	// 		showSubscribe();
-	// 	}
-	// 	else{
-	// 		$('.video_mask').addClass('opened');
-	// 		$('.video_wrapper').addClass('opened');
-	// 		toggleVideo();
-	// 	}
-	// })
+   function toggleVideo(state) {
+     // if state == 'hide', hide. Else: show video
+     var div = document.getElementById("play");
+       var iframe = div.getElementsByTagName("iframe")[0].contentWindow;
+       div.style.display = state == 'hide' ? 'none' : '';
+       func = state == 'hide' ? 'pauseVideo' : 'playVideo';
+       iframe.postMessage('{"event":"command","func":"' + func + '","args":""}', '*');
+   }
+   $('.video_btn_js, .video_mask, .video_wrapper').click(function(e){
+     if($('.video_mask').hasClass('opened')){
+       $('.video_mask').removeClass('opened');
+       $('.video_wrapper').removeClass('opened');
+       toggleVideo('hide');
+     }
+     else{
+       $('.video_mask').addClass('opened');
+       $('.video_wrapper').addClass('opened');
+       toggleVideo();
+     }
+   })
 
 	$('.page_wrapper').css('min-height', $(window).height());
 
