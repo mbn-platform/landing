@@ -83,20 +83,25 @@ $(document).ready(function() {
 		}
 		else{
 			$.ajax({
-	        	url: "../mail-sender.php",
-	        	type: "POST",
-	        	dataType: "text",
-	        	data: {
-	        		email: email
-	        	}, 
-	        	success: function(data){
-	           		$('.email_field_js').val('');
-	           		successSendResult();
-	           		$('.header_modal_ok_text_js').html(data);
-	        	}
-	    	});	
+				url: "../mail-sender.php",
+				type: "POST",
+				dataType: "json",
+				data: {
+					email: email
+				},
+				success: function(data){
+					if(data && data.result) {
+						$('.email_field_js').val('');
+						location.hash = 'success';
+						successSendResult();
+						$('.header_modal_ok_text_js').html(data.result);
+					} else {
+						successSendResult();
+						$('.header_modal_ok_text_js').html(data && data.error);
+					}
+				}
+			});
 		}
-		
 	});
 	function successSendResult(){
 		$.arcticmodal('close');
