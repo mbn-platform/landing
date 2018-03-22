@@ -213,7 +213,7 @@ header("Expires: " . date("r"));
 <div class="video_wrapper">
 	<div class="video_frame_wrapper">
 		<div class="close_video">×</div>
-		<div class="" id="play"><iframe width="1280" height="720" class="video_frame" src="https://www.youtube.com/embed/LX2KGxUVFUA?ecver=1&enablejsapi=1" frameborder="0" allowfullscreen></iframe></div>
+		<div class="" id="play"><iframe width="1280" height="720" class="video_frame" src="https://www.youtube.com/embed/NrHqh5rlClw?ecver=1&enablejsapi=1" frameborder="0" allowfullscreen></iframe></div>
 	</div>
 
 </div>
