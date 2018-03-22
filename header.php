@@ -58,6 +58,7 @@ header("Expires: " . date("r"));
   	<meta http-equiv="X-UA-Compatible" content="IE=edge">
   	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="The first trust management platform fully based on Ethereum smart contracts.">
+    <meta name="yandex-verification" content="4ebdfc97a2b8fa91" />
 	<link id="page_favicon" href="/img/favicon.ico" rel="icon" type="image/x-icon">
 	<script type="text/javascript" src="/js/yandexcounter.js"></script>
 	<noscript><div><img src="https://mc.yandex.ru/watch/47624572" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
@@ -184,6 +185,16 @@ header("Expires: " . date("r"));
       });
       setTimeout(function() { closePreloader() }, 5000)
     </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116221496-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-116221496-1');
+    </script>
 </head>
 <body>
 <div id="page-preloader">
@@ -213,7 +224,7 @@ header("Expires: " . date("r"));
 <div class="video_wrapper">
 	<div class="video_frame_wrapper">
 		<div class="close_video">×</div>
-		<div class="" id="play"><iframe width="1280" height="720" class="video_frame" src="https://www.youtube.com/embed/LX2KGxUVFUA?ecver=1&enablejsapi=1" frameborder="0" allowfullscreen></iframe></div>
+		<div class="" id="play"><iframe width="1280" height="720" class="video_frame" src="https://www.youtube.com/embed/NrHqh5rlClw?ecver=1&enablejsapi=1" frameborder="0" allowfullscreen></iframe></div>
 	</div>
 
 </div>
