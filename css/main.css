@@ -4823,3 +4823,18 @@ opacity: 0;
         top: 7300px;
     }
 }
+@media only screen and (max-width : 480px) {
+    .team_bg_wrapper {
+        top: 7460px;
+    }
+}
+@media only screen and (max-width : 400px) {
+    .team_bg_wrapper {
+        top: 7660px;
+    }
+}
+@media only screen and (max-width : 340px) {
+    .team_bg_wrapper {
+        top: 7770px;
+    }
+}
