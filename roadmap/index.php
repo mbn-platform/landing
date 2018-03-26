@@ -174,26 +174,6 @@
 					</div>
 					<div class="roadmap_right_col">
 						<div class="roadmap_col_img_wr">
-							<img class="roadmap_col_img" src="/img/roadmap_7.svg" alt="" title="">
-						</div>
-						<div class="roadmap_text_wr closed">
-							<div class="roadmap_quarter_title">ADVANCED FEATURES &amp; ROI PREDICTION SYSTEM</div>
-							<div class="roadmap_quarter_text seventh_text">
-								Adding advanced trading features to Membrana platform.
-								<ul>
-									<li>Contracts with security - additional contract type in which trader reserves HIS funds to compensate part of investor's loss, if contract is failed</li>
-									<li>Algorithmic trading orders - adding advanced order type such as iceberg orders, peg orders, trailing orders and others</li>
-									<li>News feed workshop - enable an option to upload all news related to selected currency. Users can see correlation between price and news on price chart in terminal</li>
-									<li>ROI prediction system based on collaboration with Mirocana project</li>
-								</ul>
-							</div>	
-							<div class="read_more_btn">Read more</div>
-						</div>
-					</div>
-				</div>
-				<div class="roadmap_item_string left_text clearfix">
-					<div class="roadmap_left_col clearfix">
-						<div class="roadmap_col_img_wr">
 							<img class="roadmap_col_img" src="/img/roadmap_8.svg" alt="" title="">
 						</div>
 						<div class="roadmap_text_wr closed">
@@ -204,6 +184,26 @@
 									<li>A possibility to connect to Membrana platform with own software using API protocol</li>
 									<li>One united Membrana API that provides an access to all exchanges</li>
 									<li>Remote control for all Membrana platform functions</li>
+								</ul>
+							</div>	
+							<div class="read_more_btn">Read more</div>
+						</div>
+					</div>
+				</div>
+				<div class="roadmap_item_string left_text clearfix">
+					<div class="roadmap_left_col clearfix">
+						<div class="roadmap_col_img_wr">
+							<img class="roadmap_col_img" src="/img/roadmap_7.svg" alt="" title="">
+						</div>
+						<div class="roadmap_text_wr closed">
+							<div class="roadmap_quarter_title">ADVANCED FEATURES &amp; ROI PREDICTION SYSTEM</div>
+							<div class="roadmap_quarter_text seventh_text">
+								Adding advanced trading features to Membrana platform.
+								<ul>
+									<li>Contracts with security - additional contract type in which trader reserves HIS funds to compensate part of investor's loss, if contract is failed</li>
+									<li>Algorithmic trading orders - adding advanced order type such as iceberg orders, peg orders, trailing orders and others</li>
+									<li>News feed workshop - enable an option to upload all news related to selected currency. Users can see correlation between price and news on price chart in terminal</li>
+									<li>ROI prediction system</li>
 								</ul>
 							</div>	
 							<div class="read_more_btn">Read more</div>
