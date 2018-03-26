@@ -299,7 +299,7 @@ of digital assets'>
                         <img src="./img/icon-hacken.svg" alt="">Hacken
                     </h3>
                     <div class="content-list-item__content">
-                        You can use our platform on mobile devices using Cipher Browser. Cipher Browser is the world's first full-featured mobile dapp browser and wallet for the Ethereum blockchain. Cipher allows you to interact with dapps powered by Ethereum on your mobile device and makes it easy for you to securely store, send and receive Ether and ERC20 tokens.
+                        Our security partner - Hacken, has performed Smart Contract Audit and Penetration Testing of Membrana platform. Hacken is a group of cyber-security experts and white hat hackers from all around the world, that works to bring next level of safety to blockchain projects.
                     </div>
                     <a class="content-list-item__btn six_section_btn" href="https://ethereum.org/" target="_blank">Read more</a>
                 </div>
