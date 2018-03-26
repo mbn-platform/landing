@@ -260,43 +260,49 @@ of digital assets'>
         <img class="small_pattern_12 small_pattern" src="img/small_pattern_12.png" width="123" onerror="this.onerror=null; this.src='img/small_pattern_12.png'" >
         <img class="small_pattern_13 small_pattern" src="img/small_pattern_13.png" width="150" onerror="this.onerror=null; this.src='img/small_pattern_13.png'" >
         <div class="six_section_content content_container">
-            <div class="six_section_title">
-                <img class="six_section_img" src="img/ethereum_logo.png" alt="" title="">
-            </div>
-            <div class="six_section_text_wrapper">
-                <div class="six_section_text">Membrana is built on Ethereum, a next-generation blockchain protocol that enables advanced smart contracts — agreements, that operate automatically, without the need of human control. Ethereum is decentralized and safe; it provides transparency to all operations on the platform.</div>
-            </div>
-            <div class="six_section_btn_wrapper ethereum">
-                <a class="six_section_btn" href="https://ethereum.org/" target="_blank">Read more</a>
-            </div>          
-            <div class="six_section_title metamask_logo">
-                <div class="six_section_metamask_block">
-                    <img class="six_section_img" src="img/metamask.png" alt="" title="">
-                    <div class="metamask-text">Metamask</div>                   
+            <h2 class="sections_title">Technology</h2>
+            <div class="content-list">
+                <div class="content-list-item">
+                    <h3 class="content-list-item__title">
+                        <img src="./img/icon-ethereum.svg" alt="">Ethereum
+                    </h3>
+                    <div class="content-list-item__content">
+                        Membrana is built on Ethereum, a next-generation blockchain protocol that enables advanced smart contracts — agreements, that operate automatically, without the need of human control. Ethereum is decen-tralized and safe; it provides transparency to all operations on the platform.
+                    </div>
+                    <a class="content-list-item__btn six_section_btn" href="https://ethereum.org/" target="_blank">Read more</a>
                 </div>
-
-            </div>
-            <div class="six_section_text_wrapper">
-                <div class="six_section_text">To make our platform even more secured, all processes are done with MetaMask. It is a Chrome plugin which allows you to run Ethereum DApps right in your browser, without running a full Ethereum node. MetaMask includes a secure identity vault, providing a user interface to manage and sign blockchain transactions.</div>
-            </div>          
-            <div class="six_section_btn_wrapper ethereum">
-                <a class="six_section_btn" href="https://metamask.io/" target="_blank">Read more</a>
-            </div>
-            <div class="six_section_title metamask_logo">
-                <div class="six_section_metamask_block">
-                    <img class="six_section_img cipher_logo" src="img/cipher.png" alt="" title="">
-                    <div class="metamask-text">Cipher Browser</div>                   
+                <div class="content-list-item">
+                    <h3 class="content-list-item__title">
+                        <img src="./img/icon-metamask.svg" alt="">Metamask
+                    </h3>
+                    <div class="content-list-item__content">
+                        To make our platform even more secured, all processes are done with MetaMask. It is a Chrome plugin which allows you to run Ethereum DApps right in your browser, without running a full Ethereum node. MetaMask includes a secure identity vault, providing a user interface to manage and sign blockchain transactions.
+                    </div>
+                    <a class="content-list-item__btn six_section_btn" href="https://ethereum.org/" target="_blank">Read more</a>
                 </div>
-
             </div>
-            <div class="six_section_text_wrapper">
-                <div class="six_section_text">You can use our platform on mobile devices using Cipher Browser. Cipher Browser is the world's first full-featured mobile dapp browser and wallet for the Ethereum blockchain. Cipher allows you to interact with dapps powered by Ethereum on your mobile device and makes it easy for you to securely store, send and receive Ether and ERC20 tokens.</div>
-            </div>          
-            <div class="six_section_btn_wrapper ethereum">
-                <a class="six_section_btn" href="https://www.cipherbrowser.com/" target="_blank">Read more</a>
-            </div>
-            <div class="sections_arrow_wrapper">
-                <div class="section_arrow"></div>
+        </div>
+        <div class="six_section_content content_container">
+            <h2 class="sections_title">Partners</h2>
+            <div class="content-list">
+                <div class="content-list-item">
+                    <h3 class="content-list-item__title">
+                        <img src="./img/icon-cipher.svg" alt="">Cipher Browser
+                    </h3>
+                    <div class="content-list-item__content">
+                        You can use our platform on mobile devices using Cipher Browser. Cipher Browser is the world's first full-featured mobile dapp browser and wallet for the Ethereum blockchain. Cipher allows you to interact with dapps powered by Ethereum on your mobile device and makes it easy for you to securely store, send and receive Ether and ERC20 tokens.
+                    </div>
+                    <a class="content-list-item__btn six_section_btn" href="https://ethereum.org/" target="_blank">Read more</a>
+                </div>
+                <div class="content-list-item">
+                    <h3 class="content-list-item__title">
+                        <img src="./img/icon-hacken.svg" alt="">Hacken
+                    </h3>
+                    <div class="content-list-item__content">
+                        You can use our platform on mobile devices using Cipher Browser. Cipher Browser is the world's first full-featured mobile dapp browser and wallet for the Ethereum blockchain. Cipher allows you to interact with dapps powered by Ethereum on your mobile device and makes it easy for you to securely store, send and receive Ether and ERC20 tokens.
+                    </div>
+                    <a class="content-list-item__btn six_section_btn" href="https://ethereum.org/" target="_blank">Read more</a>
+                </div>
             </div>
         </div>
     </div>

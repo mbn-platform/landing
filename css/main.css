@@ -4698,3 +4698,128 @@ opacity: 0;
         right: -25px;
     }
 }
+
+/* Technology & Partners blocks */
+.content-list {
+    display: flex;
+    margin: 30px -140px 200px;
+}
+.content-list-item {
+    width: 50%;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    color: #c7cbfd;
+}
+.content-list-item__title {
+    height: 92px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4em;
+    letter-spacing: 1.7px;
+    font-weight: normal;
+    margin: 0 0 35px;
+}
+.content-list-item__title img {
+    margin-right: 28px;
+}
+.content-list-item__content {
+    line-height: 1.5;
+    font-size: 2em;
+    text-align: left;
+    width: 100%;
+    margin-bottom: 60px;
+}
+.content-list-item__btn {
+    margin-top: auto;
+    background: transparent;
+    width: 222px;
+    padding: 0;
+}
+.six_section_content {
+    margin-top: 120px;
+}
+
+@media only screen and (max-width : 1400px) {
+    .content-list {
+        margin-left: -30px;
+        margin-right: -30px;
+    }
+    .content-list-item {
+        padding: 30px;
+    }
+    .content-list-item__title {
+        font-size: 3em;
+    }
+    .content-list-item__content {
+        font-size: 1.8em;
+    }
+}
+@media only screen and (max-width : 1023px) {
+    .content-list {
+        flex-direction: column;
+        margin-bottom: 120px;
+    }
+    .content-list-item {
+        width: auto;
+        margin-bottom: 15px;
+    }
+    .content-list-item__title {
+        font-size: 2.4em;
+        height: 60px;
+    }
+    .content-list-item__title img {
+        max-height: 60px;
+        width: auto;
+        margin-right: 20px;
+    }
+    .content-list-item__content {
+        margin-bottom: 40px;
+        text-align: center;
+        font-size: 1.6em;
+    }
+
+    .six_section_content {
+        margin-top: 20px;
+    }
+}
+
+/* Fix stars background */
+.team_bg_wrapper {
+    background: url(../img/space.jpg) no-repeat 0 0;
+    min-height: 6000px;
+    top: 5140px;
+}
+.pattern_dots {
+    height: 6000px;
+}
+.our_team_string {
+    margin-bottom: 75px;
+}
+.our_team_string:last-child {
+    margin-bottom: 0;
+}
+
+@media only screen and (max-width : 1400px) {
+    .team_bg_wrapper {
+        top: 4920px;
+    }
+}
+@media only screen and (max-width : 1200px) {
+    .team_bg_wrapper {
+        top: 4700px;
+    }
+}
+@media only screen and (max-width : 1023px) {
+    .team_bg_wrapper {
+        top: 4800px;
+    }
+}
+@media only screen and (max-width : 640px) {
+    .team_bg_wrapper {
+        top: 7300px;
+    }
+}
