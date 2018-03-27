@@ -4805,36 +4805,79 @@ opacity: 0;
 
 @media only screen and (max-width : 1400px) {
     .team_bg_wrapper {
-        top: 4920px;
+        top: 4740px;
     }
 }
 @media only screen and (max-width : 1200px) {
     .team_bg_wrapper {
-        top: 4700px;
+        top: 4500px;
     }
 }
 @media only screen and (max-width : 1023px) {
     .team_bg_wrapper {
-        top: 4800px;
+        top: 4620px;
     }
 }
 @media only screen and (max-width : 640px) {
     .team_bg_wrapper {
-        top: 7300px;
+        top: 7120px;
     }
 }
 @media only screen and (max-width : 480px) {
     .team_bg_wrapper {
-        top: 7460px;
+        top: 7280px;
     }
 }
 @media only screen and (max-width : 400px) {
     .team_bg_wrapper {
-        top: 7660px;
+        top: 7480px;
     }
 }
 @media only screen and (max-width : 340px) {
     .team_bg_wrapper {
-        top: 7770px;
+        top: 7590px;
+    }
+}
+
+
+/* Add more social icons */
+.join_us_a.golos:after {
+    background: url(../img/join_golos.svg) no-repeat center center;
+}
+.join_us_a.golos:before {
+    background: url(../img/join_golos-hover.svg) no-repeat center center;
+}
+.join_us_a.reddit:after {
+    background: url(../img/join_reddit.svg) no-repeat center center;
+}
+.join_us_a.reddit:before {
+    background: url(../img/join_reddit-hover.svg) no-repeat center center;
+}
+.join_us_a.linkedin:after {
+    background: url(../img/join_linkedin.svg) no-repeat center center;
+}
+.join_us_a.linkedin:before {
+    background: url(../img/join_linkedin-hover.svg) no-repeat center center;
+}
+
+.join_us_a.golos,
+.join_us_a.golos:after,
+.join_us_a.golos:before,
+.join_us_a.reddit,
+.join_us_a.reddit:after,
+.join_us_a.reddit:before,
+.join_us_a.linkedin,
+.join_us_a.linkedin:after,
+.join_us_a.linkedin:before {
+    background-size: contain;
+}
+
+@media only screen and (max-width: 600px) {
+    .join_us_a {
+        margin: 0 5px;
+    }
+    .join_us_a, .join_us_a:before, .join_us_a:after {
+        width: 20px;
+        height: 20px;
     }
 }

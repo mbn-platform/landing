@@ -17,10 +17,13 @@
 		</div>
 		<?if($_SERVER['REQUEST_URI'] != '/contacts/'):?>
 			<div class="join_us_networks_wrapper">
-				<a class="join_us_a twitter" href="https://twitter.com/membrana_io" target="_blank"></a>
 				<a class="join_us_a telegram" href="https://t.me/membrana_io" target="_blank"></a>
-				<a class="join_us_a facebook" href="https://fb.me/membrana.io" target="_blank"></a>
 				<a class="join_us_a medium" href="https://medium.com/@membrana" target="_blank"></a>
+				<a class="join_us_a twitter" href="https://twitter.com/membrana_io" target="_blank"></a>
+				<a class="join_us_a reddit" href="https://www.reddit.com/user/Membrana_Platform/" target="_blank"></a>
+				<a class="join_us_a golos" href="https://golos.io/@membrana-io/" target="_blank"></a>
+				<a class="join_us_a linkedin" href="https://www.linkedin.com/company/membrana-io/" target="_blank"></a>
+				<a class="join_us_a facebook" href="https://www.facebook.com/membrana.io/" target="_blank"></a>
 				<a class="join_us_a github" href="https://github.com/MembranaPlatform" target="_blank"></a>
 			</div>
 			<div class="membrana_email"><a class="contacts_email" href="mailto:info@membrana.io">info@membrana.io</a></div>

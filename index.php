@@ -269,7 +269,6 @@ of digital assets'>
                     <div class="content-list-item__content">
                         Membrana is built on Ethereum, a next-generation blockchain protocol that enables advanced smart contracts — agreements, that operate automatically, without the need of human control. Ethereum is decen-tralized and safe; it provides transparency to all operations on the platform.
                     </div>
-                    <a class="content-list-item__btn six_section_btn" href="https://ethereum.org/" target="_blank">Read more</a>
                 </div>
                 <div class="content-list-item">
                     <h3 class="content-list-item__title">
@@ -278,7 +277,6 @@ of digital assets'>
                     <div class="content-list-item__content">
                         To make our platform even more secured, all processes are done with MetaMask. It is a Chrome plugin which allows you to run Ethereum DApps right in your browser, without running a full Ethereum node. MetaMask includes a secure identity vault, providing a user interface to manage and sign blockchain transactions.
                     </div>
-                    <a class="content-list-item__btn six_section_btn" href="https://ethereum.org/" target="_blank">Read more</a>
                 </div>
             </div>
         </div>
@@ -292,7 +290,6 @@ of digital assets'>
                     <div class="content-list-item__content">
                         You can use our platform on mobile devices using Cipher Browser. Cipher Browser is the world's first full-featured mobile dapp browser and wallet for the Ethereum blockchain. Cipher allows you to interact with dapps powered by Ethereum on your mobile device and makes it easy for you to securely store, send and receive Ether and ERC20 tokens.
                     </div>
-                    <a class="content-list-item__btn six_section_btn" href="https://ethereum.org/" target="_blank">Read more</a>
                 </div>
                 <div class="content-list-item">
                     <h3 class="content-list-item__title">
@@ -301,7 +298,6 @@ of digital assets'>
                     <div class="content-list-item__content">
                         Our security partner - Hacken, has performed Smart Contract Audit and Penetration Testing of Membrana platform. Hacken is a group of cyber-security experts and white hat hackers from all around the world, that works to bring next level of safety to blockchain projects.
                     </div>
-                    <a class="content-list-item__btn six_section_btn" href="https://ethereum.org/" target="_blank">Read more</a>
                 </div>
             </div>
         </div>
