@@ -4859,6 +4859,12 @@ opacity: 0;
 .join_us_a.linkedin:before {
     background: url(../img/join_linkedin-hover.svg) no-repeat center center;
 }
+.join_us_a.bitcointalk:after {
+    background: url(../img/join_bitcointalk.svg) no-repeat center center;
+}
+.join_us_a.bitcointalk:before {
+    background: url(../img/join_bitcointalk-hover.svg) no-repeat center center;
+}
 
 .join_us_a.golos,
 .join_us_a.golos:after,
@@ -4866,6 +4872,9 @@ opacity: 0;
 .join_us_a.reddit,
 .join_us_a.reddit:after,
 .join_us_a.reddit:before,
+.join_us_a.bitcointalk,
+.join_us_a.bitcointalk:after,
+.join_us_a.bitcointalk:before,
 .join_us_a.linkedin,
 .join_us_a.linkedin:after,
 .join_us_a.linkedin:before {
@@ -4882,9 +4891,34 @@ opacity: 0;
     }
 }
 
+.first_section_wrapper .join_us_networks_wrapper {
+    margin: -5px 0 55px;
+}
 .first_section_text {
     max-width: 770px;
 }
 .first_section_text b {
     color: #c7cbfd;
+}
+
+@media only screen and (max-width: 1200px) {
+    .first_section_wrapper {
+        padding-top: 120px;
+        min-height: 900px;
+        background-size: 1600px;
+    }
+    .first_section_wrapper .join_us_networks_wrapper {
+        margin: -10px 0 35px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .first_section_wrapper {
+        padding-top: 120px;
+        min-height: 800px;
+        background-size: 1400px;
+    }
+    .first_section_wrapper .join_us_networks_wrapper {
+        margin: -10px 0 35px;
+    }
 }
