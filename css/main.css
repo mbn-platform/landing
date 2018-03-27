@@ -4881,3 +4881,10 @@ opacity: 0;
         height: 20px;
     }
 }
+
+.first_section_text {
+    max-width: 770px;
+}
+.first_section_text b {
+    color: #c7cbfd;
+}

@@ -28,7 +28,11 @@ of digital assets'>
             </form>
         </div>
         <div class="first_section_text_wrapper">
-            <div class="first_section_text">THE FIRST TRUST MANAGEMENT PLATFORM FULLY BUILT ON BLOCKCHAIN TECHNOLOGY</div>  
+            <div class="first_section_text">
+                JOIN THE FIRST TRUST MANAGEMENT PLATFORM FULLY BUILT
+                <nobr>ON BLOCKCHAIN</nobr> TECHNOLOGY AND TRADE <b>WITHOUT FEE</b>
+                AS EARLY ADOPTER
+            </div>
         </div>
         <div class="sections_arrow_wrapper">
             <div class="section_arrow section_arrow_point"></div>
