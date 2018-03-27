@@ -34,12 +34,14 @@ of digital assets'>
                 AS EARLY ADOPTER
             </div>
         </div>
+        <div class="join_us_networks_wrapper">
+            <a class="join_us_a telegram" href="https://t.me/membrana_io" target="_blank"></a>
+            <a class="join_us_a medium" href="https://medium.com/@membrana" target="_blank"></a>
+            <a class="join_us_a bitcointalk" href="https://bitcointalk.org/index.php?topic=3119562.new#new" target="_blank"></a>
+        </div>
         <div class="sections_arrow_wrapper">
             <div class="section_arrow section_arrow_point"></div>
         </div>
-    </div>
-    <div class="first_section_line_wrapper">
-        <div class="first_section_line"></div>
     </div>
 </div>
 <div class="patterns_wrapper">
@@ -271,7 +273,7 @@ of digital assets'>
                         <img src="./img/icon-ethereum.svg" alt="">Ethereum
                     </h3>
                     <div class="content-list-item__content">
-                        Membrana is built on Ethereum, a next-generation blockchain protocol that enables advanced smart contracts — agreements, that operate automatically, without the need of human control. Ethereum is decen-tralized and safe; it provides transparency to all operations on the platform.
+                        Membrana is built on Ethereum, a next-generation blockchain protocol that enables advanced smart contracts — agreements, that operate automatically, without the need of human control. Ethereum is decentralized and safe; it provides transparency to all operations on the platform.
                     </div>
                 </div>
                 <div class="content-list-item">
