@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="94px" viewBox="0 0 60 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-page" transform="translate(-397.000000, -4916.000000)">
+            <g id="technology" transform="translate(230.000000, 4774.000000)">
+                <g id="ethereum" transform="translate(0.000000, 142.000000)">
+                    <g id="Page-1" transform="translate(167.000000, 0.000000)">
+                        <polygon id="Fill-1" fill="#8A92B2" points="30 0 0 47.1440329 30 64"></polygon>
+                        <polygon id="Fill-2" fill="#62688F" points="30 0 30 64 60 47.1440329"></polygon>
+                        <polygon id="Fill-3" fill="#8A92B2" points="30 94 30 70.0354184 0 53"></polygon>
+                        <polygon id="Fill-4" fill="#62688F" points="30 70.0352621 30 94 60 53"></polygon>
+                        <polygon id="Fill-5" fill="#62688F" points="0 47.7852495 30 65 30 34"></polygon>
+                        <polygon id="Fill-6" fill="#454A75" points="30 65 60 47.7851001 30 34"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
