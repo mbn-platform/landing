@@ -31,7 +31,7 @@
                         <div class="our_team_name_text">Alexander Noxon</div>
                     </div>
                     <div class="our_team_description">
-                        <div class="our_team_description_text">CTO at dao.casino Expert in ethereum dapps. In 2015 developed own trading platform connectivity Thomson Reuters.</div>
+                        <div class="our_team_description_text">Expert cryptodeveloper since 2015.<br>10+ experience at IT.</div>
                     </div>
                     <div class="social_networks_wrapper">
                         <a class="social_networks_a gh" href="https://github.com/noxonsu" target="_blank"></a>
